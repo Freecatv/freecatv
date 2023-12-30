@@ -1,0 +1,140 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hGR81WXv/GTV.png" group-title="TV-1", GTV
+http://172.31.0.2/hls/Gazi-TV.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MKW1TbhM/Channel-I.png" group-title="TV-1", Channel I
+http://172.31.0.2/hls/Channel-I.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fRcCFRnm/Somoy-TV.png" group-title="TV-1", Somoy TV
+http://172.31.0.2/hls/Somoy-Tv.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7ZYTsmq1/Jamuna-TV.png" group-title="TV-1", Jamuna TV
+http://172.31.0.2/hls/Jamuna-Tv.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Hk9KM2Lq/Independent.png" group-title="TV-1", Independent
+http://172.31.0.2/hls/Independent.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hhRJwtzw/Nagorik-TV.png" group-title="TV-1", Nagorik
+http://172.31.0.2/hls/NAGORIK-TV.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gJPvXpKG/Shobuy-Prime.png" group-title="TV-1", Shobuy Prime
+http://103.81.104.51/hls/sptv.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/K8v2PQKX/Zee-Bangla-HD.png" group-title="TV-1", Zee Bangla HD
+http://172.31.0.2/hls/ZEE-BANGLA-HD.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8ctyNdTW/Zee-Bangla-Cinema.png" group-title="TV-1", Zee Bangla Cinema
+http://172.31.0.2/hls/Zee-Bangla-Cinema.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yYnq89LL/Star-Jalsha.png" group-title="TV-1", Star Jalsha HD
+http://172.31.0.2/hls/STAR-JALSHA.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RZjgSZxP/Jalsha-Movies-HD.png" group-title="TV-1", Jalsha Movies HD
+http://172.31.0.2/hls/STAR-JALSHA-MOVIES.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4xcPv5j/Colors-Bangla-HD.png" group-title="TV-1", Colors Bangla HD
+http://172.31.0.2/hls/COLORS-BANGLA.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SNzzwJ9R/Colors-Bangla-Cinema.png" group-title="TV-1", Colors Bangla Cinema
+http://172.31.0.2/hls/COLORS-B-CINEMA.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQ36Nv5w/Sun-Bangla.png" group-title="TV-1", Sun Bangla
+http://172.31.0.2/hls/Sun-Bangla.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qv9kBsrP/Sony-Aath.png" group-title="TV-1", Sony Aath
+http://172.31.0.2/hls/Sony-Aath.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pT5ZwkX6/Sony-Bangla-Cinema.png" group-title="TV-1", Sony Bangla Cinema HD
+http://172.31.0.2/hls/Sony-Cinema.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/dtVdGYCq/Zee-TV.png" group-title="TV-1", Zee TV
+http://172.31.0.2/hls/Zee-Tv.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kMFFxshy/Zee-Cinema-HD.png" group-title="TV-1", Zee Cinema HD
+http://172.31.0.2/hls/Zee-Cinema-HD.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QCbkGcp7/Star-Plus-HD.png" group-title="TV-1", Star Plus HD
+http://172.31.0.2/hls/Star-Plus-HD.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d1JhMpnW/Star-Gold.png" group-title="TV-1", Star Gold HD
+http://172.31.0.2/hls/STAR-GOLD-HD.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L8c81vcz/Star-Gold-2-HD.png" group-title="TV-1", Star Gold HD 2
+http://172.31.0.2/hls/STAR-GOLD-2.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SsrSH4Jr/Star-Gold-Select-HD.png" group-title="TV-1", Star Gold Select HD
+http://172.31.0.2/hls/STAR-GOLD-SELECT-HD.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L67HcN6r/Star-Gold-Romance.png" group-title="TV-1", Star Gold Romance
+http://172.31.0.2/hls/ENTERR10.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4y2JFtM/Sony-TV.png" group-title="TV-1", Sony HD
+http://172.31.0.2/hls/Sony-Entertainment.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pdft23qj/Sony-Max.png" group-title="TV-1", Sony MAX
+http://172.31.0.2/hls/Sony-Max-HD.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZqpNzrmq/Colors-HD.png" group-title="TV-1", Colors HD
+http://172.31.0.2/hls/Colors-Hindi-HD.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnMwbQLW/Colors-Cineplex-HD.png" group-title="TV-1", Colors Cineplex HD
+http://172.31.0.2/hls/Colors-Cineplex.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/2SBbn4Vx/Picture.png" group-title="TV-1", &Pictures HD
+http://172.31.0.2/hls/And-pictures-HD.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d1qv2f4T/xplor-HD.png" group-title="TV-1", &Xplor HD
+http://172.31.0.2/hls/BINDDAS.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8827zrf/Gold-Mines.png" group-title="TV-1", Goldmines
+http://172.31.0.2/hls/Goldmines.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W1k4KTmm/Star-Movies.png" group-title="TV-1", Star Movies
+http://172.31.0.2/hls/STAR-MOVIES-HD.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DytTj0xh/Star-Movies-Select-HD.png" group-title="TV-1", Star Movies Select HD
+http://172.31.0.2/hls/Star-Select-Hd.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gJz1Gjw9/Sony-Pix.png" group-title="TV-1", Sony Pix HD
+http://172.31.0.2/hls/SONY-PIX-HD.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5t524gR6/MNX.png" group-title="TV-1", MNX HD
+http://172.31.0.2/hls/Mnx-HD.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nhgfRRbc/MN-HD.png" group-title="TV-1", MN+ HD
+http://172.31.0.2/hls/MN-PLUS-HD.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vT3pWXty/Movies-Now-HD.png" group-title="TV-1", Movies Now HD
+http://172.31.0.2/hls/MOVIES-NOW-HD.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/q7GHvL4B/Flix.png" group-title="TV-1", &flix HD
+http://172.31.0.2/hls/And-Flix-Hd.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RhNkGxfq/prive-hd.png" group-title="TV-1", &Prive HD
+http://172.31.0.2/hls/And-Prive-HD.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bJgV1mgG/Net-Geo.png" group-title="TV-1", National Geographic
+http://172.31.0.2/hls/National-Geographi-HD.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Wzf9HtQT/Net-Geo-Wild.png" group-title="TV-1", Nat Geo Wild
+http://172.31.0.2/hls/TLC-HD.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5tvZQ5Dv/Animal-Planet.png" group-title="TV-1", Animal Planet HD
+http://172.31.0.2/hls/Animal-Planent.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kGMZH0GF/Discovery.png" group-title="TV-1", Discovery HD
+http://172.31.0.2/hls/Discovery-HD.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mZnfkhf9/BBC-earth.png" group-title="TV-1", BBC Earth
+http://172.31.0.2/hls/BBC-Earth-HD.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NfSJ896x/Travel-XP.png" group-title="TV-1", Travel XP HD
+http://172.31.0.2/hls/Travelxp.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7YTv2DwW/TLC.png" group-title="TV-1", TLC
+http://172.31.0.2/hls/Wild-HD.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bYxk9rSs/BBC-World.png" group-title="TV-1", BBC World News
+http://172.31.0.2/hls/BBC-NEWS.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/85C9PgZw/Ajjazeera.png" group-title="TV-1", Aljazeera
+http://172.31.0.2/hls/Aljazeera-English.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Z56Q3ppt/Sony-Sports-Ten-1.png" group-title="TV-1",  Sony Sports 1
+http://172.31.0.2/hls/SONY-TEN-1.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wxP4G0kY/Sony-Sports-Ten-2.png" group-title="TV-1", Sony Sports 2
+http://172.31.0.2/hls/Sony-Ten-2.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tTJDrxZg/Sony-Sports-Ten-3.png" group-title="TV-1", Sony Sports 3
+http://172.31.0.2/hls/Sony-Ten-3.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/KYvd24k6/Sony-Sports-Ten-5.png" group-title="TV-1", Sony Sports 5
+http://172.31.0.2/hls/SONY-TEN-5.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/02wQX7qX/Star-Sports-1.png" group-title="TV-1", Star Sports 1 HD
+http://172.31.0.2/hls/STAR-SPORTS-1-HD.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FK9HKqkw/Star-Sports-2.png" group-title="TV-1", Star Sports 2 HD
+http://172.31.0.2/hls/Star-Sports-2-HD.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sxp2xRKd/Star-Sports-3.png" group-title="TV-1", Star Sports 3
+http://172.31.0.2/hls/STAR-SPORTS-3.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQB6G4X2/Star-Select-HD-1.png" group-title="TV-1", Star Sports Select 1 HD
+http://172.31.0.2/hls/Select-1.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DwCw86QZ/Star-Select-HD-2.png" group-title="TV-1", Star Sports Select 2 HD
+http://172.31.0.2/hls/Select-2.m3u8
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/Lsx68kGc/PTV-Sports.png" group-title="TV-1", PTV Sports
+http://172.31.0.2/hls/PTV-Sports.m3u8
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/Z5rW4dbm/sports18-edited.jpg" group-title="TV-1", Sports 18 HD
+http://172.31.0.2/hls/SPORTS-18-HD.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/65RWNC2q/Fast-Sports.png" group-title="TV-1", Fast Sports
+http://172.31.0.2/hls/FAST-SPORTS-HD.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bwhzYdkT/Gaanbangla-TV.png" group-title="TV-1", Gaan Bangla
+http://172.31.0.2/hls/Gaan-Bangla.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yxgV53kT/S-Bangla.png" group-title="TV-1", Sangeet Bangla
+http://172.31.0.2/hls/Sangeet-Banglaa.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L8zs2PvC/9xm.png" group-title="TV-1", 9xm
+http://172.31.0.2/hls/9xm.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SKQk85ZY/Masti.png" group-title="TV-1", Masti
+http://172.31.0.2/hls/Masti.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rp3wM9xr/Nick.png" group-title="TV-1", Nick
+http://172.31.0.2/hls/NICK.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ydkKpRCV/nickelodeon-Sonic.png" group-title="TV-1", Nicklodeon Sonic
+http://172.31.0.2/hls/Sonic.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8cvSNVC9/CN-HD.png" group-title="TV-1", Cartoon Network HD +
+http://172.31.0.2/hls/Cartoon-Network.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9QXx4KmT/Sony-Yay.png" group-title="TV-1", Sony Yay
+http://172.31.0.2/hls/SONY-YAY.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZK1mYbjx/Madani-Chennel.png" group-title="TV-1", Manadi Channel
+http://172.31.0.2/hls/Madani-Tv.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DyYZr36S/Quran-TV.png" group-title="TV-1", Quraan TV
+http://172.31.0.2/hls/Quraan-Tvv.m3u8
