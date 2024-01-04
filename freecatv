@@ -13,7 +13,7 @@ http://172.31.0.2/hls/4017.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hhRJwtzw/Nagorik-TV.png" group-title="TV-1", Nagorik
 http://172.31.0.2/hls/5007.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Green TV
-http://172.31.0.2/hls/4055.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/K8v2PQKX/Zee-Bangla-HD.png" group-title="TV-1", Zee Bangla HD
 http://172.31.0.2/hls/5048.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8ctyNdTW/Zee-Bangla-Cinema.png" group-title="TV-1", Zee Bangla Cinema
