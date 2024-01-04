@@ -8,30 +8,30 @@ http://172.31.0.2/hls/4016.m3u8
 http://172.31.0.2/hls/4010.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7ZYTsmq1/Jamuna-TV.png" group-title="TV-1", Jamuna TV
 http://172.31.0.2/hls/4005.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Hk9KM2Lq/Independent.png" group-title="TV-1", Independent
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/65zwFQvv/Ekattor-TV.png" group-title="TV-1", Ekattor TV
+http://172.31.0.2/hls/4017.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hhRJwtzw/Nagorik-TV.png" group-title="TV-1", Nagorik
 http://172.31.0.2/hls/5007.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Green TV
 http://172.31.0.2/hls/4055.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/K8v2PQKX/Zee-Bangla-HD.png" group-title="TV-1", Zee Bangla HD
-
+http://172.31.0.2/hls/5048.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8ctyNdTW/Zee-Bangla-Cinema.png" group-title="TV-1", Zee Bangla Cinema
-
+http://172.31.0.2/hls/5050.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yYnq89LL/Star-Jalsha.png" group-title="TV-1", Star Jalsha HD
-
+http://172.31.0.2/hls/5053.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RZjgSZxP/Jalsha-Movies-HD.png" group-title="TV-1", Jalsha Movies HD
-
+http://172.31.0.2/hls/5054.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W4xcPv5j/Colors-Bangla-HD.png" group-title="TV-1", Colors Bangla HD
-
+http://172.31.0.2/hls/5047.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SNzzwJ9R/Colors-Bangla-Cinema.png" group-title="TV-1", Colors Bangla Cinema
-
+http://172.31.0.2/hls/5033.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BQ36Nv5w/Sun-Bangla.png" group-title="TV-1", Sun Bangla
-
+http://172.31.0.2/hls/5051.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qv9kBsrP/Sony-Aath.png" group-title="TV-1", Sony Aath
-
+http://172.31.0.2/hls/5049.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pT5ZwkX6/Sony-Bangla-Cinema.png" group-title="TV-1", Sony Bangla Cinema HD
-
+http://172.31.0.2/hls/5040.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/dtVdGYCq/Zee-TV.png" group-title="TV-1", Zee TV
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kMFFxshy/Zee-Cinema-HD.png" group-title="TV-1", Zee Cinema HD
