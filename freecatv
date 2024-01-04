@@ -22,6 +22,8 @@ http://172.31.0.2/hls/5050.m3u8
 http://172.31.0.2/hls/5053.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RZjgSZxP/Jalsha-Movies-HD.png" group-title="TV-1", Jalsha Movies HD
 http://172.31.0.2/hls/5054.m3u8
+#EXTINF:-1 tvg-logo="", Star Bangla TV
+http://172.31.0.2/hls/5006.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W4xcPv5j/Colors-Bangla-HD.png" group-title="TV-1", Colors Bangla HD
 http://172.31.0.2/hls/5047.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SNzzwJ9R/Colors-Bangla-Cinema.png" group-title="TV-1", Colors Bangla Cinema
@@ -44,6 +46,8 @@ http://172.31.0.2/hls/5059.m3u8
 http://172.31.0.2/hls/5057.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SsrSH4Jr/Star-Gold-Select-HD.png" group-title="TV-1", Star Gold Select HD
 http://172.31.0.2/hls/5058.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV-1", Bindass
+http://172.31.0.2/hls/5041.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L67HcN6r/Star-Gold-Romance.png" group-title="TV-1", Star Gold Romance
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4y2JFtM/Sony-TV.png" group-title="TV-1", Sony HD
