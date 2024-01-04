@@ -62,10 +62,14 @@ http://172.31.0.2/hls/5039.m3u8
 http://172.31.0.2/hls/5060.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/x8827zrf/Gold-Mines.png" group-title="TV-1", Goldmines
 http://172.31.0.2/hls/4117.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV-1", Utsav Gold HD
+http://172.31.0.2/hls/5064.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV-1", Utsav Plus HD
+http://172.31.0.2/hls/5065.m3u8
 #EXTINF:-1 tvg-logo="", Colors Infinity HD
 http://172.31.0.2/hls/5028.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W1k4KTmm/Star-Movies.png" group-title="TV-1", Star Movies
-
+http://172.31.0.2/hls/5021.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DytTj0xh/Star-Movies-Select-HD.png" group-title="TV-1", Star Movies Select HD
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gJz1Gjw9/Sony-Pix.png" group-title="TV-1", Sony Pix HD
