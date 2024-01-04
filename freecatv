@@ -33,7 +33,7 @@ http://172.31.0.2/hls/5049.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pT5ZwkX6/Sony-Bangla-Cinema.png" group-title="TV-1", Sony Bangla Cinema HD
 http://172.31.0.2/hls/5040.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/dtVdGYCq/Zee-TV.png" group-title="TV-1", Zee TV
-
+http://172.31.0.2/hls/5031.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kMFFxshy/Zee-Cinema-HD.png" group-title="TV-1", Zee Cinema HD
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QCbkGcp7/Star-Plus-HD.png" group-title="TV-1", Star Plus HD
