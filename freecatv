@@ -20,7 +20,7 @@ http://172.31.0.2/hls/5050.m3u8
 http://172.31.0.2/hls/5053.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RZjgSZxP/Jalsha-Movies-HD.png" group-title="TV-1", Jalsha Movies HD
 http://172.31.0.2/hls/5054.m3u8
-#EXTINF:-1 tvg-logo="", Star Bangla TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9J1HLR/Star-Bangla.png", Star Bangla TV
 http://172.31.0.2/hls/5006.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W4xcPv5j/Colors-Bangla-HD.png" group-title="TV-1", Colors Bangla HD
 http://172.31.0.2/hls/5047.m3u8
@@ -46,7 +46,7 @@ http://172.31.0.2/hls/5059.m3u8
 http://172.31.0.2/hls/5057.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SsrSH4Jr/Star-Gold-Select-HD.png" group-title="TV-1", Star Gold Select HD
 http://172.31.0.2/hls/5058.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV-1", Bindass
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bwy5pQ6S/Bindass.png" group-title="TV-1", Bindass
 http://172.31.0.2/hls/5041.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4y2JFtM/Sony-TV.png" group-title="TV-1", Sony HD
 http://172.31.0.2/hls/5034.m3u8
@@ -62,11 +62,11 @@ http://172.31.0.2/hls/5039.m3u8
 http://172.31.0.2/hls/5060.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/x8827zrf/Gold-Mines.png" group-title="TV-1", Goldmines
 http://172.31.0.2/hls/4117.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV-1", Utsav Gold HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Wbn9Wd2N/Utsav-Gold.png" group-title="TV-1", Utsav Gold HD
 http://172.31.0.2/hls/5064.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV-1", Utsav Plus HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zGynCvvP/Utsav-Plus.png" group-title="TV-1", Utsav Plus HD
 http://172.31.0.2/hls/5065.m3u8
-#EXTINF:-1 tvg-logo="", Colors Infinity HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MG8vnpQB/Colors-Infinity.png", Colors Infinity HD
 http://172.31.0.2/hls/5028.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W1k4KTmm/Star-Movies.png" group-title="TV-1", Star Movies
 http://172.31.0.2/hls/5021.m3u8
@@ -84,12 +84,14 @@ http://172.31.0.2/hls/5018.m3u8
 http://172.31.0.2/hls/5014.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RhNkGxfq/prive-hd.png" group-title="TV-1", &Prive HD
 http://172.31.0.2/hls/5010.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV-1", Zee Cafe HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3N6wY8hd/Zee-Cafe-HD.png" group-title="TV-1", Zee Cafe HD
 http://172.31.0.2/hls/5016.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV-1", Comedy Central
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7LshmMR3/Comedy-Central.png" group-title="TV-1", Comedy Central
 http://172.31.0.2/hls/5002.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV-1", Romedy Now
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zDxTbKp1/Romedy-Now.png" group-title="TV-1", Romedy Now
 http://172.31.0.2/hls/5024.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Z58R3hZy/HBO.png" group-title="TV-1", HBO
+http://172.31.0.2/hls/5005.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bJgV1mgG/Net-Geo.png" group-title="TV-1", National Geographic
 http://172.31.0.2/hls/5036.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Wzf9HtQT/Net-Geo-Wild.png" group-title="TV-1", Nat Geo Wild
@@ -130,15 +132,15 @@ http://172.31.0.2/hls/5043.m3u8
 http://172.31.0.2/hls/4151.m3u8
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/Z5rW4dbm/sports18-edited.jpg" group-title="TV-1", Sports 18 HD
 http://172.31.0.2/hls/5062.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV-1", Euro Sport HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PqRfmfLK/Euro-Sports-HD.png" group-title="TV-1", Euro Sport HD
 http://172.31.0.2/hls/5013.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV-1", Willow Xtra
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7ZLym8rR/Willow-Xtra.png" group-title="TV-1", Willow Xtra
 http://172.31.0.2/hls/5071.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV-1", Ten Cricket
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fLY4JMYV/Ten-Cricket.png" group-title="TV-1", Ten Cricket
 http://172.31.0.2/hls/5069.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV-1", TNT Sports 2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ncF8hbrL/TNT-Sports-2.png" group-title="TV-1", TNT Sports 2
 http://172.31.0.2/hls/5075.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV-1", Jio Cricket HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qBGYYbwH/Jio-Cricket.png" group-title="TV-1", Jio Cricket HD
 http://172.31.0.2/hls/5067.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bwhzYdkT/Gaanbangla-TV.png" group-title="TV-1", Gaan Bangla
 http://172.31.0.2/hls/4018.m3u8
