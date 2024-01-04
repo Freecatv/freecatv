@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hGR81WXv/GTV.png" group-title="TV-1", GTV
-http://172.31.0.2/hls/Gazi-TV.m3u8
+http://172.31.0.2/hls/5008.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MKW1TbhM/Channel-I.png" group-title="TV-1", Channel I
 http://172.31.0.2/hls/Channel-I.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fRcCFRnm/Somoy-TV.png" group-title="TV-1", Somoy TV
