@@ -35,31 +35,31 @@ http://172.31.0.2/hls/5040.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/dtVdGYCq/Zee-TV.png" group-title="TV-1", Zee TV
 http://172.31.0.2/hls/5031.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kMFFxshy/Zee-Cinema-HD.png" group-title="TV-1", Zee Cinema HD
-
+http://172.31.0.2/hls/5032.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QCbkGcp7/Star-Plus-HD.png" group-title="TV-1", Star Plus HD
-
+http://172.31.0.2/hls/5030.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d1JhMpnW/Star-Gold.png" group-title="TV-1", Star Gold HD
-
+http://172.31.0.2/hls/5059.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L8c81vcz/Star-Gold-2-HD.png" group-title="TV-1", Star Gold HD 2
-
+http://172.31.0.2/hls/5057.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SsrSH4Jr/Star-Gold-Select-HD.png" group-title="TV-1", Star Gold Select HD
-
+http://172.31.0.2/hls/5058.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L67HcN6r/Star-Gold-Romance.png" group-title="TV-1", Star Gold Romance
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4y2JFtM/Sony-TV.png" group-title="TV-1", Sony HD
-
+http://172.31.0.2/hls/5034.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pdft23qj/Sony-Max.png" group-title="TV-1", Sony MAX
-
+http://172.31.0.2/hls/5029.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZqpNzrmq/Colors-HD.png" group-title="TV-1", Colors HD
-
+http://172.31.0.2/hls/5035.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnMwbQLW/Colors-Cineplex-HD.png" group-title="TV-1", Colors Cineplex HD
-
+http://172.31.0.2/hls/5037.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/2SBbn4Vx/Picture.png" group-title="TV-1", &Pictures HD
-
+http://172.31.0.2/hls/5039.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d1qv2f4T/xplor-HD.png" group-title="TV-1", &Xplor HD
-
+http://172.31.0.2/hls/5060.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/x8827zrf/Gold-Mines.png" group-title="TV-1", Goldmines
-
+http://172.31.0.2/hls/4117.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W1k4KTmm/Star-Movies.png" group-title="TV-1", Star Movies
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DytTj0xh/Star-Movies-Select-HD.png" group-title="TV-1", Star Movies Select HD
