@@ -32,6 +32,8 @@ http://172.31.0.2/hls/5051.m3u8
 http://172.31.0.2/hls/5049.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pT5ZwkX6/Sony-Bangla-Cinema.png" group-title="TV-1", Sony Bangla Cinema HD
 http://172.31.0.2/hls/5040.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QtpDWpzN/Enterr10.png" group-title="IPTV-1", Enterr10
+http://172.31.0.2/hls/4036.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/dtVdGYCq/Zee-TV.png" group-title="TV-1", Zee TV
 http://172.31.0.2/hls/5031.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kMFFxshy/Zee-Cinema-HD.png" group-title="TV-1", Zee Cinema HD
@@ -107,46 +109,54 @@ http://172.31.0.2/hls/5003.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/85C9PgZw/Ajjazeera.png" group-title="TV-1", Aljazeera
 http://172.31.0.2/hls/4047.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Z56Q3ppt/Sony-Sports-Ten-1.png" group-title="TV-1",  Sony Sports 1
-
+http://172.31.0.2/hls/5056.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wxP4G0kY/Sony-Sports-Ten-2.png" group-title="TV-1", Sony Sports 2
-
+http://172.31.0.2/hls/5044.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tTJDrxZg/Sony-Sports-Ten-3.png" group-title="TV-1", Sony Sports 3
-
+http://172.31.0.2/hls/5045.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KYvd24k6/Sony-Sports-Ten-5.png" group-title="TV-1", Sony Sports 5
-
+http://172.31.0.2/hls/5020.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/02wQX7qX/Star-Sports-1.png" group-title="TV-1", Star Sports 1 HD
-
+http://172.31.0.2/hls/5052.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FK9HKqkw/Star-Sports-2.png" group-title="TV-1", Star Sports 2 HD
-
+http://172.31.0.2/hls/5042.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sxp2xRKd/Star-Sports-3.png" group-title="TV-1", Star Sports 3
-
+http://172.31.0.2/hls/5019.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BQB6G4X2/Star-Select-HD-1.png" group-title="TV-1", Star Sports Select 1 HD
-
+http://172.31.0.2/hls/5055.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DwCw86QZ/Star-Select-HD-2.png" group-title="TV-1", Star Sports Select 2 HD
-
+http://172.31.0.2/hls/5043.m3u8
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/Lsx68kGc/PTV-Sports.png" group-title="TV-1", PTV Sports
-
+http://172.31.0.2/hls/4151.m3u8
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/Z5rW4dbm/sports18-edited.jpg" group-title="TV-1", Sports 18 HD
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/65RWNC2q/Fast-Sports.png" group-title="TV-1", Fast Sports
-
+http://172.31.0.2/hls/5062.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV-1", Euro Sport HD
+http://172.31.0.2/hls/5013.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV-1", Willow Xtra
+http://172.31.0.2/hls/5071.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV-1", Ten Cricket
+http://172.31.0.2/hls/5069.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV-1", TNT Sports 2
+http://172.31.0.2/hls/5075.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV-1", Jio Cricket HD
+http://172.31.0.2/hls/5067.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bwhzYdkT/Gaanbangla-TV.png" group-title="TV-1", Gaan Bangla
-
+http://172.31.0.2/hls/4018.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yxgV53kT/S-Bangla.png" group-title="TV-1", Sangeet Bangla
-
+http://172.31.0.2/hls/4120.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L8zs2PvC/9xm.png" group-title="TV-1", 9xm
-
+http://172.31.0.2/hls/4122.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SKQk85ZY/Masti.png" group-title="TV-1", Masti
-
+http://172.31.0.2/hls/4124.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rp3wM9xr/Nick.png" group-title="TV-1", Nick
-
+http://172.31.0.2/hls/5063.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ydkKpRCV/nickelodeon-Sonic.png" group-title="TV-1", Nicklodeon Sonic
-
+http://172.31.0.2/hls/5009.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8cvSNVC9/CN-HD.png" group-title="TV-1", Cartoon Network HD +
-
+http://172.31.0.2/hls/5012.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9QXx4KmT/Sony-Yay.png" group-title="TV-1", Sony Yay
-
+http://172.31.0.2/hls/5061.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZK1mYbjx/Madani-Chennel.png" group-title="TV-1", Manadi Channel
-
+http://172.31.0.2/hls/4029.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DyYZr36S/Quran-TV.png" group-title="TV-1", Quraan TV
-
+http://172.31.0.2/hls/4112.m3u8
