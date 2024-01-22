@@ -1,0 +1,52 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="" group-title="TV-1", T Sports
+https://anya-playlist.saqlainhaider.workers.dev/wanda.m3u8?id=27
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hGR81WXv/GTV.png" group-title="TV-1", GTV
+https://anya-playlist.saqlainhaider.workers.dev/wanda.m3u8?id=18
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/02wQX7qX/Star-Sports-1.png" group-title="TV-1", Star Sports 1 HD
+http://103.131.214.129:9985/stream/channelid/174631324?ticket=004A60CF88C93EE8F1AC21B45B65A92A3CDF574C&profile=pass
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FK9HKqkw/Star-Sports-2.png" group-title="TV-1", Star Sports 2 HD
+http://103.131.214.129:9985/stream/channelid/920885750?ticket=9E03AC1EF0D6D14CAB9611224B4F00F27D2054BE&profile=pass
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Z56Q3ppt/Sony-Sports-Ten-1.png" group-title="TV-1", Sony Sports 1
+http://103.131.214.129:9985/stream/channelid/226881119?ticket=18B250ECB5F35253463B95811006D360E52DFA01&profile=pass
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wxP4G0kY/Sony-Sports-Ten-2.png" group-title="TV-1", Sony Sports 2
+http://103.131.214.129:9985/stream/channelid/473383358?ticket=5D37579DA1628D018A61752441D6270AAB618A5D&profile=pass
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tTJDrxZg/Sony-Sports-Ten-3.png" group-title="TV-1", Sony Sports 3
+http://103.131.214.129:9985/stream/channelid/1236898777?ticket=9C23F52D3CF4A7188559DE5B9CC822E8C598C2B6&profile=pass
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/KYvd24k6/Sony-Sports-Ten-5.png" group-title="TV-1", Sony Sports 5
+http://103.131.214.129:9985/stream/channelid/788301201?ticket=63FAABD76708B9467CBD0A84155666CFB3086492&profile=pass
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PqRfmfLK/Euro-Sports-HD.png" group-title="TV-1", Euro Sport HD
+http://103.131.214.129:9985/stream/channelid/1479659131?ticket=03D5B1F306C884BC02531F631E2E5C315B9C4F47&profile=pass
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/Lsx68kGc/PTV-Sports.png" group-title="TV-1", PTV Sports
+http://103.131.214.129:9985/stream/channelid/776759222?ticket=EE868615429B39C3D7926B3C21D326AAB8A2D430&profile=pass
+#EXTINF:-1 tvg-logo="" group-title="TV-1", Cartoon Network
+http://103.131.214.129:9985/stream/channelid/1343860419?ticket=624A08E791A3B89FB2B0E7EA62DBEF1C319675B5&profile=pass
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rp3wM9xr/Nick.png" group-title="TV-1", Nick
+http://103.131.214.129:9985/stream/channelid/1425054071?ticket=20BA6A7A6FAB04386D8B88A253650413D26FA217&profile=pass
+#EXTINF:-1 tvg-logo="" group-title="TV-1", Pogo
+http://103.131.214.129:9985/stream/channelid/1081678798?ticket=D743A63EADBB18138AE4A4563FFFAA8F43209DD4&profile=pass
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5tvZQ5Dv/Animal-Planet.png" group-title="TV-1", Animal Planet
+http://103.131.214.129:9985/stream/channelid/1234238984?ticket=0B9A8B349A396DE1E7FF975AF1476E82A6837240&profile=pass
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kGMZH0GF/Discovery.png" group-title="TV-1", Discovery HD
+http://103.131.214.129:9985/stream/channelid/517879893?ticket=3FFA1DC25A0F4F55A6089147995DC8A619A1F852&profile=pass
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bJgV1mgG/Net-Geo.png" group-title="TV-1", Net Geo
+http://103.131.214.129:9985/stream/channelid/1351351337?ticket=9237816A51B01CF41DE9251F819D48DCB20FA645&profile=pass
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W1k4KTmm/Star-Movies.png" group-title="TV-1", Star Movies HD
+http://103.131.214.129:9985/stream/channelid/534411572?ticket=BB7BDAFE221A0AC4DA6EB8578B9653FE4ADE2028&profile=pass
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DytTj0xh/Star-Movies-Select-HD.png" group-title="TV-1", Star Movies Select HD
+http://103.131.214.129:9985/stream/channelid/39622498?ticket=00500B8217E26A568118D165DC53E3E39117319B&profile=pass
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gJz1Gjw9/Sony-Pix.png" group-title="TV-1", Sony Pix HD
+http://103.131.214.129:9985/stream/channelid/1830841723?ticket=D6CD677F2062D9BF22F49501EFFA53845096C069&profile=pass
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nhgfRRbc/MN-HD.png" group-title="TV-1", MN+ HD
+http://103.131.214.129:9985/stream/channelid/330223261?ticket=54C9878C0EADC193CD9BEBA9BE85FA4D69620D93&profile=pass
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4y2JFtM/Sony-TV.png" group-title="TV-1", Sony TV HD
+http://103.131.214.129:9985/stream/channelid/418622151?ticket=FC7B56DD50D8EAF29E5B6CE0460471D8FA026F30&profile=pass
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pdft23qj/Sony-Max.png" group-title="TV-1", Sony Max HD
+http://103.131.214.129:9985/stream/channelid/359037954?ticket=10B1E0014F374B93D5A3DC17766E5A29F794D6D4&profile=pass
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QCbkGcp7/Star-Plus-HD.png" group-title="TV-1", Star Plus HD
+http://103.131.214.129:9985/stream/channelid/57795880?ticket=CB058375A0A8330425903E528A5100B2C63F0E38&profile=pass
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZqpNzrmq/Colors-HD.png" group-title="TV-1", Colors HD
+http://103.131.214.129:9985/stream/channelid/1324610634?ticket=27CCF8C422125DB041254409883E704325BA0522&profile=pass
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/dtVdGYCq/Zee-TV.png" group-title="TV-1", Zee TV HD
+http://103.131.214.129:9985/stream/channelid/304995171?ticket=7B7DC7B101422F563F68E3A28969EBFE34211628&profile=pass
