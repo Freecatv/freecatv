@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1Rkh1cMq/Live-Logo.png" group-title="TV-1", Live
-https://t.ly/BRA-V-ENG/Zubayer-Op.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1Rkh1cMq/Live-Logo.png" group-title="TV-1", Live-1
+http://server.sibfungold.info:8080/JohnWick1971/9szv5TfjZnXQUZ6nmgU4d4ZY/52293
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hGR81WXv/GTV.png" group-title="TV-1", GTV
 http://redforce.live/hls/5008.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nzhvcPYc/T-Sports.png" group-title="TV-1", T Sports
