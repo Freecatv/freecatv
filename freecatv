@@ -106,7 +106,7 @@ http://redforce.live/hls/5062.m3u8
 http://redforce.live/hls/5003.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/85C9PgZw/Ajjazeera.png" group-title="TV-1", Aljazeera
 http://redforce.live/hls/4047.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Z56Q3ppt/Sony-Sports-Ten-1.png" group-title="TV-1",  Sony Sports 1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Z56Q3ppt/Sony-Sports-Ten-1.png" group-title="TV-1", Sony Sports 1
 http://redforce.live/hls/5056.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wxP4G0kY/Sony-Sports-Ten-2.png" group-title="TV-1", Sony Sports 2
 http://redforce.live/hls/5044.m3u8
