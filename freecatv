@@ -11,7 +11,7 @@ http://redforce.live/hls/4016.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fRcCFRnm/Somoy-TV.png" group-title="TV-1", Somoy TV
 http://redforce.live/hls/4010.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fRcCFRnm/Somoy-TV.png" group-title="TV-1", Somoy TV-2
-https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
+http://103.109.56.116/live/skyfeed1014/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7ZYTsmq1/Jamuna-TV.png" group-title="TV-1", Jamuna TV
 http://redforce.live/hls/4005.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/65zwFQvv/Ekattor-TV.png" group-title="TV-1", Ekattor TV
