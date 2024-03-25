@@ -4,8 +4,12 @@
 http://server.sibfungold.info:8080/JohnWick1971/9szv5TfjZnXQUZ6nmgU4d4ZY/52293
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1Rkh1cMq/Live-Logo.png" group-title="TV-1", Live-2
 http://xtv.ooo:8080/shahz18/18usman/167581
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1Rkh1cMq/Live-Logo.png" group-title="TV-1", Live-3 (Football)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1Rkh1cMq/Live-Logo.png" group-title="TV-1", Live-3
+http://xtv.ooo:8080/shahz18/18usman/167582
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1Rkh1cMq/Live-Logo.png" group-title="TV-1", Live-4 (Football)
 http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/61169.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1Rkh1cMq/Live-Logo.png" group-title="TV-1", Live-5 (Football)
+http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/61170.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hGR81WXv/GTV.png" group-title="TV-1", GTV
 http://redforce.live/hls/5008.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nzhvcPYc/T-Sports.png" group-title="TV-1", T Sports
