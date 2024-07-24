@@ -1,150 +1,166 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hGR81WXv/GTV.png" group-title="TV-1", GTV
-http://redforce.live/hls/5008.m3u8
+http://103.141.64.58:27872/play/a0kh/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nzhvcPYc/T-Sports.png" group-title="TV-1", T Sports
-http://103.109.56.116/live/skyfeed1005/index.m3u8
+http://103.141.64.58:27872/play/a0kv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MKW1TbhM/Channel-I.png" group-title="TV-1", Channel I
-http://redforce.live/hls/4016.m3u8
+http://103.141.64.58:27872/play/a0ka/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fRcCFRnm/Somoy-TV.png" group-title="TV-1", Somoy TV
-http://redforce.live/hls/4010.m3u8
+http://103.141.64.58:27872/play/a0kd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7ZYTsmq1/Jamuna-TV.png" group-title="TV-1", Jamuna TV
-http://redforce.live/hls/4005.m3u8
+http://103.141.64.58:27872/play/a0kj/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/65zwFQvv/Ekattor-TV.png" group-title="TV-1", Ekattor TV
-http://redforce.live/hls/4017.m3u8
+http://103.141.64.58:27872/play/a0ki/index.m3u8
+#EXTINF:-1 tvg-logo="http://103.141.64.58:27872/iqflix/tvg-logo/a0kf.png" group-title="TV-1",Maasranga TV HD
+http://103.141.64.58:27872/play/a0kf/index.m3u8
+#EXTINF:-1 tvg-logo="http://103.141.64.58:27872/iqflix/tvg-logo/a0kp.png" group-title="TV-1",Channel 9 HD
+http://103.141.64.58:27872/play/a0kp/index.m3u8
+#EXTINF:-1 tvg-logo="http://103.141.64.58:27872/iqflix/tvg-logo/a0kg.png" group-title="TV-1",Channel 24 HD
+http://103.141.64.58:27872/play/a0kg/index.m3u8
+#EXTINF:-1 tvg-logo="http://103.141.64.58:27872/iqflix/tvg-logo/a0kk.png" group-title="TV-1",Deepto TV HD
+http://103.141.64.58:27872/play/a0kk/index.m3u8
+#EXTINF:-1 tvg-logo="http://103.141.64.58:27872/iqflix/tvg-logo/a0kl.png" group-title="TV-1",DBC News HD
+http://103.141.64.58:27872/play/a0kl/index.m3u8
+#EXTINF:-1 tvg-logo="http://103.141.64.58:27872/iqflix/tvg-logo/a0km.png" group-title="TV-1",News 24 HD
+http://103.141.64.58:27872/play/a0km/index.m3u8
+#EXTINF:-1 tvg-logo="http://103.141.64.58:27872/iqflix/tvg-logo/a0kn.png" group-title="TV-1",Duronto TV HD
+http://103.141.64.58:27872/play/a0kn/index.m3u8
+#EXTINF:-1 tvg-logo="http://103.141.64.58:27872/iqflix/tvg-logo/a0n2.png" group-title="TV-1",Nagorik TV HD
+http://103.141.64.58:27872/play/a0n2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/K8v2PQKX/Zee-Bangla-HD.png" group-title="TV-1", Zee Bangla HD
-http://redforce.live/hls/5048.m3u8
+http://103.141.64.58:27872/play/a01f/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8ctyNdTW/Zee-Bangla-Cinema.png" group-title="TV-1", Zee Bangla Cinema
-http://redforce.live/hls/5050.m3u8
+http://103.141.64.58:27872/play/a00y/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yYnq89LL/Star-Jalsha.png" group-title="TV-1", Star Jalsha HD
-http://redforce.live/hls/5053.m3u8
+http://103.141.64.58:27872/play/a032/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RZjgSZxP/Jalsha-Movies-HD.png" group-title="TV-1", Jalsha Movies HD
-http://redforce.live/hls/5054.m3u8
+http://103.141.64.58:27872/play/a07e/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W4xcPv5j/Colors-Bangla-HD.png" group-title="TV-1", Colors Bangla HD
-http://redforce.live/hls/5047.m3u8
+http://103.141.64.58:27872/play/a017/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SNzzwJ9R/Colors-Bangla-Cinema.png" group-title="TV-1", Colors Bangla Cinema
-http://redforce.live/hls/5033.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BQ36Nv5w/Sun-Bangla.png" group-title="TV-1", Sun Bangla
-http://redforce.live/hls/5051.m3u8
+http://103.141.64.58:27872/play/a0l5/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qv9kBsrP/Sony-Aath.png" group-title="TV-1", Sony Aath
-http://redforce.live/hls/5049.m3u8
+http://103.141.64.58:27872/play/a0l4/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QtpDWpzN/Enterr10.png" group-title="TV-1", Enterr10
-http://redforce.live/hls/4036.m3u8
+http://103.141.64.58:27872/play/a0l6/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/dtVdGYCq/Zee-TV.png" group-title="TV-1", Zee TV
-http://redforce.live/hls/5031.m3u8
+http://103.141.64.58:27872/play/a00l/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kMFFxshy/Zee-Cinema-HD.png" group-title="TV-1", Zee Cinema HD
-http://redforce.live/hls/5032.m3u8
+http://103.141.64.58:27872/play/a0b8/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QCbkGcp7/Star-Plus-HD.png" group-title="TV-1", Star Plus HD
-http://redforce.live/hls/5030.m3u8
+http://103.141.64.58:27872/play/a0gi/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d1JhMpnW/Star-Gold.png" group-title="TV-1", Star Gold HD
-http://redforce.live/hls/5028.m3u8
+http://103.141.64.58:27872/play/a075/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L8c81vcz/Star-Gold-2-HD.png" group-title="TV-1", Star Gold HD 2
-http://redforce.live/hls/5063.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SsrSH4Jr/Star-Gold-Select-HD.png" group-title="TV-1", Star Gold Select HD
-http://redforce.live/hls/5058.m3u8
+http://103.141.64.58:27872/play/a0l8/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4y2JFtM/Sony-TV.png" group-title="TV-1", Sony HD
-http://redforce.live/hls/5034.m3u8
+http://103.141.64.58:27872/play/a00o/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pdft23qj/Sony-Max.png" group-title="TV-1", Sony MAX
-http://redforce.live/hls/5029.m3u8
+http://103.141.64.58:27872/play/a073/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZqpNzrmq/Colors-HD.png" group-title="TV-1", Colors HD
-http://redforce.live/hls/5035.m3u8
+http://103.141.64.58:27872/play/a0gk/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnMwbQLW/Colors-Cineplex-HD.png" group-title="TV-1", Colors Cineplex HD
-http://redforce.live/hls/5037.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/2SBbn4Vx/Picture.png" group-title="TV-1", &Pictures HD
-http://redforce.live/hls/5039.m3u8
+http://103.141.64.58:27872/play/a01u/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d1qv2f4T/xplor-HD.png" group-title="TV-1", &Xplor HD
-http://redforce.live/hls/5060.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/x8827zrf/Gold-Mines.png" group-title="TV-1", Goldmines
-http://redforce.live/hls/4117.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Wbn9Wd2N/Utsav-Gold.png" group-title="TV-1", Utsav Gold HD
-http://redforce.live/hls/5064.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zGynCvvP/Utsav-Plus.png" group-title="TV-1", Utsav Plus HD
-http://redforce.live/hls/5065.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MG8vnpQB/Colors-Infinity.png", Colors Infinity HD
-http://redforce.live/hls/5061.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W1k4KTmm/Star-Movies.png" group-title="TV-1", Star Movies
-http://redforce.live/hls/5021.m3u8
+http://103.141.64.58:27872/play/a0az/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DytTj0xh/Star-Movies-Select-HD.png" group-title="TV-1", Star Movies Select HD
-http://redforce.live/hls/5011.m3u8
+http://103.141.64.58:27872/play/a0lw/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gJz1Gjw9/Sony-Pix.png" group-title="TV-1", Sony Pix HD
-http://redforce.live/hls/5022.m3u8
+http://103.141.64.58:27872/play/a01t/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5t524gR6/MNX.png" group-title="TV-1", MNX HD
-http://redforce.live/hls/5009.m3u8
+http://103.141.64.58:27872/play/a0m4/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nhgfRRbc/MN-HD.png" group-title="TV-1", MN+ HD
-http://redforce.live/hls/5015.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vT3pWXty/Movies-Now-HD.png" group-title="TV-1", Movies Now HD
-http://redforce.live/hls/5018.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/q7GHvL4B/Flix.png" group-title="TV-1", &flix HD
-http://redforce.live/hls/5014.m3u8
+http://103.141.64.58:27872/play/a00h/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RhNkGxfq/prive-hd.png" group-title="TV-1", &Prive HD
-http://redforce.live/hls/5010.m3u8
+http://103.141.64.58:27872/play/a0n6/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3N6wY8hd/Zee-Cafe-HD.png" group-title="TV-1", Zee Cafe HD
-http://redforce.live/hls/5016.m3u8
+http://103.141.64.58:27872/play/a0lx/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7LshmMR3/Comedy-Central.png" group-title="TV-1", Comedy Central
-http://redforce.live/hls/5057.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zDxTbKp1/Romedy-Now.png" group-title="TV-1", Romedy Now
-http://redforce.live/hls/5059.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Z58R3hZy/HBO.png" group-title="TV-1", HBO
-http://redforce.live/hls/5005.m3u8
+http://103.141.64.58:27872/play/a07v/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bJgV1mgG/Net-Geo.png" group-title="TV-1", National Geographic
-http://redforce.live/hls/5036.m3u8
+http://103.141.64.58:27872/play/a0hy/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Wzf9HtQT/Net-Geo-Wild.png" group-title="TV-1", Nat Geo Wild
-http://redforce.live/hls/5027.m3u8
+http://103.141.64.58:27872/play/a0li/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5tvZQ5Dv/Animal-Planet.png" group-title="TV-1", Animal Planet HD
-http://redforce.live/hls/5025.m3u8
+http://103.141.64.58:27872/play/a0h8/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kGMZH0GF/Discovery.png" group-title="TV-1", Discovery HD
-http://redforce.live/hls/5026.m3u8
+http://103.141.64.58:27872/play/a0a2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mZnfkhf9/BBC-earth.png" group-title="TV-1", BBC Earth
-http://redforce.live/hls/5038.m3u8
+http://103.141.64.58:27872/play/a09z/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NfSJ896x/Travel-XP.png" group-title="TV-1", Travel XP HD
-http://redforce.live/hls/5046.m3u8
+http://103.141.64.58:27872/play/a0n4/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7YTv2DwW/TLC.png" group-title="TV-1", TLC
-http://redforce.live/hls/5062.m3u8
+http://103.141.64.58:27872/play/a0lm/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bYxk9rSs/BBC-World.png" group-title="TV-1", BBC World News
-http://redforce.live/hls/5003.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/85C9PgZw/Ajjazeera.png" group-title="TV-1", Aljazeera
-http://redforce.live/hls/4047.m3u8
+http://103.141.64.58:27872/play/a0l0/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Z56Q3ppt/Sony-Sports-Ten-1.png" group-title="TV-1", Sony Sports 1
-http://redforce.live/hls/5056.m3u8
+http://103.141.64.58:27872/play/a0fz/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wxP4G0kY/Sony-Sports-Ten-2.png" group-title="TV-1", Sony Sports 2
-http://redforce.live/hls/5044.m3u8
+http://103.141.64.58:27872/play/a0g0/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tTJDrxZg/Sony-Sports-Ten-3.png" group-title="TV-1", Sony Sports 3
-http://redforce.live/hls/5045.m3u8
+http://103.141.64.58:27872/play/a01i/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KYvd24k6/Sony-Sports-Ten-5.png" group-title="TV-1", Sony Sports 5
-http://redforce.live/hls/5020.m3u8
+http://103.141.64.58:27872/play/a0fp/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/02wQX7qX/Star-Sports-1.png" group-title="TV-1", Star Sports 1 HD
-http://redforce.live/hls/5052.m3u8
+http://103.141.64.58:27872/play/a0fw/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FK9HKqkw/Star-Sports-2.png" group-title="TV-1", Star Sports 2 HD
-http://redforce.live/hls/5042.m3u8
+http://103.141.64.58:27872/play/a0fx/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sxp2xRKd/Star-Sports-3.png" group-title="TV-1", Star Sports 3
-http://redforce.live/hls/5019.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BQB6G4X2/Star-Select-HD-1.png" group-title="TV-1", Star Sports Select 1 HD
-http://redforce.live/hls/5055.m3u8
+http://103.141.64.58:27872/play/a01w/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DwCw86QZ/Star-Select-HD-2.png" group-title="TV-1", Star Sports Select 2 HD
-http://redforce.live/hls/5043.m3u8
+http://103.141.64.58:27872/play/a01x/index.m3u8
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/Lsx68kGc/PTV-Sports.png" group-title="TV-1", PTV Sports
-http://redforce.live/hls/4151.m3u8
+http://103.141.64.58:27872/play/a0lu/index.m3u8
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/Z5rW4dbm/sports18-edited.jpg" group-title="TV-1", Sports 18 HD
-http://redforce.live/hls/5017.m3u8
+http://103.141.64.58:27872/play/a02u/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PqRfmfLK/Euro-Sports-HD.png" group-title="TV-1", Euro Sport HD
-http://redforce.live/hls/5013.m3u8
+http://103.141.64.58:27872/play/a00j/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bwhzYdkT/Gaanbangla-TV.png" group-title="TV-1", Gaan Bangla
-http://redforce.live/hls/4018.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yxgV53kT/S-Bangla.png" group-title="TV-1", Sangeet Bangla
-http://redforce.live/hls/4120.m3u8
+http://103.141.64.58:27872/play/a0kx/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L8zs2PvC/9xm.png" group-title="TV-1", 9xm
-http://redforce.live/hls/4122.m3u8
+http://103.141.64.58:27872/play/a0kw/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SKQk85ZY/Masti.png" group-title="TV-1", Masti
-http://redforce.live/hls/4124.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rp3wM9xr/Nick.png" group-title="TV-1", Nick
-http://redforce.live/hls/5024.m3u8
+http://103.141.64.58:27872/play/a0lf/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ydkKpRCV/nickelodeon-Sonic.png" group-title="TV-1", Nicklodeon Sonic
-http://redforce.live/hls/5041.m3u8
+http://103.141.64.58:27872/play/a0kt/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8cvSNVC9/CN-HD.png" group-title="TV-1", Cartoon Network HD +
-http://redforce.live/hls/5012.m3u8
+http://103.141.64.58:27872/play/a02i/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9QXx4KmT/Sony-Yay.png" group-title="TV-1", Sony Yay
-http://redforce.live/hls/5023.m3u8
+http://103.141.64.58:27872/play/a0lg/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZK1mYbjx/Madani-Chennel.png" group-title="TV-1", Manadi Channel
-http://redforce.live/hls/4029.m3u8
+http://103.141.64.58:27872/play/a0ms/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DyYZr36S/Quran-TV.png" group-title="TV-1", Quraan TV
-http://redforce.live/hls/4112.m3u8
+http://103.141.64.58:27872/play/a0mu/index.m3u8
