@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-logo=" " group-title="TV-1", BTV
 http://tv.dugdugilive.com:8080/0ne$ky23/BTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="TV-1", ATN Bangla
-https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbd-8-org.stream/live-orgin/atnbd-8-org.stream/chunks.m3u8?nimblesessionid=361052299
+https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbd-8-org.stream/live-orgin/atnbd-8-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="TV-1", Ekushey TV
 http://tv.dugdugilive.com:8080/0ne$ky23/EkusheyTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="TV-1", NTV
@@ -31,19 +31,13 @@ http://tv.dugdugilive.com:8080/0ne$ky23/ATN-News/tracks-v1a1/mono.m3u8
 http://tv.dugdugilive.com:8080/0ne$ky23/News24/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="TV-1",Channel 24 HD
 http://tv.dugdugilive.com:8080/0ne$ky23/Channel24/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="TV-1", Ekattor TV
-https://medialive.akash-go.com/out/v1/1eec5c4527b14f70bb9580fa18c331e8/index_video_7_0_3507414.mp4?m=1726050829
 #EXTINF:-1 tvg-logo=" " group-title="TV-1", DBC News
-https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/dbcnews.stream/live-orgin/dbcnews.stream/chunks.m3u8?nimblesessionid=361060597
+https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/dbcnews.stream/live-orgin/dbcnews.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Zee Bangla HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd1/default/zeebanglahd1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Zee Bangla Cinema
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema1/default/zeebanglacinema1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV-1", Star Jalsha HD
-https://medialive.akash-go.com/out/v1/55589a1adc934ba584f9010ce3959f6a/index_audio_5_0_2018254.mp4?m=1726051048
-#EXTINF:-1 tvg-logo="" group-title="TV-1", Jalsha Movies
-https://medialive.akash-go.com/out/v1/a1a4886d7bdd4797a0eebb69e2c67554/index_video_7_0_init.mp4?m=1726050866
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Sony Aath
 https://api.iptvbd.xyz/api/sony_aath.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Colors HD Bangla
@@ -91,8 +85,6 @@ http://103.84.57.155:8000/play/a0c7/index.m3u8
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictureshd1/default/andpictures.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV-1", B4U Movies
 https://api.iptvbd.xyz/api/b4u_movies.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV-1", Colors Cineplex
-https://medialive.akash-go.com/out/v1/db019fb82c8d4b9e971557e7cb1fd625/index_audio_5_0_3478432.mp4?m=1726050737
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Zee News
 https://vg-zeefta.akamaized.net/ptnr-yupptv/title-Zee_News/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/700348dd-988e-4574-b3b9-4918de8e383a/ea43006c-0ec5-439e-becd-8e214b8bd341/3.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Aaj Thak
@@ -100,8 +92,6 @@ https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/li
 #EXTINF:-1 tvg-logo="" group-title="TV-1", NDTV
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/masterp_1080p@4.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="TV-1", Star Movies
-https://medialive.akash-go.com/out/v1/78469781a763488194e5bb57d885dd04/index_video_7_0_init.mp4?m=1726051059
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Star Movies Select HD
 http://xtv.ooo:8080/Ijaaz123/aijaz321/66315
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Sony Pix
@@ -130,9 +120,9 @@ https://xlpore-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV-1", CNN
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist_1280x720_3000k.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV-1", France 24
-https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/fr24.stream/live-orgin/fr24.stream/chunks.m3u8?nimblesessionid=361062302
+https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/fr24.stream/live-orgin/fr24.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Al Jazeera
-https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/aljazeera.stream/live-orgin/aljazeera.stream/chunks.m3u8?nimblesessionid=361062527
+https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/aljazeera.stream/live-orgin/aljazeera.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV-1", WION
 https://d7x8z4yuq42qn.cloudfront.net/index_5.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV-1", DW
@@ -142,14 +132,10 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/strea
 https://amg01448-samsungin-cartoonnw-samsungin-1y8kz.amagi.tv/playlist/amg01448-samsungin-cartoonnw-samsungin/cb553d1e786c648b93d43d63d5ef41a4d3246ad3032e90703dff06c231901d468ca2f9d3f537b63619d714af3f5e2f0e0433db18dd6511b6802eea0e6d287f09cfcceb2ada861317b3c60e383ebb281700ab0941d8380220dcec5759d438b0340446b00a230f338fbe51aa7e55978808821d57b189e5a4fd04706ded294fdfd20ffda8bd0c118d2ff9932372a75e26c7199604e6368ff19702cf69b66cc1168caa08baf212e7868bfa2a50c24d1bb2ccf90b774fb3833797c9936876b879294d1f6fb8c9cbfc4a7292524159fafadfbe37b04a80d165c94c3eb5158014a53e8e79a500a3a11ff3e4fbfe4c452babcd5f590aa5e1a98ba87a62f337b5f39bbd091c93944c2a5fa8718f3a353705d56f1c4b0b9a90d86276/82/640x360_1284800/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Pogo
 https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV-1", Sonic
-https://medialive.akash-go.com/out/v1/3e90df68f4194cbfb16485cbc6954265/index_video_7_0_3474468.mp4?m=1726050984
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Sony YAY
 https://api.iptvbd.xyz/api/sony_yay.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Discovery Kids
 https://food-dlvr-ott.akamaized.net/primary/1/d9c0812d4aaf40599540a35be89fb629/index_20.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV-1", Nick
-https://medialive.akash-go.com/out/v1/9bf2c1e016aa4e47be84550af30ea070/index_video_7_0_init.mp4?m=1726050957
 
 #EXTINF:-1 tvg-logo=" " group-title="TV-1", GTV
 http://tv.dugdugilive.com:8080/0ne$ky23/GaziTV/tracks-v1a1/mono.m3u8
@@ -188,4 +174,4 @@ https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Islam Channel
 https://1gradgmttgy41hqbifaaueqy.wslivehls.com/pull-cdnw.anystream.uk/live/cf46c8b0018c10009acded4c00000000/playlist.m3u8?wsSession=60eb0ff80cf33c983a734c7c-172730131133711&wsIPSercert=e8cbdc57c20ea835015f47a293b2dccd&wsiphost=local&wsBindIP=1
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Makkah TV
-ttps://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/makkahtv.stream/live-orgin/makkahtv.stream/chunks.m3u8?nimblesessionid=361051409
+ttps://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/makkahtv.stream/live-orgin/makkahtv.stream/chunks.m3u8
