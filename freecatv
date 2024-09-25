@@ -120,9 +120,7 @@ https://xlpore-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV-1", CNN
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist_1280x720_3000k.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV-1", France 24
-https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/fr24.stream/live-orgin/fr24.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV-1", Al Jazeera
-https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/aljazeera.stream/live-orgin/aljazeera.stream/chunks.m3u8
+https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/fr24.stream/live-orgin/fr24.stream/chunks
 #EXTINF:-1 tvg-logo="" group-title="TV-1", WION
 https://d7x8z4yuq42qn.cloudfront.net/index_5.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV-1", DW
@@ -173,5 +171,3 @@ https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8?sid=X-aO7iMuxEa
 https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/iqrabanglatvoffice.stream/live-orgin/iqrabanglatvoffice.stream/chunks.m3u8?nimblesessionid=361071977
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Islam Channel
 https://1gradgmttgy41hqbifaaueqy.wslivehls.com/pull-cdnw.anystream.uk/live/cf46c8b0018c10009acded4c00000000/playlist.m3u8?wsSession=60eb0ff80cf33c983a734c7c-172730131133711&wsIPSercert=e8cbdc57c20ea835015f47a293b2dccd&wsiphost=local&wsBindIP=1
-#EXTINF:-1 tvg-logo="" group-title="TV-1", Makkah TV
-ttps://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/makkahtv.stream/live-orgin/makkahtv.stream/chunks.m3u8
