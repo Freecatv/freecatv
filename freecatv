@@ -53,8 +53,6 @@ https://amg01448-samsungin-news18bangla-samsungin-ad-qy.amagi.tv/playlist/amg014
 https://spt-sonykal-1-us.lg.wurl.tv/playlist_4300k.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Zee TV HD
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetvhd1/default/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV-1", Zee Anmol
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmol1/default/zeeanmol1-audio_208482_und=208000-video=2137600.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Zee Cinema HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd1/default/zeecinemahd1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Zee Bollywood
@@ -104,8 +102,6 @@ https://food-dlvr-ott.akamaized.net/primary/4/a640549241664dce8ae975919997b0ca/i
 https://xlpore-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV-1", CNN
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist_1280x720_3000k.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV-1", France 24
-https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/fr24.stream/live-orgin/fr24.stream/chunks
 #EXTINF:-1 tvg-logo="" group-title="TV-1", WION
 https://d7x8z4yuq42qn.cloudfront.net/index_5.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV-1", DW
