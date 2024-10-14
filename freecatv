@@ -3,9 +3,7 @@
 #EXTINF:-1 tvg-logo=" " group-title="TV-1", BTV
 http://tv.dugdugilive.com:8080/0ne$ky23/BTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="TV-1", ATN Bangla
-https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbd-8-org.stream/live-orgin/atnbd-8-org.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="TV-1", Ekushey TV
-http://tv.dugdugilive.com:8080/0ne$ky23/EkusheyTV/tracks-v1a1/mono.m3u8
+http://tv.dugdugilive.com:8080/0ne$ky23/AtnBangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="TV-1", NTV
 http://tv.dugdugilive.com:8080/0ne$ky23/NTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="TV-1", RTV
@@ -26,7 +24,11 @@ http://tv.dugdugilive.com:8080/0ne$ky23/SomoyTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="TV-1",Channel 24 HD
 http://tv.dugdugilive.com:8080/0ne$ky23/Channel24/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="TV-1", DBC News
-https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/dbcnews.stream/live-orgin/dbcnews.stream/chunks.m3u8
+http://tv.dugdugilive.com:8080/0ne$ky23/DBC/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="TV-1", Jamuna TV
+http://172.16.171.6:8080/jamuna2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="TV-1", ATN News
+http://172.16.171.6:8080/19-Atnnews/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Zee Bangla HD
 http://198.51.100.100/hls/zeebangla.m3u8
@@ -36,8 +38,6 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema1/default/zeebanglac
 http://198.51.100.100/hls/starJalsha.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Star Jalsha Movies HD
 http://198.51.100.100/hls/zeemovie.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV-1", Sony Aath
-https://api.iptvbd.xyz/api/sony_aath.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Colors HD Bangla
 https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Enterr10 Bangla
@@ -49,40 +49,23 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/24ghanta/default/24ghanta-audio_2084
 #EXTINF:-1 tvg-logo="" group-title="TV-1", News 18 Bangla
 https://amg01448-samsungin-news18bangla-samsungin-ad-qy.amagi.tv/playlist/amg01448-samsungin-news18bangla-samsungin/cb553d1e786c648a99d43d62d3ef41a2d22402fc087a8d6933fb4b926bc10f41e2e5af97b20cac7822fb0fdf61146d5a4d009247d8780ad7967cac5a243e517e9b9bb265d980027ee78b547535b17a1f51fe0f15d135257bcbec1c079d72e42a555db84b2a066389bf08a82254d88758837a348aac883724745a569c405de7f25aa0f9e55c10db65a9d36772aa178368ff68fbad62a9b5ad05ca1ad754ce2eafe393ab48c44fb4bb57d814eb357338681dcbc3111bae2c2b4c8fe9c5fd25083fd4c4548e91de7d1ccc2b624ff1fe84946af318cf9d24bb9056d130b5409e398667ab46f2af1ee0e58cd64c4536b3d71b4f13e0b4f0c4ab6e738a6ff5f4bd863364cfa24f3855df3789717b76c0b48b3381c01e99f971d5e5394d6990c005bd94a086e9bf9505cd769a89a4ea482824540d0c8252b5892d8a79af1f86fa53700c0314d7df3fa3abd644396e4387fa2ff21a09bcdd849b9f437bfd69155ee777ca196248c9276768ea3df3f86f399147eae487dd498f539bb70ebdada4390703b6f36d9147ed69/35/1920x1080_2805000/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="TV-1", Sony TV
-https://api.iptvbd.xyz/api/sony_entertainmnt_hd.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV-1", Sony Sab
-https://api.iptvbd.xyz/api/sony_sab_hd.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV-1", Sony Wah
-https://api.iptvbd.xyz/api/sony_wah.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Sony Kal
 https://spt-sonykal-1-us.lg.wurl.tv/playlist_4300k.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Zee TV HD
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetvhd1/default/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Zee Anmol
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmol1/default/zeeanmol1-audio_208482_und=208000-video=2137600.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV-1", Star Plus
-http://103.84.57.155:8000/play/a080/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV-1", &Tv HD
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtvhd1/default/andtvhd.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV-1", Sony Max
-https://api.iptvbd.xyz/api/set_max_hd.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV-1", Sony Max 2
-https://api.iptvbd.xyz/api/sony_max_2.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Zee Cinema HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd1/default/zeecinemahd1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Zee Bollywood
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebollywood1/default/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV-1", Zee Action
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeaction1/default/zeeaction1-audio_208482_und=208000-video=2137600.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Star Gold
 http://103.84.57.155:8000/play/a09m/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Star Gold Thrills
 http://103.84.57.155:8000/play/a0c7/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV-1", &PicturesHD
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictureshd1/default/andpictures.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV-1", B4U Movies
-https://api.iptvbd.xyz/api/b4u_movies.m3u8
+http://172.16.171.6:8080/55-Andpicture/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Zee News
 https://vg-zeefta.akamaized.net/ptnr-yupptv/title-Zee_News/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/700348dd-988e-4574-b3b9-4918de8e383a/ea43006c-0ec5-439e-becd-8e214b8bd341/3.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Aaj Thak
@@ -90,10 +73,14 @@ https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/li
 #EXTINF:-1 tvg-logo="" group-title="TV-1", NDTV
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/masterp_1080p@4.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="TV-1", Star Movies Select HD
-http://xtv.ooo:8080/Ijaaz123/aijaz321/66315
-#EXTINF:-1 tvg-logo="" group-title="TV-1", Sony Pix
-https://api.iptvbd.xyz/api/sony_pix_hd.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV-1", Star Movies HD
+http://212.102.34.8:9080/StarMoviesHD/video.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV-1", HBO
+http://103.110.110.11:8081/live/hbo/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV-1", Movies Now
+http://103.84.57.155:8000/play/a034/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV-1", MNX HD
+http://103.84.57.155:8000/play/a030/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Sony Movies
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Hollywood HD
@@ -126,17 +113,13 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/strea
 
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Duronto
 http://redforce.live/hls/5015.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV-1", Cartoon Network
-https://amg01448-samsungin-cartoonnw-samsungin-1y8kz.amagi.tv/playlist/amg01448-samsungin-cartoonnw-samsungin/cb553d1e786c648b93d43d63d5ef41a4d3246ad3032e90703dff06c231901d468ca2f9d3f537b63619d714af3f5e2f0e0433db18dd6511b6802eea0e6d287f09cfcceb2ada861317b3c60e383ebb281700ab0941d8380220dcec5759d438b0340446b00a230f338fbe51aa7e55978808821d57b189e5a4fd04706ded294fdfd20ffda8bd0c118d2ff9932372a75e26c7199604e6368ff19702cf69b66cc1168caa08baf212e7868bfa2a50c24d1bb2ccf90b774fb3833797c9936876b879294d1f6fb8c9cbfc4a7292524159fafadfbe37b04a80d165c94c3eb5158014a53e8e79a500a3a11ff3e4fbfe4c452babcd5f590aa5e1a98ba87a62f337b5f39bbd091c93944c2a5fa8718f3a353705d56f1c4b0b9a90d86276/82/640x360_1284800/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV-1", Sony YAY
-https://api.iptvbd.xyz/api/sony_yay.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Discovery Kids
 https://food-dlvr-ott.akamaized.net/primary/1/d9c0812d4aaf40599540a35be89fb629/index_20.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="TV-1", GTV
 http://tv.dugdugilive.com:8080/0ne$ky23/GaziTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="TV-1", T-Sports-1
-http://10.10.10.2/live/fnffeed1001/index.m3u8
+http://redforce.live/hls/tsports.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="TV-1", T-Sports-2
 http://tv.dugdugilive.com:8080/0ne$ky23/TSports-Live/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="TV-1", PTV Sports
@@ -144,9 +127,9 @@ http://tv.dugdugilive.com:8080/0ne$ky23/PTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Star Sports 1
 http://41.205.93.154/STARSPORTS1/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV-1", SONY Sports 1
-https://api.iptvbd.xyz/api/sony_ten1_hd.m3u8
+http://tv.dugdugilive.com:8080/0ne$ky23/sonyten1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV-1", SONY Sports 2
-https://api.iptvbd.xyz/api/sony_ten2_hd.m3u8
+http://172.16.171.6:8080/54-sonysports2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV-1", SONY Sports 3
 http://tv.dugdugilive.com:8080/0ne$ky23/sonyten3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV-1", SONY Sports 5
