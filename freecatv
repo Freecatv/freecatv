@@ -57,8 +57,6 @@ https://spt-sonykal-1-us.lg.wurl.tv/playlist_4300k.m3u8
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetvhd1/default/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Zee Cinema HD
 http://redforce.live/hls/somoytv.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV-1", Zee Bollywood
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebollywood1/default/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Star Plus
 http://172.16.29.3:8080/hls/splushd.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Star Gold Thrills
@@ -113,7 +111,7 @@ http://tv.dugdugilive.com:8080/0ne$ky23/GaziTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="TV-1", T-Sports-1
 http://redforce.live/hls/tsports.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="TV-1", T-Sports-2
-http://tv.dugdugilive.com:8080/0ne$ky23/TSports-Live/tracks-v1a1/mono.m3u8
+http://172.19.178.29:18190/CLOUD-TV-02/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="TV-1", PTV Sports
 http://tv.dugdugilive.com:8080/0ne$ky23/PTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Star Sports 1
@@ -123,7 +121,7 @@ http://10.10.10.2/live/fnffeed1003/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV-1", SONY Sports 1
 http://tv.dugdugilive.com:8080/0ne$ky23/sonyten1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV-1", SONY Sports 2
-http://172.16.171.6:8080/54-sonysports2/tracks-v1a1/mono.m3u8
+http://tv.dugdugilive.com:8080/0ne$ky23/sonyten2/tracks-v1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV-1", SONY Sports 3
 http://tv.dugdugilive.com:8080/0ne$ky23/sonyten3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV-1", SONY Sports 5
