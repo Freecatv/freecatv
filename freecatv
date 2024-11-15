@@ -5,6 +5,8 @@
 
 #EXTINF:-1 tvg-logo=" " group-title="TV-1", BTV
 http://tv.dugdugilive.com:8080/0ne$ky23/BTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="TV-1", ATN Bangla
+http://stvlive.net:8080/atnbangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="TV-1", NTV
 http://tv.dugdugilive.com:8080/0ne$ky23/NTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="TV-1", RTV
@@ -54,7 +56,7 @@ http://172.16.29.3:8080/hls/sonymaxhd.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Sony Kal
 https://spt-sonykal-1-us.lg.wurl.tv/playlist_4300k.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Zee TV HD
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetvhd1/default/index.m3u8
+http://172.16.29.3:8080/hls/zeetvhd.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Zee Cinema HD
 http://redforce.live/hls/somoytv.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Star Plus
@@ -62,23 +64,21 @@ http://172.16.29.3:8080/hls/splushd.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Star Gold Thrills
 http://stvlive.net:8080/stargoldthrill/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV-1", &PicturesHD
-http://172.16.171.6:8080/55-Andpicture/tracks-v1a1/mono.m3u8
+http://172.16.29.3:8080/hls/AndPictureTV.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Zee News
 https://vg-zeefta.akamaized.net/ptnr-yupptv/title-Zee_News/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/700348dd-988e-4574-b3b9-4918de8e383a/ea43006c-0ec5-439e-becd-8e214b8bd341/3.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Aaj Thak
 https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/live_1080p/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV-1", NDTV
-https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/masterp_1080p@4.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Star Movies HD
-http://212.102.34.8:9080/StarMoviesHD/video.m3u8
+http://172.16.29.3:8080/hls/starmovieshd.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV-1", HBO
 http://103.110.110.11:8081/live/hbo/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV-1", Movies Now
-http://103.84.57.155:8000/play/a034/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV-1", MNX HD
-http://103.84.57.155:8000/play/a030/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV-1", Colors Infinity HD
+http://172.16.29.3:8080/hls/ColorsInfinityHD.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV-1", &prive HD
+http://172.16.29.3:8080/hls/AndPriveHD.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Hollywood HD
 http://iptv.prosto.tv:7000/ch50/video.m3u8
 
@@ -105,6 +105,8 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/strea
 
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Duronto
 http://redforce.live/hls/5015.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV-1", Nick+ HD
+http://172.16.29.3:8080/hls/nicktvhdplus.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="TV-1", GTV
 http://tv.dugdugilive.com:8080/0ne$ky23/GaziTV/tracks-v1a1/mono.m3u8
