@@ -33,6 +33,8 @@ http://tv.dugdugilive.com:8080/0ne$ky23/ATN-News/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Zee Bangla HD
 http://198.51.100.100/hls/zeebangla.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV-1", Zee Bangla Cinema HD
+http://stvlive.net:8080/zeebncinema/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Star Jalsha
 http://198.51.100.100/hls/starJalsha.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Star Jalsha Movies HD
@@ -47,10 +49,10 @@ https://abplivetv.akamaized.net/hls/live/2043012/ananda/master_720p.m3u8
 https://amg01448-samsungin-news18bangla-samsungin-ad-qy.amagi.tv/playlist/amg01448-samsungin-news18bangla-samsungin/cb553d1e786c648a99d43d62d3ef41a2d22402fc087a8d6933fb4b926bc10f41e2e5af97b20cac7822fb0fdf61146d5a4d009247d8780ad7967cac5a243e517e9b9bb265d980027ee78b547535b17a1f51fe0f15d135257bcbec1c079d72e42a555db84b2a066389bf08a82254d88758837a348aac883724745a569c405de7f25aa0f9e55c10db65a9d36772aa178368ff68fbad62a9b5ad05ca1ad754ce2eafe393ab48c44fb4bb57d814eb357338681dcbc3111bae2c2b4c8fe9c5fd25083fd4c4548e91de7d1ccc2b624ff1fe84946af318cf9d24bb9056d130b5409e398667ab46f2af1ee0e58cd64c4536b3d71b4f13e0b4f0c4ab6e738a6ff5f4bd863364cfa24f3855df3789717b76c0b48b3381c01e99f971d5e5394d6990c005bd94a086e9bf9505cd769a89a4ea482824540d0c8252b5892d8a79af1f86fa53700c0314d7df3fa3abd644396e4387fa2ff21a09bcdd849b9f437bfd69155ee777ca196248c9276768ea3df3f86f399147eae487dd498f539bb70ebdada4390703b6f36d9147ed69/35/1920x1080_2805000/index.m3u8
 
 
-#EXTINF:-1 tvg-logo=" " group-title="TV-1", Sony TV
-http://172.16.29.3:8080/hls/sonyhd.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="TV-1", Sony TV
+#EXTINF:-1 tvg-logo=" " group-title="TV-1", Sony TV HD - 1
 http://stvlive.net:8080/sonyentten/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="TV-1", Sony TV HD - 2
+https://starshare.live:443/live/7382837374/5003958588/144.ts
 #EXTINF:-1 tvg-logo=" " group-title="TV-1", Sony Max
 http://172.16.29.3:8080/hls/sonymaxhd.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Sony Kal
@@ -59,10 +61,16 @@ https://spt-sonykal-1-us.lg.wurl.tv/playlist_4300k.m3u8
 http://172.16.29.3:8080/hls/zeetvhd.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Zee Cinema HD
 http://redforce.live/hls/somoytv.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV-1", Star Plus
-http://172.16.29.3:8080/hls/splushd.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV-1", Star Plus HD - 1
+http://stvlive.net:8080/starplus/tracks-v1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV-1", Star Plus HD - 2
+https://starshare.live:443/live/7382837374/5003958588/167.ts
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Star Gold Thrills
 http://stvlive.net:8080/stargoldthrill/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV-1", Star Gold HD
+https://starshare.live:443/live/7382837374/5003958588/194.ts
+#EXTINF:-1 tvg-logo="" group-title="TV-1", Star Gold Select HD
+https://starshare.live:443/live/7382837374/5003958588/194.ts
 #EXTINF:-1 tvg-logo="" group-title="TV-1", &PicturesHD
 http://172.16.29.3:8080/hls/AndPictureTV.m3u8
 
@@ -71,10 +79,20 @@ https://vg-zeefta.akamaized.net/ptnr-yupptv/title-Zee_News/v1/manifest/611d79b11
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Aaj Thak
 https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/live_1080p/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="TV-1", Star Movies HD
-http://172.16.29.3:8080/hls/starmovieshd.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV-1", Star Movies HD - 1
+http://stvlive.net:8080/starmovies/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV-1", Star Movies HD - 2
+https://starshare.live:443/live/7382837374/5003958588/979.ts
+#EXTINF:-1 tvg-logo="" group-title="TV-1", Star Movies Select HD
+https://starshare.live:443/live/7382837374/5003958588/218.ts
+#EXTINF:-1 tvg-logo="" group-title="TV-1", Sony Pix HD - 1
+http://stvlive.net:8080/sonypix/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV-1", Sony Pix HD - 2
+https://starshare.live:443/live/7382837374/5003958588/147.ts
 #EXTINF:-1 tvg-logo="" group-title="TV-1", HBO
 http://103.110.110.11:8081/live/hbo/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV-1", Movies Now HD
+http://stvlive.net:8080/moviesnow-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Colors Infinity HD
 http://172.16.29.3:8080/hls/ColorsInfinityHD.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV-1", &prive HD
