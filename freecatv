@@ -6,7 +6,7 @@
 #EXTINF:-1 tvg-logo=" " group-title="TV-1", BTV
 http://tv.dugdugilive.com:8080/0ne$ky23/BTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="TV-1", ATN Bangla
-http://stvlive.net:8080/atnbangla/tracks-v1a1/mono.m3u8
+http://tv.dugdugilive.com:8080/0ne$ky23/AtnBangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="TV-1", NTV
 http://tv.dugdugilive.com:8080/0ne$ky23/NTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="TV-1", RTV
@@ -21,7 +21,7 @@ http://tv.dugdugilive.com:8080/0ne$ky23/satv/tracks-v1a1/mono.m3u8
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="TV-1", Somoy TV
-http://stvlive.net:8080/somoy/tracks-v1a1/mono.m3u8
+http://tv.dugdugilive.com:8080/0ne$ky23/SomoyTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="TV-1",Channel 24 HD
 http://tv.dugdugilive.com:8080/0ne$ky23/Channel24/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="TV-1", DBC News
@@ -29,16 +29,16 @@ http://tv.dugdugilive.com:8080/0ne$ky23/DBC/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="TV-1", Jamuna TV
 http://172.19.178.59:18190/sn-jamunatv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="TV-1", ATN News
-http://stvlive.net:8080/atnnews/tracks-v1a1/mono.m3u8
+http://tv.dugdugilive.com:8080/0ne$ky23/ATN-News/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Zee Bangla HD
-http://stvlive.net:8080/zeebangla/tracks-v1/mono.m3u8
+http://redforce.live/hls/zeebangla.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Zee Bangla Cinema HD
 http://stvlive.net:8080/zeebncinema/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Star Jalsha
-http://stvlive.net:8080/starjalsha/tracks-v1a1/mono.m3u8
+http://172.19.178.49:18190/sn-starjalsha/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Star Jalsha Movies HD
-http://stvlive.net:8080/jalsamovies-2/tracks-v1/mono.m3u8
+http://redforce.live/hls/zeemovie.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Colors HD Bangla
 http://stvlive.net:8080/colorsbangla2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Enterr10 Bangla
@@ -64,8 +64,6 @@ https://starshare.live:443/live/7382837374/5003958588/167.ts
 http://stvlive.net:8080/stargoldthrill/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Star Gold HD
 https://starshare.live:443/live/7382837374/5003958588/194.ts
-#EXTINF:-1 tvg-logo="" group-title="TV-1", Star Gold Select HD
-https://starshare.live:443/live/7382837374/5003958588/194.ts
 #EXTINF:-1 tvg-logo="" group-title="TV-1", &PicturesHD
 http://172.16.29.3:8080/hls/AndPictureTV.m3u8
 
@@ -74,15 +72,11 @@ https://vg-zeefta.akamaized.net/ptnr-yupptv/title-Zee_News/v1/manifest/611d79b11
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Aaj Thak
 https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/live_1080p/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="TV-1", Star Movies HD - 1
-http://stvlive.net:8080/starmovies/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV-1", Star Movies HD - 2
+#EXTINF:-1 tvg-logo="" group-title="TV-1", Star Movies HD
 https://starshare.live:443/live/7382837374/5003958588/979.ts
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Star Movies Select HD
 https://starshare.live:443/live/7382837374/5003958588/218.ts
-#EXTINF:-1 tvg-logo="" group-title="TV-1", Sony Pix HD - 1
-http://stvlive.net:8080/sonypix/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV-1", Sony Pix HD - 2
+#EXTINF:-1 tvg-logo="" group-title="TV-1", Sony Pix HD
 https://starshare.live:443/live/7382837374/5003958588/147.ts
 #EXTINF:-1 tvg-logo="" group-title="TV-1", HBO
 http://103.110.110.11:8081/live/hbo/playlist.m3u8
@@ -118,7 +112,9 @@ https://xlpore-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV-1", WION
 https://d7x8z4yuq42qn.cloudfront.net/index_5.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV-1", DW
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
+http://172.16.29.2:8090/hls/DWNewsEnglish.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV-1", Al Jazeera
+http://172.16.29.2:8090/hls/AlJazeeraNews.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Duronto
 http://redforce.live/hls/5015.m3u8
@@ -126,21 +122,19 @@ http://redforce.live/hls/5015.m3u8
 http://172.16.29.3:8080/hls/nicktvhdplus.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="TV-1", GTV
-http://stvlive.net:8080/gtv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="TV-1", T-Sports-1
-http://stvlive.net:8080/tsports2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="TV-1", T-Sports-2
+http://tv.dugdugilive.com:8080/0ne$ky23/GaziTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="TV-1", T-Sports
 http://172.19.178.29:18190/CLOUD-TV-02/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="TV-1", PTV Sports
 http://tv.dugdugilive.com:8080/0ne$ky23/PTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Star Sports 1
-http://tv.dugdugilive.com:8080/0ne$ky23/StarSports22/tracks-v1a1/mono.m3u8
+http://172.19.178.49:18190/sn-starsports1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Star Sports 2
 http://10.10.10.2/live/fnffeed1003/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV-1", SONY Sports 1
 http://tv.dugdugilive.com:8080/0ne$ky23/sonyten1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV-1", SONY Sports 2
-http://tv.dugdugilive.com:8080/0ne$ky23/sonyten2/tracks-v1/mono.m3u8
+http://redforce.live/hls/sony10.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV-1", SONY Sports 3
 http://tv.dugdugilive.com:8080/0ne$ky23/sonyten3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV-1", SONY Sports 5
