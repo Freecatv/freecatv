@@ -1,7 +1,11 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo=" " group-title="TV-1", Live
-
+#EXTINF:-1 tvg-logo=" " group-title="TV-1", T-Sports-1
+http://redforce.live/hls/tsports.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="TV-1", T-Sports-2
+http://tv.dugdugilive.com:8080/0ne$ky23/TSports-Live/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="TV-1", Sky Sports Cricket
+http://tv.dugdugilive.com:8080/0ne$ky23/LiveSP/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="TV-1", BTV
 http://tv.dugdugilive.com:8080/0ne$ky23/BTV/tracks-v1a1/mono.m3u8
@@ -129,8 +133,6 @@ http://172.16.29.2:8090/hls/pogo.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="TV-1", GTV
 http://172.19.178.39:18190/JS-TV-01/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="TV-1", T-Sports
-http://172.19.178.29:18190/CLOUD-TV-02/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="TV-1", Laliga TV
 http://172.16.29.2:8090/hls/superlaligahd.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="TV-1", PTV Sports
