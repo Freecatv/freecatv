@@ -82,8 +82,8 @@ https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/li
 
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Star Movies HD
 http://redforce.live:8082/STAR.MOVIES.HD/tracks-v1a1/mono.m3u8?token=f8036403e2bb06aaa25be52a81f68ea00ecdc810-d706014a44f031e98f816da8cfacd2bf-1747844039-1747833239
-#EXTINF:-1 tvg-logo="" group-title="TV-1", Star Movies Select HD
-https://starshare.live:443/live/7382837374/5003958588/218.ts
+#EXTINF:-1 tvg-logo="" group-title="TV-1", MN+ HD
+http://redforce.live:8082/MN.PLUS.HD/tracks-v1a1/mono.m3u8?token=969358b84c36416ca5c2b5cd5bd9529b185fe0b0-e7a8893d7b8336052bbf10c9f9a90618-1747845707-1747834907
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Sony Pix HD
 http://redforce.live:8082/SONY.PIX.HD/tracks-v1a1/mono.m3u8?token=d430540ff71ede9a2443c0957465bf56eded836d-d9d827b8f4100e1ccb103df679f5e5a4-1747844319-1747833519
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Lotus
@@ -132,7 +132,7 @@ http://redforce.live:8082/NICK/tracks-v1a1/mono.m3u8?token=c34b1ad3b6865b9f077de
 http://redforce.live:8082/POGO/tracks-v1a1/mono.m3u8?token=6ff4327bb5454ed026d3657408ef608cf99f60b4-cd133308286f48981eb950f2f882abe2-1747844638-1747833838
 
 #EXTINF:-1 tvg-logo=" " group-title="TV-1", GTV
-http://172.19.178.39:18190/JS-TV-01/tracks-v1a1/mono.m3u8
+http://redforce.live:8082/GAZI.TV.HD/tracks-v1a1/mono.m3u8?token=df60d21cb664ab76eb871175abc881d83826002d-e16ea3b98c9fe812fdd475f6fd994c07-1747845764-1747834964
 #EXTINF:-1 tvg-logo=" " group-title="TV-1", Laliga TV
 http://172.16.29.2:8090/hls/superlaligahd.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="TV-1", PTV Sports
