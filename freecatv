@@ -78,24 +78,26 @@ https://vg-zeefta.akamaized.net/ptnr-yupptv/title-Zee_News/v1/manifest/611d79b11
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Aaj Thak
 https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/live_1080p/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="TV-1", Star Movies HD - 1
+#EXTINF:-1 tvg-logo="" group-title="TV-1", Star Movies HD
 http://redforce.live:8082/STAR.MOVIES.HD/tracks-v1a1/mono.m3u8?token=f8036403e2bb06aaa25be52a81f68ea00ecdc810-d706014a44f031e98f816da8cfacd2bf-1747844039-1747833239
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Star Movies Select HD
 https://starshare.live:443/live/7382837374/5003958588/218.ts
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Sony Pix HD
 http://redforce.live:8082/SONY.PIX.HD/tracks-v1a1/mono.m3u8?token=d430540ff71ede9a2443c0957465bf56eded836d-d9d827b8f4100e1ccb103df679f5e5a4-1747844319-1747833519
 #EXTINF:-1 tvg-logo="" group-title="TV-1", HBO
-http://103.110.110.11:8081/live/hbo/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="TV-1", HBO Hits
-https://starshare.live:443/live/7382837374/5003958588/152372.ts
+
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Colors Infinity HD
-http://172.16.29.3:8080/hls/ColorsInfinityHD.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="TV-1", &prive HD
-http://172.16.29.3:8080/hls/AndPriveHD.m3u8
+http://redforce.live:8082/AND.PRIVE.HD/tracks-v1/mono.m3u8?token=e4bf2697b83cede4468cf68f03860980b83e58ef-9159e921c55ef06633329b94bd9700fe-1747844451-1747833651
 #EXTINF:-1 tvg-logo="" group-title="TV-1", &flix HD
-http://172.16.29.2:8090/hls/andflixhd.m3u8
+http://redforce.live:8082/MN.PLUS.HD/tracks-v1a1/mono.m3u8?token=0b41f5fe85d3c68832210cb8471fa17027ee1720-5712fd623f4056c49b05140f05826928-1747844504-1747833704
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Hollywood HD
 http://iptv.prosto.tv:7000/ch50/video.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV-1", MNX HD
+http://redforce.live:8082/MNX.HD/tracks-v1a1/mono.m3u8?token=07030e89e187c84959f3f7d1159e44cbcc37a9b8-f5a42fc8dbe1fbadf50f551ed8e97a74-1747844522-1747833722
 
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Animal Planet HD
 https://denver1769.pages.dev/Discovery/animal_planet_hd_english.m3u8
