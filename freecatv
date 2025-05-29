@@ -1,10 +1,10 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo=" " group-title="TV-1", T-Sports-1
-http://redforce.live/hls/tsports.m3u8
+http://redforce.live:8082/T-SPORTS-HD/tracks-v1a1/mono.m3u8?token=406aa3610bd3c91f2a9f7c5c2fe76bfbf97251ba-0ece8b2d490cce355e2e862fe39f5245-1747843668-1747832868
 #EXTINF:-1 tvg-logo=" " group-title="TV-1", T-Sports-2
 http://tv.dugdugilive.com:8080/0ne$ky23/TSports-Live/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="TV-1", Sky Sports Cricket
+#EXTINF:-1 tvg-logo=" " group-title="TV-1", T-Sports-3
 http://tv.dugdugilive.com:8080/0ne$ky23/LiveSP/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="TV-1", BTV
