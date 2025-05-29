@@ -79,15 +79,11 @@ https://vg-zeefta.akamaized.net/ptnr-yupptv/title-Zee_News/v1/manifest/611d79b11
 https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/live_1080p/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Star Movies HD - 1
-http://172.16.29.2:8090/hls/starmovieshd.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV-1", Star Movies HD - 2
-https://starshare.live:443/live/7382837374/5003958588/979.ts
+http://redforce.live:8082/STAR.MOVIES.HD/tracks-v1a1/mono.m3u8?token=f8036403e2bb06aaa25be52a81f68ea00ecdc810-d706014a44f031e98f816da8cfacd2bf-1747844039-1747833239
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Star Movies Select HD
 https://starshare.live:443/live/7382837374/5003958588/218.ts
-#EXTINF:-1 tvg-logo="" group-title="TV-1", Sony Pix HD - 1
-http://172.16.29.2:8090/hls/sonypixhd.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV-1", Sony Pix HD - 2
-https://starshare.live:443/live/7382837374/5003958588/147.ts
+#EXTINF:-1 tvg-logo="" group-title="TV-1", Sony Pix HD
+http://redforce.live:8082/SONY.PIX.HD/tracks-v1a1/mono.m3u8?token=d430540ff71ede9a2443c0957465bf56eded836d-d9d827b8f4100e1ccb103df679f5e5a4-1747844319-1747833519
 #EXTINF:-1 tvg-logo="" group-title="TV-1", HBO
 http://103.110.110.11:8081/live/hbo/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV-1", HBO Hits
