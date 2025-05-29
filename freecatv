@@ -53,25 +53,27 @@ https://abplivetv.akamaized.net/hls/live/2043012/ananda/master_720p.m3u8
 https://amg01448-samsungin-news18bangla-samsungin-ad-qy.amagi.tv/playlist/amg01448-samsungin-news18bangla-samsungin/cb553d1e786c648a99d43d62d3ef41a2d22402fc087a8d6933fb4b926bc10f41e2e5af97b20cac7822fb0fdf61146d5a4d009247d8780ad7967cac5a243e517e9b9bb265d980027ee78b547535b17a1f51fe0f15d135257bcbec1c079d72e42a555db84b2a066389bf08a82254d88758837a348aac883724745a569c405de7f25aa0f9e55c10db65a9d36772aa178368ff68fbad62a9b5ad05ca1ad754ce2eafe393ab48c44fb4bb57d814eb357338681dcbc3111bae2c2b4c8fe9c5fd25083fd4c4548e91de7d1ccc2b624ff1fe84946af318cf9d24bb9056d130b5409e398667ab46f2af1ee0e58cd64c4536b3d71b4f13e0b4f0c4ab6e738a6ff5f4bd863364cfa24f3855df3789717b76c0b48b3381c01e99f971d5e5394d6990c005bd94a086e9bf9505cd769a89a4ea482824540d0c8252b5892d8a79af1f86fa53700c0314d7df3fa3abd644396e4387fa2ff21a09bcdd849b9f437bfd69155ee777ca196248c9276768ea3df3f86f399147eae487dd498f539bb70ebdada4390703b6f36d9147ed69/35/1920x1080_2805000/index.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="TV-1", Sony TV HD
-https://starshare.live:443/live/7382837374/5003958588/144.ts
+http://redforce.live:8082/SONY.ENT.HD/tracks-v1/mono.m3u8?token=c5ecb9c4e18ef42d8a07b2a656e865381fbf6d58-d2979b5bbea840ad9e3ec884abff6fac-1747844676-1747833876
 #EXTINF:-1 tvg-logo=" " group-title="TV-1", Sony Max
-http://172.16.29.3:8080/hls/sonymaxhd.m3u8
+http://redforce.live:8082/SONY.MAX.HD/tracks-v1/mono.m3u8?token=89c248389ce08cbeaa3ff77e880ff48e9796baaa-451ed00b3d162867c3ba88fc0268ac5b-1747844732-1747833932
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Sony Kal
 https://spt-sonykal-1-us.lg.wurl.tv/playlist_4300k.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Zee TV HD
-http://172.16.29.3:8080/hls/zeetvhd.m3u8
+http://redforce.live:8082/ZEE.TV.HD/tracks-v1/mono.m3u8?token=def96ffd62f6001dec18f9577d589d8a8653f528-dc1fa7308ca057adc0f5c94639d0a55a-1747844747-1747833947
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Zee Cinema HD
-http://stvlive.net:8080/zeecinema/tracks-v1a1/mono.m3u8
+http://redforce.live:8082/ZEE.CINEMA.HD/tracks-v1a1/mono.m3u8?token=fd7aac3cc816bb00ae038f4e46f659731ed7315f-42a3cf10e2b6f45e95676208cc44d714-1747844761-1747833961
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Star Plus HD
-https://starshare.live:443/live/7382837374/5003958588/167.ts
-#EXTINF:-1 tvg-logo="" group-title="TV-1", Star Gold Thrills
-http://stvlive.net:8080/stargoldthrill/tracks-v1a1/mono.m3u8
+http://redforce.live:8082/STAR.PLUS.HD/tracks-v1a1/mono.m3u8?token=8eabea7db33e13542b44004b4fcab238fb5b32cc-ae19cdda32816fa18ff906b8363a925a-1747844778-1747833978
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Star Gold HD
-https://starshare.live:443/live/7382837374/5003958588/194.ts
+http://redforce.live:8082/STAR.GOLD.HD/tracks-v1a1/mono.m3u8?token=b511f6611e9ae8e153027f048a9cb93d2ec3f8e1-808eb623222584c961350569e1cb6986-1747844806-1747834006
+#EXTINF:-1 tvg-logo="" group-title="TV-1", Star Gold HD-2
+http://redforce.live:8082/STAR.GOLD2.HD/tracks-v1a1/mono.m3u8?token=49de7c7ec1c054e48042224b19cfe5cef7ef5ef1-1513d6f07cd8440b91818ad97bd374d1-1747844831-1747834031
+#EXTINF:-1 tvg-logo="" group-title="TV-1", Star Gold Select HD
+http://redforce.live:8082/STAR.GOLD.SEL.HD/tracks-v1a1/mono.m3u8?token=789486a5c21e91aeaf383aa7fe8f382735c7d5d5-0e1b24c90f71d0961c52fcbaf6e5e654-1747844911-1747834111
 #EXTINF:-1 tvg-logo="" group-title="TV-1", &PicturesHD
-http://172.16.29.3:8080/hls/AndPictureTV.m3u8
+http://redforce.live:8082/ANT.PICTURS.HD/tracks-v1/mono.m3u8?token=84d65120b755b32f5bde034f9570183dc06666f9-7cfdee709dba96018ba11ea607e9e320-1747844862-1747834062
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Colors HD
-http://172.16.29.2:8090/hls/colorshd.m3u8
+http://redforce.live:8082/COLORS.HD/tracks-v1a1/mono.m3u8?token=f080e4a898f80a376ac8fef09dffd4da02d3a585-dba7afab21fb0657e3d0f239c5f73238-1747844877-1747834077
 
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Zee News
 https://vg-zeefta.akamaized.net/ptnr-yupptv/title-Zee_News/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/700348dd-988e-4574-b3b9-4918de8e383a/ea43006c-0ec5-439e-becd-8e214b8bd341/3.m3u8
@@ -84,12 +86,12 @@ http://redforce.live:8082/STAR.MOVIES.HD/tracks-v1a1/mono.m3u8?token=f8036403e2b
 https://starshare.live:443/live/7382837374/5003958588/218.ts
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Sony Pix HD
 http://redforce.live:8082/SONY.PIX.HD/tracks-v1a1/mono.m3u8?token=d430540ff71ede9a2443c0957465bf56eded836d-d9d827b8f4100e1ccb103df679f5e5a4-1747844319-1747833519
-#EXTINF:-1 tvg-logo="" group-title="TV-1", HBO
-
-#EXTINF:-1 tvg-logo="" group-title="TV-1", HBO Hits
-
-#EXTINF:-1 tvg-logo="" group-title="TV-1", Colors Infinity HD
-
+#EXTINF:-1 tvg-logo="" group-title="TV-1", Lotus
+http://redforce.live:8082/Lotus.TV.HD/tracks-v1a1/mono.m3u8?token=44b314579c21a8fe59ac643765107b5fc255ac7b-ac7f52d06880cc6950b76f0c0417b0db-1747845415-1747834615
+#EXTINF:-1 tvg-logo="" group-title="TV-1", Zee Cafe HD
+http://redforce.live:8082/ZEE.CAFE.HD/tracks-v1a1/mono.m3u8?token=c090740c48cd3c4246987ee10e8fd728bb5b7aeb-411d32efb46b443db8bcd9d2f5c9cbde-1747845314-1747834514
+#EXTINF:-1 tvg-logo="" group-title="TV-1", Movies Now
+http://redforce.live:8082/MOVIES.NOW.HD/tracks-v1a1/mono.m3u8?token=51de194780d940118a46b48a9851906d8d047ed1-1d968cb0d582a8f31315ac7c61bf716a-1747845403-1747834603
 #EXTINF:-1 tvg-logo="" group-title="TV-1", &prive HD
 http://redforce.live:8082/AND.PRIVE.HD/tracks-v1/mono.m3u8?token=e4bf2697b83cede4468cf68f03860980b83e58ef-9159e921c55ef06633329b94bd9700fe-1747844451-1747833651
 #EXTINF:-1 tvg-logo="" group-title="TV-1", &flix HD
@@ -100,19 +102,19 @@ http://iptv.prosto.tv:7000/ch50/video.m3u8
 http://redforce.live:8082/MNX.HD/tracks-v1a1/mono.m3u8?token=07030e89e187c84959f3f7d1159e44cbcc37a9b8-f5a42fc8dbe1fbadf50f551ed8e97a74-1747844522-1747833722
 
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Animal Planet HD
-https://denver1769.pages.dev/Discovery/animal_planet_hd_english.m3u8
+http://redforce.live:8082/ANIMAL.PLANET.HD/tracks-v1a1/mono.m3u8?token=db7efc1684642f2d254159133578fec28172810b-bd0f8d8c931d3ddfdff74cf738e2f4b5-1747845212-1747834412
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Discovery HD
-https://varun-iptv.netlify.app/m3u/discoveryhindi.m3u8
+http://redforce.live:8082/DISCOVERY.HD/tracks-v1a1/mono.m3u8?token=f89a88f18913ac3f098834ecdcd4f175bb4b7e87-8a3c1a289265b6e8d05494d89b5be1c1-1747845261-1747834461
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Discovery Science
-https://food-dlvr-ott.akamaized.net/primary/3/7bc4c0346616426e806fa3b79ca70ca6/index_12.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Discovery Turbo
-https://food-dlvr-ott.akamaized.net/primary/4/2cffc9dc1c024fbca4f76a434451f7c5/index_11.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Nat Geo
-http://172.16.29.2:8090/hls/NatGeoHD.m3u8
+http://redforce.live:8082/NATGEO.HD/tracks-v1a1/mono.m3u8?token=1697ed226a3390546dae53df086a5203e43c4262-572b98e52125e98a347ed2e7d5e2c7ed-1747845277-1747834477
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Travel XP
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/3000.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV-1", TLC
-https://food-dlvr-ott.akamaized.net/primary/4/a640549241664dce8ae975919997b0ca/index_14.m3u8
+http://redforce.live:8082/TLC.HD/tracks-v1a1/mono.m3u8?token=7f97c02c2632cd7f8c0418f46e98f9b86a20e40e-e77f24aeb11c87889e9c1248996b17ee-1747845298-1747834498
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Xplore TV
 https://xlpore-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV-1", WION
@@ -123,11 +125,11 @@ http://172.16.29.2:8090/hls/DWNewsEnglish.m3u8
 http://172.16.29.2:8090/hls/AlJazeeraNews.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Duronto
-http://redforce.live/hls/5015.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV-1", Nick+ HD
-http://172.16.29.3:8080/hls/nicktvhdplus.m3u8
+http://redforce.live:8082/DURANTA.TV.HD/tracks-v1a1/mono.m3u8?token=cdb9f709335a61a60e42ca254b93de44e46e47f7-9012380af830fbd24ef723e609b70524-1747844604-1747833804
+#EXTINF:-1 tvg-logo="" group-title="TV-1", Nick HD
+http://redforce.live:8082/NICK/tracks-v1a1/mono.m3u8?token=c34b1ad3b6865b9f077dea5dc85aff371ee67fd6-45abe4475c53a29aa2228b8f79cd43dc-1747844655-1747833855
 #EXTINF:-1 tvg-logo="" group-title="TV-1", POGO
-http://172.16.29.2:8090/hls/pogo.m3u8
+http://redforce.live:8082/POGO/tracks-v1a1/mono.m3u8?token=6ff4327bb5454ed026d3657408ef608cf99f60b4-cd133308286f48981eb950f2f882abe2-1747844638-1747833838
 
 #EXTINF:-1 tvg-logo=" " group-title="TV-1", GTV
 http://172.19.178.39:18190/JS-TV-01/tracks-v1a1/mono.m3u8
@@ -136,21 +138,25 @@ http://172.16.29.2:8090/hls/superlaligahd.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="TV-1", PTV Sports
 http://tv.dugdugilive.com:8080/0ne$ky23/PTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Star Sports 1
-http://172.19.178.49:18190/sn-starsports1/tracks-v1a1/mono.m3u8
+http://redforce.live:8082/STAR.SPORTS1.HD/tracks-v1a1/mono.m3u8?token=dbe4e3ded55902bdec06a1b0d496f0a7a0fac299-75017cfe3528642fbe54f7a2d106e715-1747844981-1747834181
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Star Sports 2
-http://10.10.10.2/live/fnffeed1003/index.m3u8
+http://redforce.live:8082/STAR.SPORTS2.HD/tracks-v1a1/mono.m3u8?token=aca56071d5d19da812ef5b6f61170ccfb45c7e77-136c75aa973240c9fcedb631a663ed89-1747844993-1747834193
+#EXTINF:-1 tvg-logo="" group-title="TV-1", Star Sports 3
+http://redforce.live:8082/STAR-SPORTS.3/tracks-v1/mono.m3u8?token=f50b483adef4acf9916d2347d30421c2c1af87c5-79b2db6d05f52aec6398a76753449db1-1747845023-1747834223
 #EXTINF:-1 tvg-logo="" group-title="TV-1", SONY Sports 1
-http://172.16.29.2:8090/hls/sonyten1hd.m3u8
+http://redforce.live:8082/SONY.SPORTS.1HD/tracks-v1/mono.m3u8?token=17f05ce630b3835020eea34c0419f56d9563da78-8319d92fb0c2f788ecfd8d572bf7406c-1747845038-1747834238
 #EXTINF:-1 tvg-logo="" group-title="TV-1", SONY Sports 2
-http://redforce.live/hls/sony10.m3u8
+http://redforce.live:8082/SONY.SPORTS2.HD/tracks-v1a1/mono.m3u8?token=9a3e969f0d3e32b8c9597b74a31e8e663c734768-89ba7dcc17f0cc203b857ec758851382-1747845052-1747834252
 #EXTINF:-1 tvg-logo="" group-title="TV-1", SONY Sports 3
-http://tv.dugdugilive.com:8080/0ne$ky23/sonyten3/tracks-v1a1/mono.m3u8
+http://redforce.live:8082/SONY.SPORTS.3/tracks-v1/mono.m3u8?token=9a0a47a483765eadf89d5384943f748be6ac3b69-c93125112e0efea950fc4e98e1b5e55a-1747845067-1747834267
+#EXTINF:-1 tvg-logo="" group-title="TV-1", SONY Sports 4
+http://redforce.live:8082/SONY.SPORTS.4/tracks-v1/mono.m3u8?token=27b634101d6d36eaa7729a6940926ce74e68b105-d457dbbf300d9b19d1c25bc7c589fa85-1747845093-1747834293
 #EXTINF:-1 tvg-logo="" group-title="TV-1", SONY Sports 5
-http://tv.dugdugilive.com:8080/0ne$ky23/sonysix/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV-1", TNT Sports 1 HD
-http://172.16.29.2:8090/hls/tntsports1hd.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV-1", TNT Sports 2 HD
-http://172.16.29.2:8090/hls/tntsports2hd.m3u8
+http://redforce.live:8082/SONY-SPORTS.5HD/tracks-v1a1/mono.m3u8?token=a333adce0222b038dea38d7e9d026a8c7f84b69d-a88994d6e200cac90bee80064e4d5d33-1747845107-1747834307
+#EXTINF:-1 tvg-logo="" group-title="TV-1", Eurosports HD
+http://redforce.live:8082/EUROSPORTS.HD/tracks-v1/mono.m3u8?token=c3c828bc1dac0174dfb00d81a284f56dae26dac1-3d40a06aa6f7e5178b6cb0b1d49e326b-1747845140-1747834340
+#EXTINF:-1 tvg-logo="" group-title="TV-1", A Sports
+http://redforce.live:8082/A.SPORTS.HD/tracks-v1a1/mono.m3u8?token=faff903f60cffdad48b2163916abf8b25b29ce54-22c44e58c71e3f4d04315f29b130ccf3-1747845177-1747834377
 
 #EXTINF:-1 tvg-logo="" group-title="TV-1", 9XM
 http://172.16.29.2:8090/hls/9xm.m3u8
