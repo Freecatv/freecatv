@@ -25,13 +25,13 @@ http://tv.dugdugilive.com:8080/0ne$ky23/BanglaVision/tracks-v1a1/mono.m3u8
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="TV-1", Somoy TV
-
+http://stvlive.net:8080/somoy/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="TV-1",Channel 24 HD
 http://tv.dugdugilive.com:8080/0ne$ky23/Channel24/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="TV-1", DBC News
 http://tv.dugdugilive.com:8080/0ne$ky23/DBC/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="TV-1", Jamuna TV
-
+http://stvlive.net:8080/jamuna/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="TV-1", ATN News
 http://tv.dugdugilive.com:8080/0ne$ky23/ATN-News/tracks-v1a1/mono.m3u8
 
