@@ -39,7 +39,7 @@ http://stvlive.net:8080/jamuna/tracks-v1a1/mono.m3u8
 http://tv.dugdugilive.com:8080/0ne$ky23/ATN-News/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Zee Bangla HD
-http://stvlive.net:8080/zeebangla/tracks-v1a1/mono.m3u8
+http://10.99.99.99/player.php?stream=14
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Zee Bangla Cinema HD
 http://stvlive.net:8080/zeebncinema/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV-1", Star Jalsha
