@@ -27,6 +27,37 @@ http://103.143.243.74:8081/012_T_Sports/index.m3u8
 #EXTINF:-1 tvg-logo="http://10.99.99.99/assets/images/GTV1745042853.png" group-title="TV-1", 013 GTV HD
 http://103.143.243.74:8081/013_GTV_HD/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://10.99.99.99/assets/images/sony%20sports%201%20hd.png" group-title="TV-1", 014 Sony Sports 1 HD
+http://103.143.243.74:8081/014_Sony_Sports_1_HD/index.m3u8
+#EXTINF:-1 tvg-logo="http://10.99.99.99/assets/images/sony%20sports%202%20hd.png" group-title="TV-1", 015 Sony Sports 2 HD
+http://103.143.243.74:8081/015_Sony_Sports_2_HD/index.m3u8
+#EXTINF:-1 tvg-logo="http://10.99.99.99/assets/images/Sony%20sports%203.png" group-title="TV-1", 016 Sony Sports 3 HD
+http://103.143.243.74:8081/016_Sony_Sports_3_HD/index.m3u8
+#EXTINF:-1 tvg-logo="http://10.99.99.99/assets/images/sony%20sports%204.png" group-title="TV-1", 017 Sony Sports 4
+http://103.143.243.74:8081/017_Sony_Sports_4/index.m3u8
+#EXTINF:-1 tvg-logo="http://10.99.99.99/assets/images/sony%20sports%205%20hd.png" group-title="TV-1", 018 Sony Sports 5 HD
+http://103.143.243.74:8081/018_Sony_Sports_5_HD/index.m3u8
+#EXTINF:-1 tvg-logo="http://10.99.99.99/assets/images/PTV%20SPORTS%20HD1745044993.png" group-title="TV-1", 019 PTV Sports HD
+http://103.143.243.74:8081/019_PTV_Sports_HD/index.m3u8
+#EXTINF:-1 tvg-logo="http://10.99.99.99/assets/images/STAR%20SPORTS%201%20HD1744991778.png" group-title="TV-1", 020 Star Sports 1 HD
+http://103.143.243.74:8081/020_Star_Sports_1_HD/index.m3u8
+#EXTINF:-1 tvg-logo="http://10.99.99.99/assets/images/STAR%20SPORTS%202%20HD1744991842.png" group-title="TV-1", 021 Star Sports 2 HD
+http://103.143.243.74:8081/021_Star_Sports_2_HD/index.m3u8
+#EXTINF:-1 tvg-logo="http://10.99.99.99/assets/images/STAR%20SPORTS%2031745039893.png" group-title="TV-1", 022 Star Sports 3
+http://103.143.243.74:8081/022_Star_Sports_3/index.m3u8
+#EXTINF:-1 tvg-logo="http://10.99.99.99/assets/images/STAR%20SELECT%201%20HD1745038777.png" group-title="TV-1", 023 Star Sports Select 1 HD
+http://103.143.243.74:8081/023_Star_Sports_Select_1_HD/index.m3u8
+#EXTINF:-1 tvg-logo="http://10.99.99.99/assets/images/STAR%20SPORTS%20SELECT%202%20HD1745033722.png" group-title="TV-1", 024 Star Sports Select 2 HD
+http://103.143.243.74:8081/024_Star_Sports_Select_2_HD/index.m3u8
+#EXTINF:-1 tvg-logo="http://10.99.99.99/assets/images/FAST%20SPORTS%20HD1745044750.png" group-title="TV-1", 025 Fast Sports HD
+http://103.143.243.74:8081/025_Fast_Sports_HD/index.m3u8
+#EXTINF:-1 tvg-logo="http://10.99.99.99/assets/images/A%20SPORTS%20HD1745044782.png" group-title="TV-1", 026 A Sports HD
+http://103.143.243.74:8081/026_A_Sports_HD/index.m3u8
+#EXTINF:-1 tvg-logo="http://10.99.99.99/assets/images/GOLF%20SPORTS1745043338.png" group-title="TV-1", 027 GOLF Channel
+http://103.143.243.74:8081/027_GOLF_Channel/index.m3u8
+#EXTINF:-1 tvg-logo="http://10.99.99.99/assets/images/EUROSPORTS%20HD1745040406.png" group-title="TV-1", 028 Eurosport HD
+http://103.143.243.74:8081/028_Eurosport_HD/index.m3u8
+
 #EXTINF:-1 tvg-logo=" " group-title="TV-1",
 #EXTINF:-1 tvg-logo=" " group-title="TV-1",
 #EXTINF:-1 tvg-logo=" " group-title="TV-1",
