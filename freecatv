@@ -10,7 +10,7 @@ http://tv.dugdugilive.com:8080/0ne$ky23/TSports-Live/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="TV-1", BTV
 http://tv.dugdugilive.com:8080/0ne$ky23/BTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="TV-1", ATN Bangla
-http://stvlive.net:8080/atnbangla/tracks-v1a1/mono.m3u8
+http://103.143.243.74:8081/001_ATN_Bangla/video.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="TV-1", NTV
 http://tv.dugdugilive.com:8080/0ne$ky23/NTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="TV-1", RTV
