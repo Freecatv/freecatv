@@ -125,3 +125,24 @@ http://103.143.243.74:8081/059_Sun_Bangla_HD/index.m3u8
 #EXTINF:-1 tvg-logo="http://redforce.live/assets/images/ENTERR 101745044330.png" group-title="TV-1", 060 Enterr10 Bangla
 http://103.143.243.74:8081/060_Enterr10_Bangla/index.m3u8
 
+#EXTINF:-1 tvg-logo=" " group-title="TV-1", 061_Discovery_HD
+http://103.143.243.74:8081/061_Discovery_HD/index.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="TV-1", 062_Net_Geo_HD
+http://103.143.243.74:8081/062_Net_Geo_HD/index.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="TV-1", 063_Net_Geo_Wild_HD
+http://103.143.243.74:8081/063_Net_Geo_Wild_HD/index.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="TV-1", 064 Animal Planet HD
+http://103.143.243.74:8081/064_Animal_Planet_HD/index.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="TV-1", 065 History TV HD
+http://103.143.243.74:8081/065_History_TV_HD/index.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="TV-1", 066 Sony BBC Earth
+http://103.143.243.74:8081/066_Sony_BBC_Earth/index.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="TV-1", 067 BBC Earth
+http://103.143.243.74:8081/067_BBC_Earth/index.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="TV-1", 068 Travelxp HD
+http://103.143.243.74:8081/068_Travelxp_HD/index.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="TV-1", 069 Love Nature
+http://103.143.243.74:8081/069_Love_Nature/index.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="TV-1", 070 TLC
+http://103.143.243.74:8081/070_TLC/index.m3u8
+
