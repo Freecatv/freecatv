@@ -2,7 +2,7 @@
 
 #EXTINF:-1 tvg-logo="http://redforce.live/assets/images/ATN BANGLA1745044183.png" group-title="TV-1", 001 ATN Bangla
 http://103.143.243.74:8081/001_ATN_Bangla/index.m3u8
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/ATN BANGLA1745044183.png" group-title="TV-1", 002 ATN News HD
+#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/ATN NEWS1745045113.png" group-title="TV-1", 002 ATN News HD
 http://103.143.243.74:8081/002_ATN_News_HD/index.m3u8
 #EXTINF:-1 tvg-logo="http://redforce.live/assets/images/JAMUNA TV1745044052.png" group-title="TV-1", 003 Jamuna TV
 http://103.143.243.74:8081/003_Jamuna_TV/index.m3u8
