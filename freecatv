@@ -87,3 +87,22 @@ http://103.143.243.74:8081/040_Sony_Max/index.m3u8
 http://103.143.243.74:8081/041_Sony_Max_1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5xjsj7ns/Sony-Max2.png" group-title="TV-1", 042 Sony Max 2
 http://103.143.243.74:8081/042_Sony_Max_2/index.m3u8
+#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/ZEE TV HD1745033383.png" group-title="TV-1", 043 ZTV HD
+http://103.143.243.74:8081/043_ZTV_HD/index.m3u8
+#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/ZEE CINEMA HD1745033602.png" group-title="TV-1", 044 Zee Cinema HD
+http://103.143.243.74:8081/044_Zee_Cinema_HD/index.m3u8
+#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/STAR PLUS HD1745038577.png" group-title="TV-1", 045 Star Plus HD
+http://103.143.243.74:8081/045_Star_Plus_HD/index.m3u8
+#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/STAR GOLD HD1745034037.png" group-title="TV-1", 046 Star Gold HD
+http://103.143.243.74:8081/046_Star_Gold_HD/index.m3u8
+#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/STAR GOLD SELECT HD1745043508.png" group-title="TV-1", 047 Star Gold Select HD
+http://103.143.243.74:8081/047_Star_Gold_Select_HD/index.m3u8
+#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/STAR BHARAT HD1745045255.png" group-title="TV-1", 048 Star Bharat HD
+http://103.143.243.74:8081/048_Star_Bharat_HD/index.m3u8
+#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/COLORS HD1745031404.png" group-title="TV-1", 049 Colors HD
+http://103.143.243.74:8081/049_Colors_HD/index.m3u8
+#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/COLORS CINEPLEX HD1745033519.png" group-title="TV-1", 050 Colors Cineplex HD
+http://103.143.243.74:8081/050_Colors_Cineplex_HD/index.m3u8
+#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/AND%20PICTURS%20HD1745031440.png" group-title="TV-1", 051 &Pictures HD
+http://103.143.243.74:8081/051_andPictures_HD/index.m3u8
+
