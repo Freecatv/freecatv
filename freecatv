@@ -167,7 +167,7 @@ http://103.143.243.74:8081/078_Super_Hungama/index.m3u8
 http://103.143.243.74:8081/079_Zoom_Music/index.m3u8
 #EXTINF:-1 tvg-logo="http://redforce.live/assets/images/ZING1745042718.png" group-title="TV-1", 080 Zing Music
 http://103.143.243.74:8081/080_Zing_Music/index.m3u8
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/HUM TV1745044837.png" group-title="TV-1", 081 HITZ Music
+#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/HITZ%20MUSIC1745043478.png" group-title="TV-1", 081 HITZ Music
 http://103.143.243.74:8081/081_HITZ_Music/index.m3u8
 #EXTINF:-1 tvg-logo="http://redforce.live/assets/images/ALJAZEETA%20HD1745044358.png" group-title="TV-1", 082 Al Jazeera
 http://103.143.243.74:8081/082_Al_Jazeera/index.m3u8
