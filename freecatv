@@ -1,177 +1,177 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/ATN BANGLA1745044183.png" group-title="TV-1", 001 ATN Bangla
-http://http://tvsky.noobmaster.xyz/001_ATN_Bangla/index.m3u8
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/ATN NEWS1745045113.png" group-title="TV-1", 002 ATN News HD
-http://http://tvsky.noobmaster.xyz/002_ATN_News_HD/index.m3u8
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/JAMUNA TV1745044052.png" group-title="TV-1", 003 Jamuna TV
-http://http://tvsky.noobmaster.xyz/003_Jamuna_TV/index.m3u8
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/INDEPENDENT TV1745044077.png" group-title="TV-1", 004 Independent TV
-http://http://tvsky.noobmaster.xyz/004_Independent_TV/index.m3u8
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/MAASRANGA HD1745044117.png" group-title="TV-1", 005 Maasranga HD
-http://http://tvsky.noobmaster.xyz/005_Maasranga_HD/index.m3u8
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/SOMOY TV1745044149.png" group-title="TV-1", 006 Somoy News
-http://http://tvsky.noobmaster.xyz/006_Somoy_News/index.m3u8
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/CHANNEL I1745044237.png" group-title="TV-1", 007 Channel I HD
-http://http://tvsky.noobmaster.xyz/007_Channel_I_HD/index.m3u8
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/CHANNEL 241745044263.png" group-title="TV-1", 008 Channel 24
-http://http://tvsky.noobmaster.xyz/008_Channel_24/index.m3u8
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/NAGORIK1745042776.png" group-title="TV-1", 009 Nagarik TV
-http://http://tvsky.noobmaster.xyz/009_Nagarik_TV/index.m3u8
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/PEACE TV BANGLA1745044480.png" group-title="TV-1", 010 Peace Tv Bangla
-http://http://tvsky.noobmaster.xyz/010_Peace_Tv_Bangla/index.m3u8
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/MADANI TV HD1745044303.png" group-title="TV-1", 011 Madani Bangla HD
-http://http://tvsky.noobmaster.xyz/011_Madani_Bangla_HD/index.m3u8
+#EXTINF:-1 tvg-logo="redforce.live/assets/images/ATN BANGLA1745044183.png" group-title="TV-1", 001 ATN Bangla
+http://tvsky.noobmaster.xyz/001_ATN_Bangla/index.m3u8
+#EXTINF:-1 tvg-logo="redforce.live/assets/images/ATN NEWS1745045113.png" group-title="TV-1", 002 ATN News HD
+http://tvsky.noobmaster.xyz/002_ATN_News_HD/index.m3u8
+#EXTINF:-1 tvg-logo="redforce.live/assets/images/JAMUNA TV1745044052.png" group-title="TV-1", 003 Jamuna TV
+http://tvsky.noobmaster.xyz/003_Jamuna_TV/index.m3u8
+#EXTINF:-1 tvg-logo="redforce.live/assets/images/INDEPENDENT TV1745044077.png" group-title="TV-1", 004 Independent TV
+http://tvsky.noobmaster.xyz/004_Independent_TV/index.m3u8
+#EXTINF:-1 tvg-logo="redforce.live/assets/images/MAASRANGA HD1745044117.png" group-title="TV-1", 005 Maasranga HD
+http://tvsky.noobmaster.xyz/005_Maasranga_HD/index.m3u8
+#EXTINF:-1 tvg-logo="redforce.live/assets/images/SOMOY TV1745044149.png" group-title="TV-1", 006 Somoy News
+http://tvsky.noobmaster.xyz/006_Somoy_News/index.m3u8
+#EXTINF:-1 tvg-logo="redforce.live/assets/images/CHANNEL I1745044237.png" group-title="TV-1", 007 Channel I HD
+http://tvsky.noobmaster.xyz/007_Channel_I_HD/index.m3u8
+#EXTINF:-1 tvg-logo="redforce.live/assets/images/CHANNEL 241745044263.png" group-title="TV-1", 008 Channel 24
+http://tvsky.noobmaster.xyz/008_Channel_24/index.m3u8
+#EXTINF:-1 tvg-logo="redforce.live/assets/images/NAGORIK1745042776.png" group-title="TV-1", 009 Nagarik TV
+http://tvsky.noobmaster.xyz/009_Nagarik_TV/index.m3u8
+#EXTINF:-1 tvg-logo="redforce.live/assets/images/PEACE TV BANGLA1745044480.png" group-title="TV-1", 010 Peace Tv Bangla
+http://tvsky.noobmaster.xyz/010_Peace_Tv_Bangla/index.m3u8
+#EXTINF:-1 tvg-logo="redforce.live/assets/images/MADANI TV HD1745044303.png" group-title="TV-1", 011 Madani Bangla HD
+http://tvsky.noobmaster.xyz/011_Madani_Bangla_HD/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/T SPORTS1744972630.png" group-title="TV-1", 012 T Sports
-http://http://tvsky.noobmaster.xyz/012_T_Sports/index.m3u8
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/GTV1745042853.png" group-title="TV-1", 013 GTV HD
-http://http://tvsky.noobmaster.xyz/013_GTV_HD/index.m3u8
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/sony sports 1 hd.png" group-title="TV-1", 014 Sony Sports 1 HD
-http://http://tvsky.noobmaster.xyz/014_Sony_Sports_1_HD/index.m3u8
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/sony sports 2 hd.png" group-title="TV-1", 015 Sony Sports 2 HD
-http://http://tvsky.noobmaster.xyz/015_Sony_Sports_2_HD/index.m3u8
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/Sony sports 3.png" group-title="TV-1", 016 Sony Sports 3 HD
-http://http://tvsky.noobmaster.xyz/016_Sony_Sports_3_HD/index.m3u8
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/sony sports 4.png" group-title="TV-1", 017 Sony Sports 4
-http://http://tvsky.noobmaster.xyz/017_Sony_Sports_4/index.m3u8
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/sony sports 5 hd.png" group-title="TV-1", 018 Sony Sports 5 HD
-http://http://tvsky.noobmaster.xyz/018_Sony_Sports_5_HD/index.m3u8
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/PTV SPORTS HD1745044993.png" group-title="TV-1", 019 PTV Sports HD
-http://http://tvsky.noobmaster.xyz/019_PTV_Sports_HD/index.m3u8
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/STAR SPORTS 1 HD1744991778.png" group-title="TV-1", 020 Star Sports 1 HD
-http://http://tvsky.noobmaster.xyz/020_Star_Sports_1_HD/index.m3u8
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/STAR SPORTS 2 HD1744991842.png" group-title="TV-1", 021 Star Sports 2 HD
-http://http://tvsky.noobmaster.xyz/021_Star_Sports_2_HD/index.m3u8
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/STAR SPORTS 31745039893.png" group-title="TV-1", 022 Star Sports 3
-http://http://tvsky.noobmaster.xyz/022_Star_Sports_3/index.m3u8
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/STAR SELECT 1 HD1745038777.png" group-title="TV-1", 023 Star Sports Select 1 HD
-http://http://tvsky.noobmaster.xyz/023_Star_Sports_Select_1_HD/index.m3u8
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/STAR SPORTS SELECT 2 HD1745033722.png" group-title="TV-1", 024 Star Sports Select 2 HD
-http://http://tvsky.noobmaster.xyz/024_Star_Sports_Select_2_HD/index.m3u8
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/FAST SPORTS HD1745044750.png" group-title="TV-1", 025 Fast Sports HD
-http://http://tvsky.noobmaster.xyz/025_Fast_Sports_HD/index.m3u8
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/A SPORTS HD1745044782.png" group-title="TV-1", 026 A Sports HD
-http://http://tvsky.noobmaster.xyz/026_A_Sports_HD/index.m3u8
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/GOLF SPORTS1745043338.png" group-title="TV-1", 027 GOLF Channel
-http://http://tvsky.noobmaster.xyz/027_GOLF_Channel/index.m3u8
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/EUROSPORTS HD1745040406.png" group-title="TV-1", 028 Eurosport HD
-http://http://tvsky.noobmaster.xyz/028_Eurosport_HD/index.m3u8
+#EXTINF:-1 tvg-logo="redforce.live/assets/images/T SPORTS1744972630.png" group-title="TV-1", 012 T Sports
+http://tvsky.noobmaster.xyz/012_T_Sports/index.m3u8
+#EXTINF:-1 tvg-logo="redforce.live/assets/images/GTV1745042853.png" group-title="TV-1", 013 GTV HD
+http://tvsky.noobmaster.xyz/013_GTV_HD/index.m3u8
+#EXTINF:-1 tvg-logo="redforce.live/assets/images/sony sports 1 hd.png" group-title="TV-1", 014 Sony Sports 1 HD
+http://tvsky.noobmaster.xyz/014_Sony_Sports_1_HD/index.m3u8
+#EXTINF:-1 tvg-logo="redforce.live/assets/images/sony sports 2 hd.png" group-title="TV-1", 015 Sony Sports 2 HD
+http://tvsky.noobmaster.xyz/015_Sony_Sports_2_HD/index.m3u8
+#EXTINF:-1 tvg-logo="redforce.live/assets/images/Sony sports 3.png" group-title="TV-1", 016 Sony Sports 3 HD
+http://tvsky.noobmaster.xyz/016_Sony_Sports_3_HD/index.m3u8
+#EXTINF:-1 tvg-logo="redforce.live/assets/images/sony sports 4.png" group-title="TV-1", 017 Sony Sports 4
+http://tvsky.noobmaster.xyz/017_Sony_Sports_4/index.m3u8
+#EXTINF:-1 tvg-logo="redforce.live/assets/images/sony sports 5 hd.png" group-title="TV-1", 018 Sony Sports 5 HD
+http://tvsky.noobmaster.xyz/018_Sony_Sports_5_HD/index.m3u8
+#EXTINF:-1 tvg-logo="redforce.live/assets/images/PTV SPORTS HD1745044993.png" group-title="TV-1", 019 PTV Sports HD
+http://tvsky.noobmaster.xyz/019_PTV_Sports_HD/index.m3u8
+#EXTINF:-1 tvg-logo="redforce.live/assets/images/STAR SPORTS 1 HD1744991778.png" group-title="TV-1", 020 Star Sports 1 HD
+http://tvsky.noobmaster.xyz/020_Star_Sports_1_HD/index.m3u8
+#EXTINF:-1 tvg-logo="redforce.live/assets/images/STAR SPORTS 2 HD1744991842.png" group-title="TV-1", 021 Star Sports 2 HD
+http://tvsky.noobmaster.xyz/021_Star_Sports_2_HD/index.m3u8
+#EXTINF:-1 tvg-logo="redforce.live/assets/images/STAR SPORTS 31745039893.png" group-title="TV-1", 022 Star Sports 3
+http://tvsky.noobmaster.xyz/022_Star_Sports_3/index.m3u8
+#EXTINF:-1 tvg-logo="redforce.live/assets/images/STAR SELECT 1 HD1745038777.png" group-title="TV-1", 023 Star Sports Select 1 HD
+http://tvsky.noobmaster.xyz/023_Star_Sports_Select_1_HD/index.m3u8
+#EXTINF:-1 tvg-logo="redforce.live/assets/images/STAR SPORTS SELECT 2 HD1745033722.png" group-title="TV-1", 024 Star Sports Select 2 HD
+http://tvsky.noobmaster.xyz/024_Star_Sports_Select_2_HD/index.m3u8
+#EXTINF:-1 tvg-logo="redforce.live/assets/images/FAST SPORTS HD1745044750.png" group-title="TV-1", 025 Fast Sports HD
+http://tvsky.noobmaster.xyz/025_Fast_Sports_HD/index.m3u8
+#EXTINF:-1 tvg-logo="redforce.live/assets/images/A SPORTS HD1745044782.png" group-title="TV-1", 026 A Sports HD
+http://tvsky.noobmaster.xyz/026_A_Sports_HD/index.m3u8
+#EXTINF:-1 tvg-logo="redforce.live/assets/images/GOLF SPORTS1745043338.png" group-title="TV-1", 027 GOLF Channel
+http://tvsky.noobmaster.xyz/027_GOLF_Channel/index.m3u8
+#EXTINF:-1 tvg-logo="redforce.live/assets/images/EUROSPORTS HD1745040406.png" group-title="TV-1", 028 Eurosport HD
+http://tvsky.noobmaster.xyz/028_Eurosport_HD/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/STAR MOVIES HD1745040174.png" group-title="TV-1", 029 Star Movies HD
-http://http://tvsky.noobmaster.xyz/029_Star_Movies_HD/index.m3u8
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/STAR MOVIES SELECT HD1745038723.png" group-title="TV-1", 030 Star Movies Select HD
-http://http://tvsky.noobmaster.xyz/030_Star_Movies_Select_HD/index.m3u8
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/SONY PIX HD1745039925.png" group-title="TV-1", 031 Sony Pix HD
-http://http://tvsky.noobmaster.xyz/031_Sony_Pix_HD/index.m3u8
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/MNX HD1745039955.png" group-title="TV-1", 032 MNX HD
-http://http://tvsky.noobmaster.xyz/032_MNX_HD/index.m3u8
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/MN PLUS1745040057.png" group-title="TV-1", 033 MN+ HD
-http://http://tvsky.noobmaster.xyz/033_MN_Plus_HD/index.m3u8
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/MOVIES NOW HD1745040368.png" group-title="TV-1", 034 Movies Now HD
-http://http://tvsky.noobmaster.xyz/034_Movies_Now_HD/index.m3u8
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/ROMEDY NOW1745039988.png" group-title="TV-1", 035 Romedy Now
-http://http://tvsky.noobmaster.xyz/035_Romedy_Now/index.m3u8
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/ZEE CAFE HD1745040102.png" group-title="TV-1", 036 Zee Café HD
-http://http://tvsky.noobmaster.xyz/036_Zee_Cafe_HD/index.m3u8
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/LOTUS TV1745044960.png" group-title="TV-1", 037 Lotus Macau
-http://http://tvsky.noobmaster.xyz/037_Lotus_Macau/index.m3u8
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/AXN HD1745045171.png" group-title="TV-1", 038 AXN
-http://http://tvsky.noobmaster.xyz/038_AXN/index.m3u8
+#EXTINF:-1 tvg-logo="redforce.live/assets/images/STAR MOVIES HD1745040174.png" group-title="TV-1", 029 Star Movies HD
+http://tvsky.noobmaster.xyz/029_Star_Movies_HD/index.m3u8
+#EXTINF:-1 tvg-logo="redforce.live/assets/images/STAR MOVIES SELECT HD1745038723.png" group-title="TV-1", 030 Star Movies Select HD
+http://tvsky.noobmaster.xyz/030_Star_Movies_Select_HD/index.m3u8
+#EXTINF:-1 tvg-logo="redforce.live/assets/images/SONY PIX HD1745039925.png" group-title="TV-1", 031 Sony Pix HD
+http://tvsky.noobmaster.xyz/031_Sony_Pix_HD/index.m3u8
+#EXTINF:-1 tvg-logo="redforce.live/assets/images/MNX HD1745039955.png" group-title="TV-1", 032 MNX HD
+http://tvsky.noobmaster.xyz/032_MNX_HD/index.m3u8
+#EXTINF:-1 tvg-logo="redforce.live/assets/images/MN PLUS1745040057.png" group-title="TV-1", 033 MN+ HD
+http://tvsky.noobmaster.xyz/033_MN_Plus_HD/index.m3u8
+#EXTINF:-1 tvg-logo="redforce.live/assets/images/MOVIES NOW HD1745040368.png" group-title="TV-1", 034 Movies Now HD
+http://tvsky.noobmaster.xyz/034_Movies_Now_HD/index.m3u8
+#EXTINF:-1 tvg-logo="redforce.live/assets/images/ROMEDY NOW1745039988.png" group-title="TV-1", 035 Romedy Now
+http://tvsky.noobmaster.xyz/035_Romedy_Now/index.m3u8
+#EXTINF:-1 tvg-logo="redforce.live/assets/images/ZEE CAFE HD1745040102.png" group-title="TV-1", 036 Zee Café HD
+http://tvsky.noobmaster.xyz/036_Zee_Cafe_HD/index.m3u8
+#EXTINF:-1 tvg-logo="redforce.live/assets/images/LOTUS TV1745044960.png" group-title="TV-1", 037 Lotus Macau
+http://tvsky.noobmaster.xyz/037_Lotus_Macau/index.m3u8
+#EXTINF:-1 tvg-logo="redforce.live/assets/images/AXN HD1745045171.png" group-title="TV-1", 038 AXN
+http://tvsky.noobmaster.xyz/038_AXN/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/SONY ENT HD1745033553.png" group-title="TV-1", 039 Sony TV HD
-http://http://tvsky.noobmaster.xyz/039_Sony_TV_HD/index.m3u8
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/SONY MAX HD1745034069.png" group-title="TV-1", 040 Sony Max
-http://http://tvsky.noobmaster.xyz/040_Sony_Max/index.m3u8
+#EXTINF:-1 tvg-logo="redforce.live/assets/images/SONY ENT HD1745033553.png" group-title="TV-1", 039 Sony TV HD
+http://tvsky.noobmaster.xyz/039_Sony_TV_HD/index.m3u8
+#EXTINF:-1 tvg-logo="redforce.live/assets/images/SONY MAX HD1745034069.png" group-title="TV-1", 040 Sony Max
+http://tvsky.noobmaster.xyz/040_Sony_Max/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cSM8Vhfp/Sony-Max-1.png" group-title="TV-1", 041 Sony Max 1
-http://http://tvsky.noobmaster.xyz/041_Sony_Max_1/index.m3u8
+http://tvsky.noobmaster.xyz/041_Sony_Max_1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5xjsj7ns/Sony-Max2.png" group-title="TV-1", 042 Sony Max 2
-http://http://tvsky.noobmaster.xyz/042_Sony_Max_2/index.m3u8
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/ZEE TV HD1745033383.png" group-title="TV-1", 043 ZTV HD
-http://http://tvsky.noobmaster.xyz/043_ZTV_HD/index.m3u8
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/ZEE CINEMA HD1745033602.png" group-title="TV-1", 044 Zee Cinema HD
-http://http://tvsky.noobmaster.xyz/044_Zee_Cinema_HD/index.m3u8
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/STAR PLUS HD1745038577.png" group-title="TV-1", 045 Star Plus HD
-http://http://tvsky.noobmaster.xyz/045_Star_Plus_HD/index.m3u8
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/STAR GOLD HD1745034037.png" group-title="TV-1", 046 Star Gold HD
-http://http://tvsky.noobmaster.xyz/046_Star_Gold_HD/index.m3u8
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/STAR GOLD SELECT HD1745043508.png" group-title="TV-1", 047 Star Gold Select HD
-http://http://tvsky.noobmaster.xyz/047_Star_Gold_Select_HD/index.m3u8
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/STAR BHARAT HD1745045255.png" group-title="TV-1", 048 Star Bharat HD
-http://http://tvsky.noobmaster.xyz/048_Star_Bharat_HD/index.m3u8
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/COLORS HD1745031404.png" group-title="TV-1", 049 Colors HD
-http://http://tvsky.noobmaster.xyz/049_Colors_HD/index.m3u8
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/COLORS CINEPLEX HD1745033519.png" group-title="TV-1", 050 Colors Cineplex HD
-http://http://tvsky.noobmaster.xyz/050_Colors_Cineplex_HD/index.m3u8
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/AND%20PICTURS%20HD1745031440.png" group-title="TV-1", 051 &Pictures HD
-http://http://tvsky.noobmaster.xyz/051_andPictures_HD/index.m3u8
+http://tvsky.noobmaster.xyz/042_Sony_Max_2/index.m3u8
+#EXTINF:-1 tvg-logo="redforce.live/assets/images/ZEE TV HD1745033383.png" group-title="TV-1", 043 ZTV HD
+http://tvsky.noobmaster.xyz/043_ZTV_HD/index.m3u8
+#EXTINF:-1 tvg-logo="redforce.live/assets/images/ZEE CINEMA HD1745033602.png" group-title="TV-1", 044 Zee Cinema HD
+http://tvsky.noobmaster.xyz/044_Zee_Cinema_HD/index.m3u8
+#EXTINF:-1 tvg-logo="redforce.live/assets/images/STAR PLUS HD1745038577.png" group-title="TV-1", 045 Star Plus HD
+http://tvsky.noobmaster.xyz/045_Star_Plus_HD/index.m3u8
+#EXTINF:-1 tvg-logo="redforce.live/assets/images/STAR GOLD HD1745034037.png" group-title="TV-1", 046 Star Gold HD
+http://tvsky.noobmaster.xyz/046_Star_Gold_HD/index.m3u8
+#EXTINF:-1 tvg-logo="redforce.live/assets/images/STAR GOLD SELECT HD1745043508.png" group-title="TV-1", 047 Star Gold Select HD
+http://tvsky.noobmaster.xyz/047_Star_Gold_Select_HD/index.m3u8
+#EXTINF:-1 tvg-logo="redforce.live/assets/images/STAR BHARAT HD1745045255.png" group-title="TV-1", 048 Star Bharat HD
+http://tvsky.noobmaster.xyz/048_Star_Bharat_HD/index.m3u8
+#EXTINF:-1 tvg-logo="redforce.live/assets/images/COLORS HD1745031404.png" group-title="TV-1", 049 Colors HD
+http://tvsky.noobmaster.xyz/049_Colors_HD/index.m3u8
+#EXTINF:-1 tvg-logo="redforce.live/assets/images/COLORS CINEPLEX HD1745033519.png" group-title="TV-1", 050 Colors Cineplex HD
+http://tvsky.noobmaster.xyz/050_Colors_Cineplex_HD/index.m3u8
+#EXTINF:-1 tvg-logo="redforce.live/assets/images/AND%20PICTURS%20HD1745031440.png" group-title="TV-1", 051 &Pictures HD
+http://tvsky.noobmaster.xyz/051_andPictures_HD/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/ZEE BANGLA HD1745033633.png" group-title="TV-1", 052 Zee Bangla HD
-http://http://tvsky.noobmaster.xyz/052_Zee_Bangla_HD/index.m3u8
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/ZEE BANGLA CINEMA1745040996.png" group-title="TV-1", 053 Zee Bangla Cinema
-http://http://tvsky.noobmaster.xyz/053_Zee_Bangla_Cinema/index.m3u8
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/STAR JALSHA HD1745033819.png" group-title="TV-1", 054 Star Jalsha HD
-http://http://tvsky.noobmaster.xyz/054_Star_Jalsha_HD/index.m3u8
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/JALSHA MOVIES HD1745034005.png" group-title="TV-1", 055 Star Jalsha Movied HD
-http://http://tvsky.noobmaster.xyz/055_Star_Jalsha_Movied_HD/index.m3u8
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/COLORS BANGLA HD1745033576.png" group-title="TV-1", 056 Colors Bangla HD
-http://http://tvsky.noobmaster.xyz/056_Colors_Bangla_HD/index.m3u8
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/COLORS BANGLA CINEMA1745041486.png" group-title="TV-1", 057 Colors Bangla Cinema
-http://http://tvsky.noobmaster.xyz/057_Colors_Bangla_Cinema/index.m3u8
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/SONY AAT1745041124.png" group-title="TV-1", 058 Sony Aath
-http://http://tvsky.noobmaster.xyz/058_Sony_Aath/index.m3u8
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/SUN BANGLA HD1745033791.png" group-title="TV-1", 059 Sun Bangla HD
-http://http://tvsky.noobmaster.xyz/059_Sun_Bangla_HD/index.m3u8
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/ENTERR 101745044330.png" group-title="TV-1", 060 Enterr10 Bangla
-http://http://tvsky.noobmaster.xyz/060_Enterr10_Bangla/index.m3u8
+#EXTINF:-1 tvg-logo="redforce.live/assets/images/ZEE BANGLA HD1745033633.png" group-title="TV-1", 052 Zee Bangla HD
+http://tvsky.noobmaster.xyz/052_Zee_Bangla_HD/index.m3u8
+#EXTINF:-1 tvg-logo="redforce.live/assets/images/ZEE BANGLA CINEMA1745040996.png" group-title="TV-1", 053 Zee Bangla Cinema
+http://tvsky.noobmaster.xyz/053_Zee_Bangla_Cinema/index.m3u8
+#EXTINF:-1 tvg-logo="redforce.live/assets/images/STAR JALSHA HD1745033819.png" group-title="TV-1", 054 Star Jalsha HD
+http://tvsky.noobmaster.xyz/054_Star_Jalsha_HD/index.m3u8
+#EXTINF:-1 tvg-logo="redforce.live/assets/images/JALSHA MOVIES HD1745034005.png" group-title="TV-1", 055 Star Jalsha Movied HD
+http://tvsky.noobmaster.xyz/055_Star_Jalsha_Movied_HD/index.m3u8
+#EXTINF:-1 tvg-logo="redforce.live/assets/images/COLORS BANGLA HD1745033576.png" group-title="TV-1", 056 Colors Bangla HD
+http://tvsky.noobmaster.xyz/056_Colors_Bangla_HD/index.m3u8
+#EXTINF:-1 tvg-logo="redforce.live/assets/images/COLORS BANGLA CINEMA1745041486.png" group-title="TV-1", 057 Colors Bangla Cinema
+http://tvsky.noobmaster.xyz/057_Colors_Bangla_Cinema/index.m3u8
+#EXTINF:-1 tvg-logo="redforce.live/assets/images/SONY AAT1745041124.png" group-title="TV-1", 058 Sony Aath
+http://tvsky.noobmaster.xyz/058_Sony_Aath/index.m3u8
+#EXTINF:-1 tvg-logo="redforce.live/assets/images/SUN BANGLA HD1745033791.png" group-title="TV-1", 059 Sun Bangla HD
+http://tvsky.noobmaster.xyz/059_Sun_Bangla_HD/index.m3u8
+#EXTINF:-1 tvg-logo="redforce.live/assets/images/ENTERR 101745044330.png" group-title="TV-1", 060 Enterr10 Bangla
+http://tvsky.noobmaster.xyz/060_Enterr10_Bangla/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/discovery hd.png" group-title="TV-1", 061_Discovery_HD
-http://http://tvsky.noobmaster.xyz/061_Discovery_HD/index.m3u8
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/NATGEO HD1745038634.png" group-title="TV-1", 062_Net_Geo_HD
-http://http://tvsky.noobmaster.xyz/062_Net_Geo_HD/index.m3u8
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/NATGEO WILD HD1745038542.png" group-title="TV-1", 063_Net_Geo_Wild_HD
-http://http://tvsky.noobmaster.xyz/063_Net_Geo_Wild_HD/index.m3u8
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/ANIMAL%20PLANET%20HD1745038671.png" group-title="TV-1", 064 Animal Planet HD
-http://http://tvsky.noobmaster.xyz/064_Animal_Planet_HD/index.m3u8
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/HISTORY TV HD1745033679.png" group-title="TV-1", 065 History TV HD
-http://http://tvsky.noobmaster.xyz/065_History_TV_HD/index.m3u8
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/SONY BBC EARTH HD1745031522.png" group-title="TV-1", 066 Sony BBC Earth
-http://http://tvsky.noobmaster.xyz/066_Sony_BBC_Earth/index.m3u8
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/BBC EARTH HD1745150455.png" group-title="TV-1", 067 BBC Earth
-http://http://tvsky.noobmaster.xyz/067_BBC_Earth/index.m3u8
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/TRAVEL XP1745043118.png" group-title="TV-1", 068 Travelxp HD
-http://http://tvsky.noobmaster.xyz/068_Travelxp_HD/index.m3u8
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/LOVE NATURE1745043370.png" group-title="TV-1", 069 Love Nature
-http://http://tvsky.noobmaster.xyz/069_Love_Nature/index.m3u8
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/TLC HD1745033484.png" group-title="TV-1", 070 TLC
-http://http://tvsky.noobmaster.xyz/070_TLC/index.m3u8
+#EXTINF:-1 tvg-logo="redforce.live/assets/images/discovery hd.png" group-title="TV-1", 061_Discovery_HD
+http://tvsky.noobmaster.xyz/061_Discovery_HD/index.m3u8
+#EXTINF:-1 tvg-logo="redforce.live/assets/images/NATGEO HD1745038634.png" group-title="TV-1", 062_Net_Geo_HD
+http://tvsky.noobmaster.xyz/062_Net_Geo_HD/index.m3u8
+#EXTINF:-1 tvg-logo="redforce.live/assets/images/NATGEO WILD HD1745038542.png" group-title="TV-1", 063_Net_Geo_Wild_HD
+http://tvsky.noobmaster.xyz/063_Net_Geo_Wild_HD/index.m3u8
+#EXTINF:-1 tvg-logo="redforce.live/assets/images/ANIMAL%20PLANET%20HD1745038671.png" group-title="TV-1", 064 Animal Planet HD
+http://tvsky.noobmaster.xyz/064_Animal_Planet_HD/index.m3u8
+#EXTINF:-1 tvg-logo="redforce.live/assets/images/HISTORY TV HD1745033679.png" group-title="TV-1", 065 History TV HD
+http://tvsky.noobmaster.xyz/065_History_TV_HD/index.m3u8
+#EXTINF:-1 tvg-logo="redforce.live/assets/images/SONY BBC EARTH HD1745031522.png" group-title="TV-1", 066 Sony BBC Earth
+http://tvsky.noobmaster.xyz/066_Sony_BBC_Earth/index.m3u8
+#EXTINF:-1 tvg-logo="redforce.live/assets/images/BBC EARTH HD1745150455.png" group-title="TV-1", 067 BBC Earth
+http://tvsky.noobmaster.xyz/067_BBC_Earth/index.m3u8
+#EXTINF:-1 tvg-logo="redforce.live/assets/images/TRAVEL XP1745043118.png" group-title="TV-1", 068 Travelxp HD
+http://tvsky.noobmaster.xyz/068_Travelxp_HD/index.m3u8
+#EXTINF:-1 tvg-logo="redforce.live/assets/images/LOVE NATURE1745043370.png" group-title="TV-1", 069 Love Nature
+http://tvsky.noobmaster.xyz/069_Love_Nature/index.m3u8
+#EXTINF:-1 tvg-logo="redforce.live/assets/images/TLC HD1745033484.png" group-title="TV-1", 070 TLC
+http://tvsky.noobmaster.xyz/070_TLC/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/DURANTA TV1745043400.png" group-title="TV-1", 071 Duronto
-http://http://tvsky.noobmaster.xyz/071_Duronto/index.m3u8
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/CARTOON NETWORK1745033414.png" group-title="TV-1", 072 CN HD
-http://http://tvsky.noobmaster.xyz/072_CN_HD/index.m3u8
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/NICK1745041451.png" group-title="TV-1", 073 Nick
-http://http://tvsky.noobmaster.xyz/073_Nick/index.m3u8
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/NICK JR1745042397.png" group-title="TV-1", 074 Nic JR
-http://http://tvsky.noobmaster.xyz/074_Nic_JR/index.m3u8
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/POGO1745041515.png" group-title="TV-1", 075 Pogo
-http://http://tvsky.noobmaster.xyz/075_Pogo/index.m3u8
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/SONY YAY1745045046.png" group-title="TV-1", 076 Sony Yay
-http://http://tvsky.noobmaster.xyz/076_Sony_Yay/index.m3u8
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/SONIC1745041154.png" group-title="TV-1", 077 Sonic 
-http://http://tvsky.noobmaster.xyz/077_Sonic_/index.m3u8
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/SUPER HUNGAMA1745044022.png" group-title="TV-1", 078 Super Hungama
-http://http://tvsky.noobmaster.xyz/078_Super_Hungama/index.m3u8
+#EXTINF:-1 tvg-logo="redforce.live/assets/images/DURANTA TV1745043400.png" group-title="TV-1", 071 Duronto
+http://tvsky.noobmaster.xyz/071_Duronto/index.m3u8
+#EXTINF:-1 tvg-logo="redforce.live/assets/images/CARTOON NETWORK1745033414.png" group-title="TV-1", 072 CN HD
+http://tvsky.noobmaster.xyz/072_CN_HD/index.m3u8
+#EXTINF:-1 tvg-logo="redforce.live/assets/images/NICK1745041451.png" group-title="TV-1", 073 Nick
+http://tvsky.noobmaster.xyz/073_Nick/index.m3u8
+#EXTINF:-1 tvg-logo="redforce.live/assets/images/NICK JR1745042397.png" group-title="TV-1", 074 Nic JR
+http://tvsky.noobmaster.xyz/074_Nic_JR/index.m3u8
+#EXTINF:-1 tvg-logo="redforce.live/assets/images/POGO1745041515.png" group-title="TV-1", 075 Pogo
+http://tvsky.noobmaster.xyz/075_Pogo/index.m3u8
+#EXTINF:-1 tvg-logo="redforce.live/assets/images/SONY YAY1745045046.png" group-title="TV-1", 076 Sony Yay
+http://tvsky.noobmaster.xyz/076_Sony_Yay/index.m3u8
+#EXTINF:-1 tvg-logo="redforce.live/assets/images/SONIC1745041154.png" group-title="TV-1", 077 Sonic 
+http://tvsky.noobmaster.xyz/077_Sonic_/index.m3u8
+#EXTINF:-1 tvg-logo="redforce.live/assets/images/SUPER HUNGAMA1745044022.png" group-title="TV-1", 078 Super Hungama
+http://tvsky.noobmaster.xyz/078_Super_Hungama/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/ZOOM1745040961.png" group-title="TV-1", 079 Zoom Music
-http://http://tvsky.noobmaster.xyz/079_Zoom_Music/index.m3u8
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/ZING1745042718.png" group-title="TV-1", 080 Zing Music
-http://http://tvsky.noobmaster.xyz/080_Zing_Music/index.m3u8
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/HITZ%20MUSIC1745043478.png" group-title="TV-1", 081 HITZ Music
-http://http://tvsky.noobmaster.xyz/081_HITZ_Music/index.m3u8
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/ALJAZEETA%20HD1745044358.png" group-title="TV-1", 082 Al Jazeera
-http://http://tvsky.noobmaster.xyz/082_Al_Jazeera/index.m3u8
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/GEO NEWS HD1745044892.png" group-title="TV-1", 083 Geo News
-http://http://tvsky.noobmaster.xyz/083_Geo_News/index.m3u8
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/HUM%20TV1745044837.png" group-title="TV-1", 084 HUM TV
-http://http://tvsky.noobmaster.xyz/084_HUM_TV/index.m3u8
+#EXTINF:-1 tvg-logo="redforce.live/assets/images/ZOOM1745040961.png" group-title="TV-1", 079 Zoom Music
+http://tvsky.noobmaster.xyz/079_Zoom_Music/index.m3u8
+#EXTINF:-1 tvg-logo="redforce.live/assets/images/ZING1745042718.png" group-title="TV-1", 080 Zing Music
+http://tvsky.noobmaster.xyz/080_Zing_Music/index.m3u8
+#EXTINF:-1 tvg-logo="redforce.live/assets/images/HITZ%20MUSIC1745043478.png" group-title="TV-1", 081 HITZ Music
+http://tvsky.noobmaster.xyz/081_HITZ_Music/index.m3u8
+#EXTINF:-1 tvg-logo="redforce.live/assets/images/ALJAZEETA%20HD1745044358.png" group-title="TV-1", 082 Al Jazeera
+http://tvsky.noobmaster.xyz/082_Al_Jazeera/index.m3u8
+#EXTINF:-1 tvg-logo="redforce.live/assets/images/GEO NEWS HD1745044892.png" group-title="TV-1", 083 Geo News
+http://tvsky.noobmaster.xyz/083_Geo_News/index.m3u8
+#EXTINF:-1 tvg-logo="redforce.live/assets/images/HUM%20TV1745044837.png" group-title="TV-1", 084 HUM TV
+http://tvsky.noobmaster.xyz/084_HUM_TV/index.m3u8
