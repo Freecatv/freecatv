@@ -2,6 +2,9 @@
 
 #EXTINF:-1 tvg-logo="http://redforce.live/assets/images/T SPORTS1744972630.png" group-title="TV-1",000 T Sports
 https://tvsen5.aynaott.com/tsports/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/PTV SPORTS HD1745044993.png" group-title="TV-1", 000 PTV Sports HD
+https://tvsen5.aynaott.com/Ptvsports/tracks-v1a1/mono.ts.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://redforce.live/assets/images/ATN BANGLA1745044183.png" group-title="TV-1", 001 ATN Bangla
 http://noob.tvsky.fun/001_ATN_Bangla/index.m3u8
