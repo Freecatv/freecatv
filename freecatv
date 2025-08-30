@@ -11,7 +11,7 @@ http://noob.tvsky.fun/001_ATN_Bangla/index.m3u8
 #EXTINF:-1 tvg-logo="http://redforce.live/assets/images/ATN NEWS1745045113.png" group-title="TV-1", 002 ATN News HD
 http://noob.tvsky.fun/002_ATN_News_HD/index.m3u8
 #EXTINF:-1 tvg-logo="http://redforce.live/assets/images/JAMUNA TV1745044052.png" group-title="TV-1", 003 Jamuna TV
-http://noob.tvsky.fun/003_Jamuna_TV/index.m3u8
+https://flussonic.noob-on-top.workers.dev/003_Jamuna_TV.m3u8
 #EXTINF:-1 tvg-logo="http://redforce.live/assets/images/INDEPENDENT TV1745044077.png" group-title="TV-1", 004 Independent TV
 http://noob.tvsky.fun/004_Independent_TV/index.m3u8
 #EXTINF:-1 tvg-logo="http://redforce.live/assets/images/MAASRANGA HD1745044117.png" group-title="TV-1", 005 Maasranga HD
