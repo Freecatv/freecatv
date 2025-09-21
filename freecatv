@@ -40,15 +40,15 @@ http://10.11.11.11/SONYSPORTS4/index.m3u8
 #EXTINF:-1 tvg-logo="http://redforce.live/assets/images/sony sports 5 hd.png" group-title="TV-1", 019 Sony Sports 5 HD
 http://10.11.11.11/SONYSPORTS5HD/index.m3u8
 #EXTINF:-1 tvg-logo="http://redforce.live/assets/images/STAR SPORTS 1 HD1744991778.png" group-title="TV-1", 020 Star Sports 1 HD
-
+http://10.11.11.11/STARSPORTS1HD/index.m3u8
 #EXTINF:-1 tvg-logo="http://redforce.live/assets/images/STAR SPORTS 2 HD1744991842.png" group-title="TV-1", 021 Star Sports 2 HD
-
+http://10.11.11.11/STARSPORTS2HD/index.m3u8
 #EXTINF:-1 tvg-logo="http://redforce.live/assets/images/STAR SPORTS 31745039893.png" group-title="TV-1", 022 Star Sports 3
-
+http://10.11.11.11/STARSPORTS3/index.m3u8
 #EXTINF:-1 tvg-logo="http://redforce.live/assets/images/STAR SELECT 1 HD1745038777.png" group-title="TV-1", 023 Star Sports Select 1 HD
-
+http://10.11.11.11/STARSELECT1HD/index.m3u8
 #EXTINF:-1 tvg-logo="http://redforce.live/assets/images/STAR SPORTS SELECT 2 HD1745033722.png" group-title="TV-1", 024 Star Sports Select 2 HD
-
+http://10.11.11.11/STARSPORTSSELECT2HD/index.m3u8
 #EXTINF:-1 tvg-logo="http://redforce.live/assets/images/FAST SPORTS HD1745044750.png" group-title="TV-1", 025 Fast Sports HD
 http://10.11.11.11/FASTSPORTSHD/index.m3u8
 #EXTINF:-1 tvg-logo="http://redforce.live/assets/images/A SPORTS HD1745044782.png" group-title="TV-1", 026 A Sports HD
@@ -94,11 +94,11 @@ http://10.11.11.11/ZEETVHD/index.m3u8
 #EXTINF:-1 tvg-logo="http://redforce.live/assets/images/ZEE CINEMA HD1745033602.png" group-title="TV-1", 045 Zee Cinema HD
 http://10.11.11.11/ZEECINEMAHD/index.m3u8
 #EXTINF:-1 tvg-logo="http://redforce.live/assets/images/STAR PLUS HD1745038577.png" group-title="TV-1", 046 Star Plus HD
-
+http://10.11.11.11/STARPLUSHD/index.m3u8
 #EXTINF:-1 tvg-logo="http://redforce.live/assets/images/STAR GOLD HD1745034037.png" group-title="TV-1", 047 Star Gold HD
-
+http://10.11.11.11/STARGOLDHD/index.m3u8
 #EXTINF:-1 tvg-logo="http://redforce.live/assets/images/STAR GOLD SELECT HD1745043508.png" group-title="TV-1", 048 Star Gold Select HD
-
+http://10.11.11.11/STARGOLDSELECTHD/index.m3u8
 #EXTINF:-1 tvg-logo="http://redforce.live/assets/images/STAR BHARAT HD1745045255.png" group-title="TV-1", 049 Star Bharat HD
 http://10.11.11.11/STARBHARATHD/index.m3u8
 #EXTINF:-1 tvg-logo="http://redforce.live/assets/images/COLORS HD1745031404.png" group-title="TV-1", 050 Colors HD
