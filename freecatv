@@ -54,9 +54,9 @@ http://10.11.11.11/PTVSPORTSHD/index.m3u8
 #EXTINF:-1 tvg-logo="http://redforce.live/assets/images/A SPORTS HD1745044782.png" group-title="TV-1", 026 A Sports HD
 http://10.11.11.11/ASPORTSHD/index.m3u8
 #EXTINF:-1 tvg-logo="http://redforce.live/assets/images/GOLF SPORTS1745043338.png" group-title="TV-1", 027 GOLF Channel
-
+http://10.11.11.11/GOLFSPORTS/index.m3u8
 #EXTINF:-1 tvg-logo="http://redforce.live/assets/images/EUROSPORTS HD1745040406.png" group-title="TV-1", 028 Eurosport HD
-
+http://10.11.11.11/EUROSPORTSHD/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://redforce.live/assets/images/STAR MOVIES HD1745040174.png" group-title="TV-1", 029 Star Movies HD
 
@@ -75,103 +75,105 @@ http://10.11.11.11/ASPORTSHD/index.m3u8
 #EXTINF:-1 tvg-logo="http://redforce.live/assets/images/ZEE CAFE HD1745040102.png" group-title="TV-1", 036 Zee Café HD
 
 #EXTINF:-1 tvg-logo="http://redforce.live/assets/images/LOTUS TV1745044960.png" group-title="TV-1", 037 Lotus Macau
-
+http://10.11.11.11/LOTUSTV/index.m3u8
 #EXTINF:-1 tvg-logo="http://redforce.live/assets/images/AXN HD1745045171.png" group-title="TV-1", 038 AXN
 http://10.11.11.11/AXNHD/index.m3u8
+#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/AND%20XPLORE1745043080.png" group-title="TV-1", 039 &xplore
+http://10.11.11.11/ANDXPLORE/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/SONY ENT HD1745033553.png" group-title="TV-1", 039 Sony TV HD
+#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/SONY ENT HD1745033553.png" group-title="TV-1", 040 Sony TV HD
+http://10.11.11.11/SONYENTHD/index.m3u8
+#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/SONY MAX HD1745034069.png" group-title="TV-1", 041 Sony Max
 
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/SONY MAX HD1745034069.png" group-title="TV-1", 040 Sony Max
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cSM8Vhfp/Sony-Max-1.png" group-title="TV-1", 041 Sony Max 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cSM8Vhfp/Sony-Max-1.png" group-title="TV-1", 042 Sony Max 1
 http://10.11.11.11/ANDPRIVEHD/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5xjsj7ns/Sony-Max2.png" group-title="TV-1", 042 Sony Max 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5xjsj7ns/Sony-Max2.png" group-title="TV-1", 043 Sony Max 2
 http://10.11.11.11/ANDFLIXHD/index.m3u8
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/ZEE TV HD1745033383.png" group-title="TV-1", 043 ZTV HD
+#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/ZEE TV HD1745033383.png" group-title="TV-1", 0443 ZTV HD
 
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/ZEE CINEMA HD1745033602.png" group-title="TV-1", 044 Zee Cinema HD
+#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/ZEE CINEMA HD1745033602.png" group-title="TV-1", 045 Zee Cinema HD
 
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/STAR PLUS HD1745038577.png" group-title="TV-1", 045 Star Plus HD
+#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/STAR PLUS HD1745038577.png" group-title="TV-1", 046 Star Plus HD
 
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/STAR GOLD HD1745034037.png" group-title="TV-1", 046 Star Gold HD
+#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/STAR GOLD HD1745034037.png" group-title="TV-1", 047 Star Gold HD
 
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/STAR GOLD SELECT HD1745043508.png" group-title="TV-1", 047 Star Gold Select HD
+#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/STAR GOLD SELECT HD1745043508.png" group-title="TV-1", 048 Star Gold Select HD
 
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/STAR BHARAT HD1745045255.png" group-title="TV-1", 048 Star Bharat HD
+#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/STAR BHARAT HD1745045255.png" group-title="TV-1", 049 Star Bharat HD
 
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/COLORS HD1745031404.png" group-title="TV-1", 049 Colors HD
+#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/COLORS HD1745031404.png" group-title="TV-1", 050 Colors HD
 
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/COLORS CINEPLEX HD1745033519.png" group-title="TV-1", 050 Colors Cineplex HD
+#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/COLORS CINEPLEX HD1745033519.png" group-title="TV-1", 051 Colors Cineplex HD
 
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/AND%20PICTURS%20HD1745031440.png" group-title="TV-1", 051 &Pictures HD
+#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/AND%20PICTURS%20HD1745031440.png" group-title="TV-1", 052 &Pictures HD
 http://10.11.11.11/ANDPICTURSHD/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/ZEE BANGLA HD1745033633.png" group-title="TV-1", 052 Zee Bangla HD
+#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/ZEE BANGLA HD1745033633.png" group-title="TV-1", 053 Zee Bangla HD
 
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/ZEE BANGLA CINEMA1745040996.png" group-title="TV-1", 053 Zee Bangla Cinema
+#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/ZEE BANGLA CINEMA1745040996.png" group-title="TV-1", 054 Zee Bangla Cinema
 
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/STAR JALSHA HD1745033819.png" group-title="TV-1", 054 Star Jalsha HD
+#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/STAR JALSHA HD1745033819.png" group-title="TV-1", 055 Star Jalsha HD
 
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/JALSHA MOVIES HD1745034005.png" group-title="TV-1", 055 Star Jalsha Movied HD
+#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/JALSHA MOVIES HD1745034005.png" group-title="TV-1", 056 Star Jalsha Movied HD
+http://10.11.11.11/JALSHAMOVIESHD/index.m3u8
+#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/COLORS BANGLA HD1745033576.png" group-title="TV-1", 057 Colors Bangla HD
+http://10.11.11.11/COLORSBANGLAHD/index.m3u8
+#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/COLORS BANGLA CINEMA1745041486.png" group-title="TV-1", 058 Colors Bangla Cinema
+http://10.11.11.11/COLORSBANGLACINEMA/index.m3u8
+#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/SONY AAT1745041124.png" group-title="TV-1", 059 Sony Aath
 
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/COLORS BANGLA HD1745033576.png" group-title="TV-1", 056 Colors Bangla HD
+#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/SUN BANGLA HD1745033791.png" group-title="TV-1", 060 Sun Bangla HD
 
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/COLORS BANGLA CINEMA1745041486.png" group-title="TV-1", 057 Colors Bangla Cinema
-
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/SONY AAT1745041124.png" group-title="TV-1", 058 Sony Aath
-
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/SUN BANGLA HD1745033791.png" group-title="TV-1", 059 Sun Bangla HD
-
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/ENTERR 101745044330.png" group-title="TV-1", 060 Enterr10 Bangla
+#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/ENTERR 101745044330.png" group-title="TV-1", 061 Enterr10 Bangla
 
 
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/discovery hd.png" group-title="TV-1", 061_Discovery_HD
+#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/discovery hd.png" group-title="TV-1", 062_Discovery_HD
 
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/NATGEO HD1745038634.png" group-title="TV-1", 062_Net_Geo_HD
+#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/NATGEO HD1745038634.png" group-title="TV-1", 063_Net_Geo_HD
 
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/NATGEO WILD HD1745038542.png" group-title="TV-1", 063_Net_Geo_Wild_HD
+#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/NATGEO WILD HD1745038542.png" group-title="TV-1", 064_Net_Geo_Wild_HD
 
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/ANIMAL%20PLANET%20HD1745038671.png" group-title="TV-1", 064 Animal Planet HD
+#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/ANIMAL%20PLANET%20HD1745038671.png" group-title="TV-1", 065 Animal Planet HD
 http://10.11.11.11/ANIMALPLANETHD/index.m3u8
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/HISTORY TV HD1745033679.png" group-title="TV-1", 065 History TV HD
+#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/HISTORY TV HD1745033679.png" group-title="TV-1", 066 History TV HD
+http://10.11.11.11/HISTORYTVHD/index.m3u8
+#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/SONY BBC EARTH HD1745031522.png" group-title="TV-1", 067 Sony BBC Earth
 
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/SONY BBC EARTH HD1745031522.png" group-title="TV-1", 066 Sony BBC Earth
-
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/BBC EARTH HD1745150455.png" group-title="TV-1", 067 BBC Earth
+#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/BBC EARTH HD1745150455.png" group-title="TV-1", 068 BBC Earth
 http://10.11.11.11/BBCEARTHHD/index.m3u8
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/TRAVEL XP1745043118.png" group-title="TV-1", 068 Travelxp HD
-http://10.11.11.11/ANDXPLORE/index.m3u8
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/LOVE NATURE1745043370.png" group-title="TV-1", 069 Love Nature
+#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/TRAVEL XP1745043118.png" group-title="TV-1", 069 Travelxp HD
 
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/TLC HD1745033484.png" group-title="TV-1", 070 TLC
+#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/LOVE NATURE1745043370.png" group-title="TV-1", 070 Love Nature
+http://10.11.11.11/LOVENATURE/index.m3u8
+#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/TLC HD1745033484.png" group-title="TV-1", 071 TLC
 
 
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/DURANTA TV1745043400.png" group-title="TV-1", 071 Duronto
+#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/DURANTA TV1745043400.png" group-title="TV-1", 072 Duronto
 
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/CARTOON NETWORK1745033414.png" group-title="TV-1", 072 CN HD
+#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/CARTOON NETWORK1745033414.png" group-title="TV-1", 073 CN HD
 http://10.11.11.11/CARTOONNETWORK/index.m3u8
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/NICK1745041451.png" group-title="TV-1", 073 Nick
+#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/NICK1745041451.png" group-title="TV-1", 074 Nick
 
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/NICK JR1745042397.png" group-title="TV-1", 074 Nic JR
+#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/NICK JR1745042397.png" group-title="TV-1", 075 Nic JR
 
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/POGO1745041515.png" group-title="TV-1", 075 Pogo
+#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/POGO1745041515.png" group-title="TV-1", 076 Pogo
 
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/SONY YAY1745045046.png" group-title="TV-1", 076 Sony Yay
+#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/SONY YAY1745045046.png" group-title="TV-1", 077 Sony Yay
 
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/SONIC1745041154.png" group-title="TV-1", 077 Sonic 
+#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/SONIC1745041154.png" group-title="TV-1", 078 Sonic 
 
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/SUPER HUNGAMA1745044022.png" group-title="TV-1", 078 Super Hungama
+#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/SUPER HUNGAMA1745044022.png" group-title="TV-1", 079 Super Hungama
+http://10.11.11.11/HUNGAMA/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/ZOOM1745040961.png" group-title="TV-1", 080 Zoom Music
 
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/ZOOM1745040961.png" group-title="TV-1", 079 Zoom Music
+#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/ZING1745042718.png" group-title="TV-1", 081 Zing Music
 
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/ZING1745042718.png" group-title="TV-1", 080 Zing Music
-
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/HITZ%20MUSIC1745043478.png" group-title="TV-1", 081 HITZ Music
-
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/ALJAZEETA%20HD1745044358.png" group-title="TV-1", 082 Al Jazeera
+#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/HITZ%20MUSIC1745043478.png" group-title="TV-1", 082 HITZ Music
+http://10.11.11.11/HITZMUSIC/index.m3u8
+#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/ALJAZEETA%20HD1745044358.png" group-title="TV-1", 083 Al Jazeera
 http://10.11.11.11/ALJAZEETAHD/index.m3u8
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/GEO NEWS HD1745044892.png" group-title="TV-1", 083 Geo News
+#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/GEO NEWS HD1745044892.png" group-title="TV-1", 084 Geo News
 
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/HUM%20TV1745044837.png" group-title="TV-1", 084 HUM TV
-
+#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/HUM%20TV1745044837.png" group-title="TV-1", 085 HUM TV
+http://10.11.11.11/HUMTV/index.m3u8
