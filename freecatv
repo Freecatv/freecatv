@@ -59,21 +59,21 @@ http://10.11.11.11/GOLFSPORTS/index.m3u8
 http://10.11.11.11/EUROSPORTSHD/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://redforce.live/assets/images/STAR MOVIES HD1745040174.png" group-title="TV-1", 029 Star Movies HD
-
+http://10.11.11.11/STARMOVIESHD/index.m3u8
 #EXTINF:-1 tvg-logo="http://redforce.live/assets/images/STAR MOVIES SELECT HD1745038723.png" group-title="TV-1", 030 Star Movies Select HD
-
+http://10.11.11.11/STARMOVIESSELECTHD/index.m3u8
 #EXTINF:-1 tvg-logo="http://redforce.live/assets/images/SONY PIX HD1745039925.png" group-title="TV-1", 031 Sony Pix HD
 http://10.11.11.11/SONYPIXHD/index.m3u8
 #EXTINF:-1 tvg-logo="http://redforce.live/assets/images/MNX HD1745039955.png" group-title="TV-1", 032 MNX HD
-
+http://10.11.11.11/MNXHD/index.m3u8
 #EXTINF:-1 tvg-logo="http://redforce.live/assets/images/MN PLUS1745040057.png" group-title="TV-1", 033 MN+ HD
 http://10.11.11.11/MNPLUS/index.m3u8
 #EXTINF:-1 tvg-logo="http://redforce.live/assets/images/MOVIES NOW HD1745040368.png" group-title="TV-1", 034 Movies Now HD
-
+http://10.11.11.11/MOVIESNOWHD/index.m3u8
 #EXTINF:-1 tvg-logo="http://redforce.live/assets/images/ROMEDY NOW1745039988.png" group-title="TV-1", 035 Romedy Now
-
+http://10.11.11.11/ROMEDYNOW/index.m3u8
 #EXTINF:-1 tvg-logo="http://redforce.live/assets/images/ZEE CAFE HD1745040102.png" group-title="TV-1", 036 Zee Café HD
-
+http://10.11.11.11/ZEECAFEHD/index.m3u8
 #EXTINF:-1 tvg-logo="http://redforce.live/assets/images/LOTUS TV1745044960.png" group-title="TV-1", 037 Lotus Macau
 http://10.11.11.11/LOTUSTV/index.m3u8
 #EXTINF:-1 tvg-logo="http://redforce.live/assets/images/AXN HD1745045171.png" group-title="TV-1", 038 AXN
@@ -130,15 +130,15 @@ http://10.11.11.11/ENTERR10/index.m3u8
 #EXTINF:-1 tvg-logo="http://redforce.live/assets/images/discovery hd.png" group-title="TV-1", 062_Discovery_HD
 http://10.11.11.11/DISCOVERYHD/index.m3u8
 #EXTINF:-1 tvg-logo="http://redforce.live/assets/images/NATGEO HD1745038634.png" group-title="TV-1", 063_Net_Geo_HD
-
+http://10.11.11.11/NATGEOHD/index.m3u8
 #EXTINF:-1 tvg-logo="http://redforce.live/assets/images/NATGEO WILD HD1745038542.png" group-title="TV-1", 064_Net_Geo_Wild_HD
-
+http://10.11.11.11/NATGEOWILDHD/index.m3u8
 #EXTINF:-1 tvg-logo="http://redforce.live/assets/images/ANIMAL%20PLANET%20HD1745038671.png" group-title="TV-1", 065 Animal Planet HD
 http://10.11.11.11/ANIMALPLANETHD/index.m3u8
 #EXTINF:-1 tvg-logo="http://redforce.live/assets/images/HISTORY TV HD1745033679.png" group-title="TV-1", 066 History TV HD
 http://10.11.11.11/HISTORYTVHD/index.m3u8
 #EXTINF:-1 tvg-logo="http://redforce.live/assets/images/SONY BBC EARTH HD1745031522.png" group-title="TV-1", 067 Sony BBC Earth
-
+http://10.11.11.11/SONYBBCEARTHHD/index.m3u8
 #EXTINF:-1 tvg-logo="http://redforce.live/assets/images/BBC EARTH HD1745150455.png" group-title="TV-1", 068 BBC Earth
 http://10.11.11.11/BBCEARTHHD/index.m3u8
 #EXTINF:-1 tvg-logo="http://redforce.live/assets/images/TRAVEL XP1745043118.png" group-title="TV-1", 069 Travelxp HD
