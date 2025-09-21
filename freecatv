@@ -30,15 +30,15 @@ http://10.11.11.11/GTV/index.m3u8
 #EXTINF:-1 tvg-logo="http://redforce.live/assets/images/PTV SPORTS HD1745044993.png" group-title="TV-1", 014 PTV Sports HD
 http://10.11.11.11/PTVSPORTSHD/index.m3u8
 #EXTINF:-1 tvg-logo="http://redforce.live/assets/images/sony sports 1 hd.png" group-title="TV-1", 015 Sony Sports 1 HD
-
+http://10.11.11.11/SONYSPORTS1HD/index.m3u8
 #EXTINF:-1 tvg-logo="http://redforce.live/assets/images/sony sports 2 hd.png" group-title="TV-1", 016 Sony Sports 2 HD
-
+http://10.11.11.11/SONYSPORTS2HD/index.m3u8
 #EXTINF:-1 tvg-logo="http://redforce.live/assets/images/Sony sports 3.png" group-title="TV-1", 017 Sony Sports 3 HD
-
+http://10.11.11.11/SONYSPORTS3/index.m3u8
 #EXTINF:-1 tvg-logo="http://redforce.live/assets/images/sony sports 4.png" group-title="TV-1", 018 Sony Sports 4
-
+http://10.11.11.11/SONYSPORTS4/index.m3u8
 #EXTINF:-1 tvg-logo="http://redforce.live/assets/images/sony sports 5 hd.png" group-title="TV-1", 019 Sony Sports 5 HD
-
+http://10.11.11.11/SONYSPORTS5HD/index.m3u8
 #EXTINF:-1 tvg-logo="http://redforce.live/assets/images/STAR SPORTS 1 HD1744991778.png" group-title="TV-1", 020 Star Sports 1 HD
 
 #EXTINF:-1 tvg-logo="http://redforce.live/assets/images/STAR SPORTS 2 HD1744991842.png" group-title="TV-1", 021 Star Sports 2 HD
@@ -63,11 +63,11 @@ http://10.11.11.11/EUROSPORTSHD/index.m3u8
 #EXTINF:-1 tvg-logo="http://redforce.live/assets/images/STAR MOVIES SELECT HD1745038723.png" group-title="TV-1", 030 Star Movies Select HD
 
 #EXTINF:-1 tvg-logo="http://redforce.live/assets/images/SONY PIX HD1745039925.png" group-title="TV-1", 031 Sony Pix HD
-
+http://10.11.11.11/SONYPIXHD/index.m3u8
 #EXTINF:-1 tvg-logo="http://redforce.live/assets/images/MNX HD1745039955.png" group-title="TV-1", 032 MNX HD
 
 #EXTINF:-1 tvg-logo="http://redforce.live/assets/images/MN PLUS1745040057.png" group-title="TV-1", 033 MN+ HD
-
+http://10.11.11.11/MNPLUS/index.m3u8
 #EXTINF:-1 tvg-logo="http://redforce.live/assets/images/MOVIES NOW HD1745040368.png" group-title="TV-1", 034 Movies Now HD
 
 #EXTINF:-1 tvg-logo="http://redforce.live/assets/images/ROMEDY NOW1745039988.png" group-title="TV-1", 035 Romedy Now
@@ -159,7 +159,7 @@ http://10.11.11.11/CARTOONNETWORK/index.m3u8
 #EXTINF:-1 tvg-logo="http://redforce.live/assets/images/POGO1745041515.png" group-title="TV-1", 076 Pogo
 
 #EXTINF:-1 tvg-logo="http://redforce.live/assets/images/SONY YAY1745045046.png" group-title="TV-1", 077 Sony Yay
-
+http://10.11.11.11/SONYYAY/index.m3u8
 #EXTINF:-1 tvg-logo="http://redforce.live/assets/images/SONIC1745041154.png" group-title="TV-1", 078 Sonic 
 
 #EXTINF:-1 tvg-logo="http://redforce.live/assets/images/SUPER HUNGAMA1745044022.png" group-title="TV-1", 079 Super Hungama
@@ -174,6 +174,6 @@ http://10.11.11.11/HITZMUSIC/index.m3u8
 #EXTINF:-1 tvg-logo="http://redforce.live/assets/images/ALJAZEETA%20HD1745044358.png" group-title="TV-1", 083 Al Jazeera
 http://10.11.11.11/ALJAZEETAHD/index.m3u8
 #EXTINF:-1 tvg-logo="http://redforce.live/assets/images/GEO NEWS HD1745044892.png" group-title="TV-1", 084 Geo News
-
+http://10.11.11.11/GEONEWSHD/index.m3u8
 #EXTINF:-1 tvg-logo="http://redforce.live/assets/images/HUM%20TV1745044837.png" group-title="TV-1", 085 HUM TV
 http://10.11.11.11/HUMTV/index.m3u8
