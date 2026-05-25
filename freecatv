@@ -73,10 +73,22 @@ http://10.11.11.11/ASPORTSHD/index.m3u8
 http://10.11.11.11/GOLFSPORTS/index.m3u8
 #EXTINF:-1 tvg-logo="http://redforce.live/assets/images/EUROSPORTS HD1745040406.png" group-title="TV-1", 036 Eurosport HD
 http://10.11.11.11/EUROSPORTSHD/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/3840px-FOX_Sports_logo.svg.png" group-title="TV-1", 000 FOX Sports
+#EXTINF:-1 tvg-logo="" group-title="TV-1", 000 FOX Sports
 https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPVshP07-hS124KvcpI0OhQ6jGOvQcWVRAsQ&s" group-title="TV-1", 000 FIFA+
+#EXTINF:-1 tvg-logo="" group-title="TV-1", 000 FIFA+
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV-1", 000 DD Sports
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV-1", 000 DirectTV Sport HD
+https://cors-proxy.cooks.fyi/http://147.135.114.221:8001/play/a00m/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV-1", 000 TyC Sports
+https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV-1", 000 Tigo Sports
+http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTf_5weWAERKDgrt9JpvlAiI/m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV-1", 000 beIN Sports Xtra Espanol
+https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV-1", 000 TRT Turk
+https://tv-trtturk.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://redforce.live/assets/images/STAR MOVIES HD1745040174.png" group-title="TV-1", 037 Star Movies HD
 http://10.11.11.11/STARMOVIESHD/index.m3u8
