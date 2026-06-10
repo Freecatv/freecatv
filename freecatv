@@ -79,7 +79,7 @@ http://10.11.11.11/EUROSPORTSHD/index.m3u8
 http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/k2sVFM25/Fifa-26.png" group-title="TV-1", 000 BTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/k2sVFM25/Fifa-26.png" group-title="TV-1", 000 Somoy New
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/k2sVFM25/Fifa-26.png" group-title="TV-1", 000 Somoy News
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/k2sVFM25/Fifa-26.png" group-title="TV-1", 000 FOX Sports
 https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports.m3u8
