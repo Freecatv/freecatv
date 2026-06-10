@@ -3,7 +3,7 @@
 http://10.11.11.11/Fifa2026/index.m3u8
 #EXTINF:-1 tvg-logo="http://redforce.live/assets/images/BTV.HD1750866438.png" group-title="TV-1", 001 BTV
 http://10.11.11.11/BTV/index.m3u8
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/T SPORTS1744972630.png" group-title="TV-1", 002 T Sports
+#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/T SPORTS1744972630.png" group-title="TV-1", 002 T Sports HD
 http://10.11.11.11/TSPORTS/index.m3u8
 #EXTINF:-1 tvg-logo="http://redforce.live/assets/images/ATN BANGLA1745044183.png" group-title="TV-1", 003 ATN Bangla
 http://10.11.11.11/ATNBANGLA/index.m3u8
@@ -229,5 +229,16 @@ http://10.11.11.11/HUMTV/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV-1", 103 Golf Channel
 http://10.11.11.11/Golf-Channel/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="TV-1", 000
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/k2sVFM25/Fifa-26.png" group-title="TV-1", 000 T SPorts HD
+http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/k2sVFM25/Fifa-26.png" group-title="TV-1", 000 BTV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/k2sVFM25/Fifa-26.png" group-title="TV-1", 000 Somoy New
+https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/k2sVFM25/Fifa-26.png" group-title="TV-1", 000 tigo sports
+http://45.5.118.152:8000/play/a08x/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/k2sVFM25/Fifa-26.png" group-title="TV-1", 000 TUDN
+http://45.186.106.207:8000/play/a099/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/k2sVFM25/Fifa-26.png" group-title="TV-1", 000
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/k2sVFM25/Fifa-26.png" group-title="TV-1", 000
