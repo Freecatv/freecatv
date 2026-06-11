@@ -1,6 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/k2sVFM25/Fifa-26.png" group-title="TV-1", 000 FIFA26 Live
 http://10.11.11.11/Fifa2026/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/k2sVFM25/Fifa-26.png" group-title="TV-1", 000 FIFA26 Live
+http://10.11.11.11/Fifa2026-2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/k2sVFM25/Fifa-26.png" group-title="TV-1", 000 FIFA26 Live
+http://10.11.11.11/Fifa2026-3/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://redforce.live/assets/images/BTV.HD1750866438.png" group-title="TV-1", 001 BTV
 http://10.11.11.11/BTV/index.m3u8
 #EXTINF:-1 tvg-logo="http://redforce.live/assets/images/T SPORTS1744972630.png" group-title="TV-1", 002 T Sports HD
@@ -74,29 +79,6 @@ http://10.11.11.11/ASPORTSHD/index.m3u8
 http://10.11.11.11/GOLFSPORTS/index.m3u8
 #EXTINF:-1 tvg-logo="http://redforce.live/assets/images/EUROSPORTS HD1745040406.png" group-title="TV-1", 036 Eurosport HD
 http://10.11.11.11/EUROSPORTSHD/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/k2sVFM25/Fifa-26.png" group-title="TV-1", 000 T SPorts HD
-http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/k2sVFM25/Fifa-26.png" group-title="TV-1", 000 BTV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/k2sVFM25/Fifa-26.png" group-title="TV-1", 000 Somoy News
-https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/k2sVFM25/Fifa-26.png" group-title="TV-1", 000 FOX Sports
-https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/k2sVFM25/Fifa-26.png" group-title="TV-1", 000 FIFA+
-https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/k2sVFM25/Fifa-26.png" group-title="TV-1", 000 DD Sports
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/k2sVFM25/Fifa-26.png" group-title="TV-1", 000 TyC Sports
-https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/k2sVFM25/Fifa-26.png" group-title="TV-1", 000 beIN Sports Xtra Espanol
-https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/k2sVFM25/Fifa-26.png" group-title="TV-1", 000 TRT Turk
-https://tv-trtturk.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/k2sVFM25/Fifa-26.png" group-title="TV-1", 000 tigo sports
-http://45.5.118.152:8000/play/a08x/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/k2sVFM25/Fifa-26.png" group-title="TV-1", 000 TUDN
-http://45.186.106.207:8000/play/a099/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://redforce.live/assets/images/STAR MOVIES HD1745040174.png" group-title="TV-1", 037 Star Movies HD
 http://10.11.11.11/STARMOVIESHD/index.m3u8
