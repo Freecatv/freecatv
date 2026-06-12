@@ -10,18 +10,18 @@ http://10.11.11.11/fifa2026link-1/index.m3u8
 http://10.11.11.11/BTV/index.m3u8
 #EXTINF:-1 tvg-logo="http://redforce.live/assets/images/T SPORTS1744972630.png" group-title="TV-1", 002 T Sports HD
 http://10.11.11.11/TSPORTS/index.m3u8
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/ATN BANGLA1745044183.png" group-title="TV-1", 003 ATN Bangla
-http://10.11.11.11/ATNBANGLA/index.m3u8
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/ATN NEWS1745045113.png" group-title="TV-1", 004 ATN News HD
-http://10.11.11.11/ATNNEWS/index.m3u8
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/JAMUNA TV1745044052.png" group-title="TV-1", 005 Jamuna TV
-http://10.11.11.11/JAMUNATV/index.m3u8
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/INDEPENDENT TV1745044077.png" group-title="TV-1", 006 Independent TV
-http://10.11.11.11/INDEPENDENTTV/index.m3u8
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/MAASRANGA HD1745044117.png" group-title="TV-1", 007 Maasranga HD
-http://10.11.11.11/MAASRANGAHD/index.m3u8
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/SOMOY TV1745044149.png" group-title="TV-1", 008 Somoy News
+#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/SOMOY TV1745044149.png" group-title="TV-1", 003 Somoy News
 http://10.11.11.11/SOMOYTV/index.m3u8
+#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/ATN BANGLA1745044183.png" group-title="TV-1", 004 ATN Bangla
+http://10.11.11.11/ATNBANGLA/index.m3u8
+#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/ATN NEWS1745045113.png" group-title="TV-1", 005 ATN News HD
+http://10.11.11.11/ATNNEWS/index.m3u8
+#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/JAMUNA TV1745044052.png" group-title="TV-1", 006 Jamuna TV
+http://10.11.11.11/JAMUNATV/index.m3u8
+#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/INDEPENDENT TV1745044077.png" group-title="TV-1", 007 Independent TV
+http://10.11.11.11/INDEPENDENTTV/index.m3u8
+#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/MAASRANGA HD1745044117.png" group-title="TV-1", 008 Maasranga HD
+http://10.11.11.11/MAASRANGAHD/index.m3u8
 #EXTINF:-1 tvg-logo="http://redforce.live/assets/images/DBC%20NEWS1750866614.png" group-title="TV-1", 009 DBC News
 http://10.11.11.11/DBCNews/index.m3u8
 #EXTINF:-1 tvg-logo="http://redforce.live/assets/images/NEWS.24.HD1750866866.png" group-title="TV-1", 010 News24
