@@ -2,9 +2,9 @@
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/k2sVFM25/Fifa-26.png" group-title="TV-1", 0A1 FIFA26 Live
 http://10.11.11.11/Fifa2026/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/k2sVFM25/Fifa-26.png" group-title="TV-1", 0A2 FIFA26 Live
-http://10.11.11.11/fifa2026link-1/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/k2sVFM25/Fifa-26.png" group-title="TV-1", 0A3 FIFA26 Live
-http://10.11.11.11/fifa2026link-2/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://redforce.live/assets/images/BTV.HD1750866438.png" group-title="TV-1", 001 BTV
 http://10.11.11.11/BTV/index.m3u8
