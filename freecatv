@@ -6,9 +6,9 @@ http://10.11.11.11/Fifa2026/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/k2sVFM25/Fifa-26.png" group-title="TV-1", 0A3 FIFA26 Live
 
 
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/BTV.HD1750866438.png" group-title="TV-1", 001 BTV
+#EXTINF:-1 tvg-logo="http://198.195.239.50/img/channels/BTV.HD.png" group-title="TV-1", 001 BTV
 http://10.11.11.11/BTV/index.m3u8
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/T SPORTS1744972630.png" group-title="TV-1", 002 T Sports HD
+#EXTINF:-1 tvg-logo="http://198.195.239.50/img/channels/T%20SPORTS.png" group-title="TV-1", 002 T Sports HD
 http://10.11.11.11/TSPORTS/index.m3u8
 #EXTINF:-1 tvg-logo="http://redforce.live/assets/images/SOMOY TV1745044149.png" group-title="TV-1", 003 Somoy News
 http://10.11.11.11/SOMOYTV/index.m3u8
