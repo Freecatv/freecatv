@@ -14,9 +14,9 @@ http://10.11.11.11/TSPORTS/index.m3u8
 http://10.11.11.11/SOMOYTV/index.m3u8
 #EXTINF:-1 tvg-logo="http://redforce.live/assets/images/ATN BANGLA1745044183.png" group-title="TV-1", 004 ATN Bangla
 http://10.11.11.11/ATNBANGLA/index.m3u8
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/ATN NEWS1745045113.png" group-title="TV-1", 005 ATN News HD
+#EXTINF:-1 tvg-logo="http://198.195.239.50/img/channels/ATN%20NEWS.png" group-title="TV-1", 005 ATN News HD
 http://10.11.11.11/ATNNEWS/index.m3u8
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/JAMUNA TV1745044052.png" group-title="TV-1", 006 Jamuna TV
+#EXTINF:-1 tvg-logo="http://198.195.239.50/img/channels/JAMUNA%20TV.png" group-title="TV-1", 006 Jamuna TV
 http://10.11.11.11/JAMUNATV/index.m3u8
 #EXTINF:-1 tvg-logo="http://redforce.live/assets/images/INDEPENDENT TV1745044077.png" group-title="TV-1", 007 Independent TV
 http://10.11.11.11/INDEPENDENTTV/index.m3u8
@@ -32,7 +32,7 @@ http://10.11.11.11/CHANNELI/index.m3u8
 http://10.11.11.11/CHANNEL24/index.m3u8
 #EXTINF:-1 tvg-logo="http://redforce.live/assets/images/NAGORIK1745042776.png" group-title="TV-1", 013 Nagarik TV
 http://10.11.11.11/NAGORIK/index.m3u8
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/Ekattor%20Tv1750866647.png" group-title="TV-1", 014 Ekattor TV
+#EXTINF:-1 tvg-logo="http://198.195.239.50/img/channels/EKATTOR_TV.png" group-title="TV-1", 014 Ekattor TV
 http://10.11.11.11/EkattorTV/index.m3u8
 #EXTINF:-1 tvg-logo="http://redforce.live/assets/images/PEACE TV BANGLA1745044480.png" group-title="TV-1", 015 Peace Tv Bangla
 http://10.11.11.11/PEACETVBANGLA/index.m3u8
