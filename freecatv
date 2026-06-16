@@ -26,9 +26,9 @@ http://10.11.11.11/MAASRANGAHD/index.m3u8
 http://10.11.11.11/DBCNews/index.m3u8
 #EXTINF:-1 tvg-logo="http://redforce.live/assets/images/NEWS.24.HD1750866866.png" group-title="TV-1", 010 News24
 http://10.11.11.11/News24/index.m3u8
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/CHANNEL I1745044237.png" group-title="TV-1", 011 Channel I HD
+#EXTINF:-1 tvg-logo="http://198.195.239.50/img/channels/CHANNEL%20I.png" group-title="TV-1", 011 Channel I HD
 http://10.11.11.11/CHANNELI/index.m3u8
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/CHANNEL 241745044263.png" group-title="TV-1", 012 Channel 24
+#EXTINF:-1 tvg-logo="http://198.195.239.50/img/channels/CHANNEL%2024.png" group-title="TV-1", 012 Channel 24
 http://10.11.11.11/CHANNEL24/index.m3u8
 #EXTINF:-1 tvg-logo="http://redforce.live/assets/images/NAGORIK1745042776.png" group-title="TV-1", 013 Nagarik TV
 http://10.11.11.11/NAGORIK/index.m3u8
