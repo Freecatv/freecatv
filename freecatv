@@ -43,19 +43,19 @@ http://10.11.11.11/ASIAN/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/HDht6qjT/Global-TV-HD.png" group-title="TV-1", 018 Global HD
 http://10.11.11.11/GlobalTV/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="TV-1", 019 GTV HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C3n12SZk/GTV.png" group-title="TV-1", 019 GTV HD
 http://10.11.11.11/GTV/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV-1", 020 PTV Sports HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/zVj7JLq2/PTV-Sports.png" group-title="TV-1", 020 PTV Sports HD
 http://10.11.11.11/PTVSPORTSHD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV-1", 021 Sony Sports 1 HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/LXVjY87Q/Sony-Sports-Ten-1.png" group-title="TV-1", 021 Sony Sports 1 HD
 http://10.11.11.11/SONYSPORTS1HD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV-1", 022 Sony Sports 2 HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/cm3phM0/Sony-Sports-Ten-2.png" group-title="TV-1", 022 Sony Sports 2 HD
 http://10.11.11.11/SONYSPORTS2HD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV-1", 023 Sony Sports 3 HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/JRJwSHHn/Sony-Sports-Ten-3.png" group-title="TV-1", 023 Sony Sports 3 HD
 http://10.11.11.11/SONYSPORTS3/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV-1", 024 Sony Sports 4
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/s9FkT5WG/Sony-Sports-Ten-4.png" group-title="TV-1", 024 Sony Sports 4
 http://10.11.11.11/SONYSPORTS4/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV-1", 025 Sony Sports 5 HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Z1bPrGBJ/Sony-Sports-Ten-5.png" group-title="TV-1", 025 Sony Sports 5 HD
 http://10.11.11.11/SONYSPORTS5HD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV-1", 026 Star Sports 1 HD
 http://10.11.11.11/STARSPORTS1HD/index.m3u8
