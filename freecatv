@@ -34,13 +34,13 @@ http://10.11.11.11/CHANNEL24/index.m3u8
 http://10.11.11.11/NAGORIK/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/N6yHpBd0/Ekattor-TV.png" group-title="TV-1", 014 Ekattor TV
 http://10.11.11.11/EkattorTV/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV-1", 015 Peace Tv Bangla
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/mr7cpg8R/Peace-Tv-Bangla.png" group-title="TV-1", 015 Peace Tv Bangla
 http://10.11.11.11/PEACETVBANGLA/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV-1", 016 Madani Bangla HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VWrRzfkt/Madani-Bangla-HD.png" group-title="TV-1", 016 Madani Bangla HD
 http://10.11.11.11/MADANITVHD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV-1", 017 ASIAN TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/twGTxHRg/Asian-TV.png" group-title="TV-1", 017 ASIAN TV
 http://10.11.11.11/ASIAN/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV-1", 018 Global HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HDht6qjT/Global-TV-HD.png" group-title="TV-1", 018 Global HD
 http://10.11.11.11/GlobalTV/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="TV-1", 019 GTV HD
