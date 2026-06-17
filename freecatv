@@ -57,27 +57,27 @@ http://10.11.11.11/SONYSPORTS3/index.m3u8
 http://10.11.11.11/SONYSPORTS4/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Z1bPrGBJ/Sony-Sports-Ten-5.png" group-title="TV-1", 025 Sony Sports 5 HD
 http://10.11.11.11/SONYSPORTS5HD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV-1", 026 Star Sports 1 HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/J981Xg2/Star-Sports-1.png" group-title="TV-1", 026 Star Sports 1 HD
 http://10.11.11.11/STARSPORTS1HD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV-1", 027 Star Sports 2 HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/2Y773SCX/Star-Sports-2.png" group-title="TV-1", 027 Star Sports 2 HD
 http://10.11.11.11/STARSPORTS2HD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV-1", 028 Star Sports 3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N2k7KWf6/Star-Sports-3.png" group-title="TV-1", 028 Star Sports 3
 http://10.11.11.11/STARSPORTS3/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV-1", 029 Star Sports Select 1 HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7qhPP15/Star-Sports-Select-1-HD.png" group-title="TV-1", 029 Star Sports Select 1 HD
 http://10.11.11.11/STARSELECT1HD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV-1", 030 Star Sports Select 2 HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/qMwqFvGc/Star-Sports-Select-2-HD.png" group-title="TV-1", 030 Star Sports Select 2 HD
 http://10.11.11.11/STARSPORTSSELECT2HD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV-1", 031 Stra 4K
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/cKpLS8qW/Star-4k.png" group-title="TV-1", 031 Stra 4K
 http://10.11.11.11/Star4K/index.m3u8
-#EXTINF:-1 tvg-logo="", 032 Ten Cricket
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1tsDNCzq/Ten-Cricket.png", 032 Ten Cricket
 http://10.11.11.11/TenCricket/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV-1", 033 Fast Sports HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Ps08hxMM/Fast-Sports.png" group-title="TV-1", 033 Fast Sports HD
 http://10.11.11.11/FASTSPORTSHD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV-1", 034 A Sports HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/sptt1kZm/A-Sports-HD.png" group-title="TV-1", 034 A Sports HD
 http://10.11.11.11/ASPORTSHD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV-1", 035 GOLF Sports
 http://10.11.11.11/GOLFSPORTS/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV-1", 036 Eurosport HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1tnWMcLn/Euro-Sports-HD.png" group-title="TV-1", 036 Eurosport HD
 http://10.11.11.11/EUROSPORTSHD/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="TV-1", 037 Star Movies HD
