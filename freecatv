@@ -6,41 +6,41 @@ http://10.11.11.11/Fifa2026/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/k2sVFM25/Fifa-26.png" group-title="TV-1", 0A3 FIFA26 Live
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8ndzZvvP/BTV.png" group-title="TV-1", 001 BTV
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/yB7zMQc3/BTV.png" group-title="TV-1", 001 BTV
 http://10.11.11.11/BTV/index.m3u8
-#EXTINF:-1 tvg-logo="http://198.195.239.50/img/channels/T%20SPORTS.png" group-title="TV-1", 002 T Sports HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/RGWJwQVs/T-Sports.png" group-title="TV-1", 002 T Sports HD
 http://10.11.11.11/TSPORTS/index.m3u8
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/SOMOY TV1745044149.png" group-title="TV-1", 003 Somoy News
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/0R9zFnJh/Somoy-TV.png" group-title="TV-1", 003 Somoy News
 http://10.11.11.11/SOMOYTV/index.m3u8
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/ATN BANGLA1745044183.png" group-title="TV-1", 004 ATN Bangla
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Fb7fX8CM/ATN-Bangla.png" group-title="TV-1", 004 ATN Bangla
 http://10.11.11.11/ATNBANGLA/index.m3u8
-#EXTINF:-1 tvg-logo="http://198.195.239.50/img/channels/ATN%20NEWS.png" group-title="TV-1", 005 ATN News HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/cKNTP2zw/ATN-News.png" group-title="TV-1", 005 ATN News HD
 http://10.11.11.11/ATNNEWS/index.m3u8
-#EXTINF:-1 tvg-logo="http://198.195.239.50/img/channels/JAMUNA%20TV.png" group-title="TV-1", 006 Jamuna TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/p6pm7jZf/Jamuna-TV.png" group-title="TV-1", 006 Jamuna TV
 http://10.11.11.11/JAMUNATV/index.m3u8
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/INDEPENDENT TV1745044077.png" group-title="TV-1", 007 Independent TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/tMh93JHs/Independent.png" group-title="TV-1", 007 Independent TV
 http://10.11.11.11/INDEPENDENTTV/index.m3u8
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/MAASRANGA HD1745044117.png" group-title="TV-1", 008 Maasranga HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/m1nxqHJ/Maasranga-TV.png" group-title="TV-1", 008 Maasranga HD
 http://10.11.11.11/MAASRANGAHD/index.m3u8
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/DBC%20NEWS1750866614.png" group-title="TV-1", 009 DBC News
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ynzhJR9W/DBC-News.png" group-title="TV-1", 009 DBC News
 http://10.11.11.11/DBCNews/index.m3u8
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/NEWS.24.HD1750866866.png" group-title="TV-1", 010 News24
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/F4hS9hy5/News24.png" group-title="TV-1", 010 News24
 http://10.11.11.11/News24/index.m3u8
-#EXTINF:-1 tvg-logo="http://198.195.239.50/img/channels/CHANNEL%20I.png" group-title="TV-1", 011 Channel I HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/23y4qkFZ/Channel-I.png" group-title="TV-1", 011 Channel I HD
 http://10.11.11.11/CHANNELI/index.m3u8
-#EXTINF:-1 tvg-logo="http://198.195.239.50/img/channels/CHANNEL%2024.png" group-title="TV-1", 012 Channel 24
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/5x1VRGrF/Channel24.png" group-title="TV-1", 012 Channel 24
 http://10.11.11.11/CHANNEL24/index.m3u8
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/NAGORIK1745042776.png" group-title="TV-1", 013 Nagarik TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/6cB0xX09/Nagorik-TV.png" group-title="TV-1", 013 Nagarik TV
 http://10.11.11.11/NAGORIK/index.m3u8
-#EXTINF:-1 tvg-logo="http://198.195.239.50/img/channels/EKATTOR_TV.png" group-title="TV-1", 014 Ekattor TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N6yHpBd0/Ekattor-TV.png" group-title="TV-1", 014 Ekattor TV
 http://10.11.11.11/EkattorTV/index.m3u8
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/PEACE TV BANGLA1745044480.png" group-title="TV-1", 015 Peace Tv Bangla
+#EXTINF:-1 tvg-logo="" group-title="TV-1", 015 Peace Tv Bangla
 http://10.11.11.11/PEACETVBANGLA/index.m3u8
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/MADANI TV HD1745044303.png" group-title="TV-1", 016 Madani Bangla HD
+#EXTINF:-1 tvg-logo="" group-title="TV-1", 016 Madani Bangla HD
 http://10.11.11.11/MADANITVHD/index.m3u8
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/Asiah%20Tv1752498724.png" group-title="TV-1", 017 ASIAN TV
+#EXTINF:-1 tvg-logo="" group-title="TV-1", 017 ASIAN TV
 http://10.11.11.11/ASIAN/index.m3u8
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/Global%20Tv1752498856.png" group-title="TV-1", 018 Global HD
+#EXTINF:-1 tvg-logo="" group-title="TV-1", 018 Global HD
 http://10.11.11.11/GlobalTV/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://redforce.live/assets/images/GTV1745042853.png" group-title="TV-1", 019 GTV HD
