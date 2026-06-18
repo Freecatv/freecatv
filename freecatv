@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/k2sVFM25/Fifa-26.png" group-title="TV-1", 0A1 FIFA26 Live
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/k2sVFM25/Fifa-26.png" group-title="TV-1", 000 FIFA26 Live
 http://10.11.11.11/Fifa2026/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/k2sVFM25/Fifa-26.png" group-title="TV-1", 0A2 FIFA26 Live
 
@@ -75,32 +75,32 @@ http://10.11.11.11/TenCricket/index.m3u8
 http://10.11.11.11/FASTSPORTSHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/sptt1kZm/A-Sports-HD.png" group-title="TV-1", 034 A Sports HD
 http://10.11.11.11/ASPORTSHD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV-1", 035 GOLF Sports
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xthyYZwd/Golf-Channel.png" group-title="TV-1", 035 GOLF Channel
 http://10.11.11.11/GOLFSPORTS/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/1tnWMcLn/Euro-Sports-HD.png" group-title="TV-1", 036 Eurosport HD
 http://10.11.11.11/EUROSPORTSHD/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="TV-1", 037 Star Movies HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/NgjymTnv/Star-Movies-HD.png" group-title="TV-1", 037 Star Movies HD
 http://10.11.11.11/STARMOVIESHD/index.m3u8
-#EXTINF:-1 tvg-logo=" group-title="TV-1", 038 Star Movies Select HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/DHQGWvNT/Star-Movies-Select-HD.png" group-title="TV-1", 038 Star Movies Select HD
 http://10.11.11.11/STARMOVIESSELECTHD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV-1", 039 Sony Pix HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/S7GnyTf1/Sony-Pix.png" group-title="TV-1", 039 Sony Pix HD
 http://10.11.11.11/SONYPIXHD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV-1", 040 MNX HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BHz3phkX/MNX-HD.png" group-title="TV-1", 040 MNX HD
 http://10.11.11.11/MNXHD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV-1", 041 MN+ HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/DPh1L9FD/MN.png" group-title="TV-1", 041 MN+ HD
 http://10.11.11.11/MNPLUS/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV-1", 042 Movies Now HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/3mG1Gwm5/Movies-Now.png" group-title="TV-1", 042 Movies Now HD
 http://10.11.11.11/MOVIESNOWHD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV-1", 043 Romedy Now
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Zps2dYnr/Romedy-Now.png" group-title="TV-1", 043 Romedy Now
 http://10.11.11.11/ROMEDYNOW/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV-1", 044 Zee Café HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HLjtb2Zv/Zee-Cafe-HD.png" group-title="TV-1", 044 Zee Café HD
 http://10.11.11.11/ZEECAFEHD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV-1", 045 Lotus Macau
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/gFSdWcvH/Lotus-Macau.png" group-title="TV-1", 045 Lotus Macau
 http://10.11.11.11/LOTUSTV/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV-1", 046 AXN
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TxHrgrf0/AXN.png" group-title="TV-1", 046 AXN
 http://10.11.11.11/AXNHD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV-1", 047 &xplore
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/DPBSMHcx/xplorhd.png" group-title="TV-1", 047 &xplore
 http://10.11.11.11/ANDXPLORE/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="TV-1", 048 Sony TV HD
@@ -218,8 +218,6 @@ http://10.11.11.11/BBCNews/index.m3u8
 http://10.11.11.11/GEONEWSHD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV-1", 102 HUM TV
 http://10.11.11.11/HUMTV/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV-1", 103 Golf Channel
-http://10.11.11.11/GOLFSPORTS/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/k2sVFM25/Fifa-26.png" group-title="TV-1", 000
 
