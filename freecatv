@@ -103,52 +103,52 @@ http://10.11.11.11/AXNHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/DPBSMHcx/xplorhd.png" group-title="TV-1", 047 &xplore
 http://10.11.11.11/ANDXPLORE/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="TV-1", 048 Sony TV HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/v4xT2Fr2/Sony-TV.png" group-title="TV-1", 048 Sony TV HD
 http://10.11.11.11/SONYENTHD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV-1", 049 Sony Max
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/pVJRf2m/Sony-Max.png" group-title="TV-1", 049 Sony Max
 http://10.11.11.11/SONYMAXHD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV-1", 050 Sony Max 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/pv05rQWD/Sony-Max-1.png" group-title="TV-1", 050 Sony Max 1
 http://10.11.11.11/SonyMax1/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV-1", 051 Sony Max 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/0pW4qbZY/Sony-Max2.png" group-title="TV-1", 051 Sony Max 2
 http://10.11.11.11/SonyMax2/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV-1", 052 ZTV HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQ6vB5hP/Zee-TV.png" group-title="TV-1", 052 ZTV HD
 http://10.11.11.11/ZEETVHD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV-1", 053 Zee Cinema HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/k6yJMLTP/Zee-Cinema-HD.png" group-title="TV-1", 053 Zee Cinema HD
 http://10.11.11.11/ZEECINEMAHD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV-1", 054 Star Plus HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/svcckY7F/Star-Plus-HD.png" group-title="TV-1", 054 Star Plus HD
 http://10.11.11.11/STARPLUSHD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV-1", 055 Star Gold HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/p6HMvP1N/Star-Gold-HD.png" group-title="TV-1", 055 Star Gold HD
 http://10.11.11.11/STARGOLDHD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV-1", 056 Star Gold 2 HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/27X6RsTv/Star-Gold-2-HD.png" group-title="TV-1", 056 Star Gold 2 HD
 http://10.11.11.11/StarGold2HD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV-1", 057 Star Gold Select HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xwgN0xV/Star-Gold-Select-HD.png" group-title="TV-1", 057 Star Gold Select HD
 http://10.11.11.11/STARGOLDSELECTHD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV-1", 058 Star Bharat HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/F9M4WRB/Star-Bharat-HD.png" group-title="TV-1", 058 Star Bharat HD
 http://10.11.11.11/STARBHARATHD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV-1", 059 Colors HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HDL7vWW6/colorshd.png" group-title="TV-1", 059 Colors HD
 http://10.11.11.11/COLORSHD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV-1", 060 Colors Cineplex HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/JWgSxKbX/Colors-Cineplex-HD.png" group-title="TV-1", 060 Colors Cineplex HD
 http://10.11.11.11/COLORSCINEPLEXHD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV-1", 061 &Pictures HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/67c94DkS/pictureshd.png" group-title="TV-1", 061 &Pictures HD
 http://10.11.11.11/ANDPICTURSHD/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="TV-1", 062 Zee Bangla HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/9HgtXqNV/Zee-Bangla-HD.png" group-title="TV-1", 062 Zee Bangla HD
 http://10.11.11.11/ZEEBANGLAHD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV-1", 063 Zee Bangla Cinema
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/6R89c3HP/Zee-Bangla-Cinema.png" group-title="TV-1", 063 Zee Bangla Cinema
 http://10.11.11.11/ZEEBANGLACINEMA/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV-1", 064 Star Jalsha HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/zW76qWfZ/Star-Jalsha-HD.png" group-title="TV-1", 064 Star Jalsha HD
 http://10.11.11.11/STARJALSHAHD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV-1", 065 Star Jalsha Movied HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TMsQB0Bq/Star-Jalsha-Movies-HD.png" group-title="TV-1", 065 Star Jalsha Movied HD
 http://10.11.11.11/JALSHAMOVIESHD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV-1", 066 Colors Bangla HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ym1yqKxS/Colors-Bangla.png" group-title="TV-1", 066 Colors Bangla HD
 http://10.11.11.11/COLORSBANGLAHD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV-1", 067 Colors Bangla Cinema
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/LzPQyX8g/Colors-Bangla-Cinema.png" group-title="TV-1", 067 Colors Bangla Cinema
 http://10.11.11.11/COLORSBANGLACINEMA/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV-1", 068 Sony Aath
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BVLTWzrZ/Sony-Aath.png" group-title="TV-1", 068 Sony Aath
 http://10.11.11.11/SONYAAT/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV-1", 069 Sun Bangla HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BVm1jM1T/Sun-Bangla.png" group-title="TV-1", 069 Sun Bangla HD
 http://10.11.11.11/SUNBANGLAHD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV-1", 070 Enterr10 Bangla
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Xf5dFPZQ/Enterr10.png" group-title="TV-1", 070 Enterr10 Bangla
 http://10.11.11.11/ENTERR10/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="TV-1", 071 Discovery HD
@@ -163,7 +163,7 @@ http://10.11.11.11/ANIMALPLANETHD/index.m3u8
 http://10.11.11.11/HISTORYTVHD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV-1", 076 Sony BBC Earth
 http://10.11.11.11/SONYBBCEARTHHD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV-1", 077 BBC Earth
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/qLc0h42C/BBC-earth.png" group-title="TV-1", 077 BBC Earth
 http://10.11.11.11/BBCEARTHHD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV-1", 078 Travelxp HD
 http://10.11.11.11/TRAVELXP/index.m3u8
