@@ -151,72 +151,72 @@ http://10.11.11.11/SUNBANGLAHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Xf5dFPZQ/Enterr10.png" group-title="TV-1", 070 Enterr10 Bangla
 http://10.11.11.11/ENTERR10/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="TV-1", 071 Discovery HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/99Wytq9S/Discovery.png" group-title="TV-1", 071 Discovery HD
 http://10.11.11.11/DISCOVERYHD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV-1", 072 Net Geo HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/0yjSKVNp/Nat-Geo-HD.png" group-title="TV-1", 072 Net Geo HD
 http://10.11.11.11/NATGEOHD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV-1", 073 Net Geo Wild HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1JJtg2zQ/Nat-Geo-Wild.png" group-title="TV-1", 073 Net Geo Wild HD
 http://10.11.11.11/NATGEOWILDHD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV-1", 074 Animal Planet HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/3m3PvGMM/Animal-Planet-HD.png" group-title="TV-1", 074 Animal Planet HD
 http://10.11.11.11/ANIMALPLANETHD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV-1", 075 History TV HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/wF06ZmDv/History-TV.png" group-title="TV-1", 075 History TV HD
 http://10.11.11.11/HISTORYTVHD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV-1", 076 Sony BBC Earth
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HpXt4ZrZ/Sony-BBC-Earth.png" group-title="TV-1", 076 Sony BBC Earth
 http://10.11.11.11/SONYBBCEARTHHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/qLc0h42C/BBC-earth.png" group-title="TV-1", 077 BBC Earth
 http://10.11.11.11/BBCEARTHHD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV-1", 078 Travelxp HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/FFkt0yw/Travelxp-HD.png" group-title="TV-1", 078 Travelxp HD
 http://10.11.11.11/TRAVELXP/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV-1", 079 Love Nature
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/WvnQW86D/Love-Nature.png" group-title="TV-1", 079 Love Nature
 http://10.11.11.11/LOVENATURE/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV-1", 080 TLC
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/JRGjkZLP/TLC.png" group-title="TV-1", 080 TLC
 http://10.11.11.11/TLCHD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV-1", 081 Fashion TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Ndddjdz1/Fashiontv.png" group-title="TV-1", 081 Fashion TV
 http://10.11.11.11/FashionTV/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="TV-1", 082 Duronto
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/0p4Td2Mt/Duronto.png" group-title="TV-1", 082 Duronto
 http://10.11.11.11/DURANTATV/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV-1", 083 CN HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/wZ4X4nKW/CN-HD.png" group-title="TV-1", 083 CN HD
 http://10.11.11.11/CARTOONNETWORK/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV-1", 084 Nick
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/jxpqfdK/Nick.png" group-title="TV-1", 084 Nick
 http://10.11.11.11/NICK/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV-1", 085 Nic JR
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xtBrzpXY/Nick-JR.png" group-title="TV-1", 085 Nic JR
 http://10.11.11.11/NICKJR/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV-1", 086 Disney JR
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Zzzjv6c1/Disney-JR.png" group-title="TV-1", 086 Disney JR
 http://10.11.11.11/DisneyJR/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV-1", 087 Pogo
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/cGpyRmw/Pogo.png" group-title="TV-1", 087 Pogo
 http://10.11.11.11/POGO/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV-1", 088 Sony Yay
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/4RgLCtWy/Sony-Yay.png" group-title="TV-1", 088 Sony Yay
 http://10.11.11.11/SONYYAY/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV-1", 089 Sonic 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/pvxDgHcz/nickelodeon-Sonic.png" group-title="TV-1", 089 Sonic 
 http://10.11.11.11/SONIC/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV-1", 090 Hungama
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Nzczjtk/Hungama.png" group-title="TV-1", 090 Hungama
 http://10.11.11.11/HUNGAMA/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV-1", 091 Super Hungama
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/JFzCZVH0/Super-Hungama.png" group-title="TV-1", 091 Super Hungama
 http://10.11.11.11/SUPERHUNGAMA/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV-1", 092 ETV Bal Bharat
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/zTmgpp25/ETV-Bal-Bharat.png" group-title="TV-1", 092 ETV Bal Bharat
 http://10.11.11.11/ETVBalBharat/index.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="TV-1", 093 Songeet Bangla
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/KxD5C7SY/Songeet-Bangla.png" group-title="TV-1", 093 Songeet Bangla
 http://10.11.11.11/SangeetBangla/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV-1", 094 Zoom Music
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/dJsYt1yC/Zoom-Music.png" group-title="TV-1", 094 Zoom Music
 http://10.11.11.11/ZOOM/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV-1", 095 Zing Music
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/RkVTH69D/Zing-Music.png" group-title="TV-1", 095 Zing Music
 http://10.11.11.11/ZING/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV-1", 096 9xm
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/x8wyCtjF/9xm.png" group-title="TV-1", 096 9xm
 http://10.11.11.11/9xm/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV-1", 097 Music India
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ynVz7tFL/Music-India.png" group-title="TV-1", 097 Music India
 http://10.11.11.11/MusicIndia/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV-1", 098 MTV
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/tTZKwb3w/MTV.png" group-title="TV-1", 098 MTV
 http://10.11.11.11/MTV/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="TV-1", 099 Al Jazeera
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7xKtWvL7/Al-Jazeera.png" group-title="TV-1", 099 Al Jazeera
 http://10.11.11.11/ALJAZEETAHD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV-1", 100 BBC News
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TDjmxs3C/BBC-World.png" group-title="TV-1", 100 BBC News
 http://10.11.11.11/BBCNews/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV-1", 101 Geo News
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/zVqLF0sv/Geo-News.png" group-title="TV-1", 101 Geo News
 http://10.11.11.11/GEONEWSHD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV-1", 102 HUM TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1GCqWxbb/HUM.png" group-title="TV-1", 102 HUM TV
 http://10.11.11.11/HUMTV/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/k2sVFM25/Fifa-26.png" group-title="TV-1", 000
