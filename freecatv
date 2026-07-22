@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/fGNQbZnM/Live-Logo.png" group-title="TV-1", 000 Sport Live
-http://10.11.11.2:8083/Fifa2026/index.m3u8
+http://10.11.11.2:8083/Sports/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/yB7zMQc3/BTV.png" group-title="TV-1", 001 BTV
 http://10.11.11.2:8083/BTV/index.m3u8
