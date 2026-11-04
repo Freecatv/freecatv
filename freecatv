@@ -214,8 +214,3 @@ http://redsky.dlsports.top/stream.m3u8?id=55
 http://redsky.dlsports.top/stream.m3u8?id=90
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/1GCqWxbb/HUM.png" group-title="TV-1", 102 HUM TV
 http://redsky.dlsports.top/stream.m3u8?id=89
-
-#EXTINF:-1 tvg-logo="assets/images/SSC SPORTS1748857273.png" group-title="TV-1", 103 SSC Sports
-http://redsky.dlsports.top/stream.m3u8?id=105
-#EXTINF:-1 tvg-logo="http://redforce.live/assets/images/SSC SPORTS 5 HD1748857080.png" group-title="TV-1", 104 SSC Sports 5 HD
-http://redsky.dlsports.top/stream.m3u8?id=104
