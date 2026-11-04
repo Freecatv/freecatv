@@ -3,9 +3,9 @@
 http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/yB7zMQc3/BTV.png" group-title="TV-1", 001 BTV
-http://10.11.11.2:8083/BTV/index.m3u8
+http://redsky.dlsports.top/stream.m3u8?id=109
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/RGWJwQVs/T-Sports.png" group-title="TV-1", 002 T Sports HD
-http://10.11.11.2:8083/TSPORTS/index.m3u8
+http://redsky.dlsports.top/stream.m3u8?id=1
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/0R9zFnJh/Somoy-TV.png" group-title="TV-1", 003 Somoy News
 http://10.11.11.2:8083/SOMOYTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Fb7fX8CM/ATN-Bangla.png" group-title="TV-1", 004 ATN Bangla
